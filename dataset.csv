@@ -1,16 +1,16 @@
 Name,Price,Category,Question,Answer,Company
 Oreo,20,Biscuit,What is Oreo?,Oreo is sandwich cookie consisting of two chocolate wafers with a sweet creme filling biscuit.,LU
-Cocomo,10,Biscuit,What is Cocomo?,Cocomo is a crunchy biscuit with a creamy chocolate filling with different chocolate flavors ,
-Special,20,Biscuit,What is Special?,"Mayfair Special is a type of crunchy, sweet, and golden biscuit",
-Sooper,20,Biscuit,What is Sooper?,Sooper is egg and milk flavor biscuit,
-Milcolu,20,Biscuit,What is Milcolu?,"Milcolu is a double milk sandwich biscuit, it has a creamy, rich milk-flavored filling between two crunchy biscuits",
-Milkabisk,20,Biscuit,What is Milkabisk?,Milkabisk is a milk and wheat biscuit,
-Butter Puff,20,Biscuit,What is Butter Puff?,"Butter Puff biscuit is a flaky, airy biscuit or cracker with a rich, buttery flavor and a crispy texture",
-Marie,20,Biscuit,What is Marie?,"Marie biscuit is a thin, dry, round, and slightly sweet biscuit",
-Peanut Pik,20,Biscuit,What is Peanut Pik?,"Peanut Pik biscuit is a crunchy, nutty snack biscuit ",
-Gala,20,Biscuit,What is Gala?,"Gala is a light, crispy, and slightly sweet biscuit",
-Candy,20,Biscuit,What is Candy?,Candy is a hard dark biscuit filled with sugar,
-Peanut Pista,20,Biscuit,What is Peanut Pista?,peanut pista biscuit is a type of crunchy biscuit made with a mix of peanuts and pistachios,
+Cocomo,10,Biscuit,What is Cocomo?,Cocomo is a crunchy biscuit with a creamy chocolate filling with different chocolate flavors ,CandyLand
+Special,20,Biscuit,What is Special?,"Mayfair Special is a type of crunchy, sweet, and golden biscuit",Hilal
+Sooper,20,Biscuit,What is Sooper?,Sooper is egg and milk flavor biscuit,Hilal
+Milcolu,20,Biscuit,What is Milcolu?,"Milcolu is a double milk sandwich biscuit, it has a creamy, rich milk-flavored filling between two crunchy biscuits",Hilal
+Milkabisk,20,Biscuit,What is Milkabisk?,Milkabisk is a milk and wheat biscuit,LU
+Butter Puff,20,Biscuit,What is Butter Puff?,"Butter Puff biscuit is a flaky, airy biscuit or cracker with a rich, buttery flavor and a crispy texture",LU 
+Marie,20,Biscuit,What is Marie?,"Marie biscuit is a thin, dry, round, and slightly sweet biscuit",Hilal
+Peanut Pik,20,Biscuit,What is Peanut Pik?,"Peanut Pik biscuit is a crunchy, nutty snack biscuit ",Hilal
+Gala,20,Biscuit,What is Gala?,"Gala is a light, crispy, and slightly sweet biscuit",LU 
+Candy,20,Biscuit,What is Candy?,Candy is a hard dark biscuit filled with sugar,CandyLand
+Peanut Pista,20,Biscuit,What is Peanut Pista?,peanut pista biscuit is a type of crunchy biscuit made with a mix of peanuts and pistachios,Hilal
 Rio,20,Biscuit,What is Rio?,Rio is a vanilla cream biscuit,
 Prince,20,Biscuit,What is Prince?,Prince is chocolate cream biscuit,LU
 Day Dream,20,Biscuit,What is Day Dream?,Day Dream is a dark chocolate biscuit,
