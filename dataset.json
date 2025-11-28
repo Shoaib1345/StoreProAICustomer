@@ -1,0 +1,1571 @@
+[
+    {
+        "input":"What is Oreo?",
+        "Answer":"Oreo is sandwich cookie consisting of two chocolate wafers with a sweet creme filling biscuit."
+    },
+    {
+        "input":"What is Cocomo?",
+        "Answer":"Cocomo is a crunchy biscuit with a creamy chocolate filling with different chocolate flavors "
+    },
+    {
+        "input":"What is Special?",
+        "Answer":"Mayfair Special is a type of crunchy, sweet, and golden biscuit"
+    },
+    {
+        "input":"What is Sooper?",
+        "Answer":"Sooper is egg and milk flavor biscuit"
+    },
+    {
+        "input":"What is Milcolu?",
+        "Answer":"Milcolu is a double milk sandwich biscuit, it has a creamy, rich milk-flavored filling between two crunchy biscuits"
+    },
+    {
+        "input":"What is Milkabisk?",
+        "Answer":"Milkabisk is a milk and wheat biscuit"
+    },
+    {
+        "input":"What is Butter Puff?",
+        "Answer":"Butter Puff biscuit is a flaky, airy biscuit or cracker with a rich, buttery flavor and a crispy texture"
+    },
+    {
+        "input":"What is Marie?",
+        "Answer":"Marie biscuit is a thin, dry, round, and slightly sweet biscuit"
+    },
+    {
+        "input":"What is Peanut Pik?",
+        "Answer":"Peanut Pik biscuit is a crunchy, nutty snack biscuit "
+    },
+    {
+        "input":"What is Gala?",
+        "Answer":"Gala is a light, crispy, and slightly sweet biscuit"
+    },
+    {
+        "input":"What is Candy?",
+        "Answer":"Candy is a hard dark biscuit filled with sugar"
+    },
+    {
+        "input":"What is Peanut Pista?",
+        "Answer":"peanut pista biscuit is a type of crunchy biscuit made with a mix of peanuts and pistachios"
+    },
+    {
+        "input":"What is Rio?",
+        "Answer":"Rio is a vanilla cream biscuit"
+    },
+    {
+        "input":"What is Prince?",
+        "Answer":"Prince is chocolate cream biscuit"
+    },
+    {
+        "input":"What is Day Dream?",
+        "Answer":"Day Dream is a dark chocolate biscuit"
+    },
+    {
+        "input":"What is Tuc?",
+        "Answer":"Tuc is a salty, crispy cracker biscuit"
+    },
+    {
+        "input":"What is Tiger?",
+        "Answer":"Tiger is a energy-boosting biscuit"
+    },
+    {
+        "input":"What is Zeera Plus?",
+        "Answer":"Zeera Plus is a baked biscuit with Zeera"
+    },
+    {
+        "input":"What is Chocolate Chip?",
+        "Answer":"Chocolate Chip is a baked cookies biscuit sprinkled with chips"
+    },
+    {
+        "input":"What is Hilal Cup cake?",
+        "Answer":"Hilal Cupkakes are soft, moist sponge cakes that come with a creamy or gooey filling at the center"
+    },
+    {
+        "input":"What is Sooper Cake?",
+        "Answer":"Sooper cake is a light fluffy plain cake"
+    },
+    {
+        "input":"What is Hoest?",
+        "Answer":"Hoest candy refers to a range of candies produced by the Hoest confectionery company, which includes throat lozenges to soothe coughs and sore throats, and other confectionery products like mints, butter toffees, and chocolate-filled candies"
+    },
+    {
+        "input":"What is Chaska?",
+        "Answer":"Chaska candy is a popular, tangy, and fruity flavored candy, often a green mango or amrood flavor"
+    },
+    {
+        "input":"What is Hajmola Imli?",
+        "Answer":"Hajmola Imli candy is a popular Indian candy made with tamarind that is known for its tangy and sweet flavor and is also marketed for its digestive benefits"
+    },
+    {
+        "input":"What is Chooran Chatni?",
+        "Answer":"Choran Chatni candy is a sweet and tangy Pakistani hard candy, often coated in a smooth shell, that features a mix of traditional chutney flavors like tamarind and red chili, and is infused with spices"
+    },
+    {
+        "input":"What is Aamrus?",
+        "Answer":"Aamrus candy is a tropical, mango-flavored hard candy, often with a soft or juicy mango-flavored center"
+    },
+    {
+        "input":"What is Frooto Apple?",
+        "Answer":"rooto Apple is a type of small, chewy candy with a soft crunch"
+    },
+    {
+        "input":"What is Panpasand?",
+        "Answer":"Pan Pasand is a traditional Pakistani candy that combines the flavors of traditional \"pan\" ingredients like aniseed, desiccated coconut, and mint"
+    },
+    {
+        "input":"What is Eclairs?",
+        "Answer":"Eclairs candy is a chewy toffee sweet with a chocolate center"
+    },
+    {
+        "input":"What is Frooto Amrood?",
+        "Answer":"Frooto Amrood candy is a type of hard or soft-crunch candy from Pakistan that is flavored like guava"
+    },
+    {
+        "input":"What is Frooto Orange?",
+        "Answer":"Frooto Orange is a type of fruity, orange-flavored candy"
+    },
+    {
+        "input":"What is Softmint ice?",
+        "Answer":"Softmint ice candy is a type of hard-shell, chewy mint candy with a cool and refreshing taste"
+    },
+    {
+        "input":"What is Frooto?",
+        "Answer":"Frooto candy is a brand of fruit-flavored, center-filled chewy candies"
+    },
+    {
+        "input":"What is Fruit Gala?",
+        "Answer":"Fruit Gala is a Chewy, soft, and stretchy fruit-flavored candy"
+    },
+    {
+        "input":"What is Fanta?",
+        "Answer":"anta candy is a line of fruit-flavored candies, most commonly orange-flavored, inspired by the taste of Fanta soda"
+    },
+    {
+        "input":"What is Khopra?",
+        "Answer":"Khopra candy is a sweet and chewy confectionery made with a coconut filling and a milky or caramel outer shell"
+    },
+    {
+        "input":"What is Mentos?",
+        "Answer":"Mentos are a brand of chewy candies known for their hard exterior and soft, chewy interior"
+    },
+    {
+        "input":"What is Bubble Pop?",
+        "Answer":"Bubble Pop Chew Gum is a specific brand of bubble gum, like CandyLand or Trident, known for its chewy, stretchy texture designed for blowing large bubbles"
+    },
+    {
+        "input":"What is Joe Soft?",
+        "Answer":"Joe Soft Bubble is a chewy bubble gum with a soft outer layer and a sour filling"
+    },
+    {
+        "input":"What is Ding Dong?",
+        "Answer":"Ding Dong is a brand of bubble gum from Pakistan, made by Hilal Foods, known for its soft, chewy texture, long-lasting flavor, and ability to blow large bubbles"
+    },
+    {
+        "input":"What is Boom Boom?",
+        "Answer":"It is a fruity, soft, and chewy bubble gum that comes in various pack sizes, and is popular in Pakistan"
+    },
+    {
+        "input":"What is Fresh up?",
+        "Answer":"Fresh Up Bubble is a type of bubble gum made by Hilal Foods, available in various flavors like spearmint and strawberry"
+    },
+    {
+        "input":"What is Lays?",
+        "Answer":"Lay's is a brand of potato chips"
+    },
+    {
+        "input":"What is Wavy?",
+        "Answer":"Wavy Lays are a line of potato chips by Lay's that have a thick, crispy texture with deep ridges, making them ideal for dipping"
+    },
+    {
+        "input":"What is Slanty?",
+        "Answer":"Slanty chips are a popular, light, and crunchy snack made from potato starch, potato flakes, and vegetable oil"
+    },
+    {
+        "input":"What is Kurkure?",
+        "Answer":"Kurkure is crunchy, puffed snacks made from rice, corn, and lentils"
+    },
+    {
+        "input":"What is Kurleez?",
+        "Answer":"Kurleez are a brand of crispy, crunchy potato chips"
+    },
+    {
+        "input":"What is Cheetos?",
+        "Answer":"Cheetos are a puffed cornmeal snack, similar to a crunchy or puffy corn curl"
+    },
+    {
+        "input":"What is Now?",
+        "Answer":"Now is a crispy and crunchy wafer bar with a chocolate filling"
+    },
+    {
+        "input":"What is Paradise?",
+        "Answer":"Paradise is a coconut-filled chocolate bar"
+    },
+    {
+        "input":"What is Jubilee?",
+        "Answer":"Jubilee is a creamy, rich milk chocolate"
+    },
+    {
+        "input":"What is Sonnet?",
+        "Answer":"Sonnet is a smooth milk chocolate with a crunchy peanut and creamy fudge or caramel interior"
+    },
+    {
+        "input":"What is Snickers?",
+        "Answer":"Snickers bars are a combination of smooth nougat, chewy caramel, roasted peanuts, and milk chocolate"
+    },
+    {
+        "input":"What is Dairy Milk?",
+        "Answer":"Dairy milk is a milk chocolate produced by Cadbury, known for its smooth, creamy texture"
+    },
+    {
+        "input":"What is Capstan?",
+        "Answer":"A Capstan cigarette is a British brand of cigarettes, currently owned by Imperial Brands"
+    },
+    {
+        "input":"What is Gold Leaf?",
+        "Answer":"A Gold Leaf cigarette is a specific brand of cigarette, most notably John Player Gold Leaf, popular in countries like Pakistan, Bangladesh, and others in South Asia and the Persian Gulf"
+    },
+    {
+        "input":"What is Gold Flake?",
+        "Answer":"Gold Flake is a brand of cigarettes produced by ITC, a company in India"
+    },
+    {
+        "input":"What is Dunhill?",
+        "Answer":"Dunhill is a British cigarette brand owned and manufactured by Alfred Dunhill Limited and British American Tobacco"
+    },
+    {
+        "input":"What is Morven Gold?",
+        "Answer":"Morven Gold is a brand of cigarette"
+    },
+    {
+        "input":"What is John Player?",
+        "Answer":"John Player is a brand of cigarettes, originally founded in Nottingham, England, with a long history in the tobacco industry"
+    },
+    {
+        "input":"What is Marlobolo Crafted?",
+        "Answer":"Marlboro Crafted is a specific type of Marlboro cigarette, often a more affordable, regionally-produced version"
+    },
+    {
+        "input":"What is Pine?",
+        "Answer":"Pine Lights American Taste delivers a light, smooth smoking experience"
+    },
+    {
+        "input":"What is Dot?",
+        "Answer":"Dot is a condom"
+    },
+    {
+        "input":"What is Josh?",
+        "Answer":"Josh is a brand of condoms, manufactured in Pakistan and distributed internationally by DKT International"
+    },
+    {
+        "input":"What is Durex?",
+        "Answer":"Durex is a Condomondom"
+    },
+    {
+        "input":"What is Sathi?",
+        "Answer":"Sathi is a condom"
+    },
+    {
+        "input":"What is Blueband?",
+        "Answer":"Blue Band is a brand of plant-based margarine and spreads made from vegetable oils, known for its use in breakfasts and cooking"
+    },
+    {
+        "input":"What is Olpers Cream?",
+        "Answer":"Olpers Cream is a thick, creamy, and versatile UHT (ultra-high temperature processed) dairy cream made from 100% milk"
+    },
+    {
+        "input":"What is Milkpak Cream?",
+        "Answer":"Milkpak cream is a versatile dairy cream brand from Nestl\u00e9 in Pakistan, used in both sweet and savory dishes to add richness and a creamy texture"
+    },
+    {
+        "input":"What is Nurpur Cream?",
+        "Answer":"Nurpur cream is a rich and thick dairy cream produced by Fauji Foods Limited in Pakistan"
+    },
+    {
+        "input":"What is Jelly Banana?",
+        "Answer":"Jelly banana by National is a sweet, banana-flavored jelly"
+    },
+    {
+        "input":"What is Jelly Mixed Fruit?",
+        "Answer":"National Mixed Fruit Jelly is a quick dessert mix from the brand National Foods that features a blend of sweet and tangy mixed fruit flavors"
+    },
+    {
+        "input":"What is Sunlight?",
+        "Answer":"Sunlight dishwashing liquid is formulated to cut through tough grease and burnt-on food"
+    },
+    {
+        "input":"What is Bonus?",
+        "Answer":"Bonus is a brand of detergent powder, primarily sold in Pakistan, that aims to provide an effective and fragrant clean"
+    },
+    {
+        "input":"What is Ariel?",
+        "Answer":"Ariel detergent is a brand of laundry detergent owned by Procter & Gamble that is designed to remove tough stains and clean clothes effectively, both in automatic washing machines and by hand"
+    },
+    {
+        "input":"What is Surf Excel?",
+        "Answer":"Surf Excel is a laundry detergent used to clean clothes"
+    },
+    {
+        "input":"What is Brite?",
+        "Answer":"Brite is a detergent designed to remove tough stains, brighten whites, and keep colors vibrant"
+    },
+    {
+        "input":"What is Pampers?",
+        "Answer":"Pampers is a brand of baby care products, most notably disposable diapers and wipes"
+    },
+    {
+        "input":"What is Bona Papa?",
+        "Answer":"Bona Papa is a leading Pakistani brand of baby hygiene products, including diapers, pants, and wipes"
+    },
+    {
+        "input":"What is Canbebe?",
+        "Answer":"Canbebe is a brand of baby diapers and hygiene products "
+    },
+    {
+        "input":"What is Royal Ozone?",
+        "Answer":"Royal Ozone is a brand name for a line of baby products, primarily diapers and baby wipes"
+    },
+    {
+        "input":"What is Gastril?",
+        "Answer":"Gastril is a medication used to treat acidity, heartburn, and stomach ulcers"
+    },
+    {
+        "input":"What is Vermicelli?",
+        "Answer":null
+    },
+    {
+        "input":"What is Quorma?",
+        "Answer":null
+    },
+    {
+        "input":"What is Biryani?",
+        "Answer":null
+    },
+    {
+        "input":"What is Coriander?",
+        "Answer":null
+    },
+    {
+        "input":"What is Kasuri Methi?",
+        "Answer":null
+    },
+    {
+        "input":"What is Garam Masala?",
+        "Answer":null
+    },
+    {
+        "input":"What is Bombay Biryani?",
+        "Answer":null
+    },
+    {
+        "input":"What is Eggs?",
+        "Answer":"A chicken egg is an oval object laid by a female chicken, or hen, which can be either fertilized or unfertilized. It consists of a hard, protective shell, an inner white (albumen), and a yellow yolk, and serves as a rich source of protein and other nutrients"
+    },
+    {
+        "input":"What is Rice?",
+        "Answer":null
+    },
+    {
+        "input":"What is Sugar?",
+        "Answer":null
+    },
+    {
+        "input":"What is Flour?",
+        "Answer":null
+    },
+    {
+        "input":"What is Pebbles?",
+        "Answer":null
+    },
+    {
+        "input":"What is Wobbly?",
+        "Answer":null
+    },
+    {
+        "input":"What is Peach Jelly?",
+        "Answer":null
+    },
+    {
+        "input":"What is Gummy Bear?",
+        "Answer":null
+    },
+    {
+        "input":"What is Jelly Fish?",
+        "Answer":null
+    },
+    {
+        "input":"What is Jello Bello?",
+        "Answer":null
+    },
+    {
+        "input":"What is Berries?",
+        "Answer":null
+    },
+    {
+        "input":"What is Jelly Strawberry?",
+        "Answer":null
+    },
+    {
+        "input":"What is Amrood Jelly?",
+        "Answer":null
+    },
+    {
+        "input":"What is Fizzi O?",
+        "Answer":null
+    },
+    {
+        "input":"What is Anda?",
+        "Answer":null
+    },
+    {
+        "input":"What is ABC?",
+        "Answer":null
+    },
+    {
+        "input":"What is Chilli Milli?",
+        "Answer":null
+    },
+    {
+        "input":"What is Twisto?",
+        "Answer":null
+    },
+    {
+        "input":"What is Polly?",
+        "Answer":"Polly Juice is a brand of fruit juice and juice drinks produced by the Pakistani company"
+    },
+    {
+        "input":"What is Fruita Vitals Apple?",
+        "Answer":"Nestl\u00e9 Fruita Vitals Apple Juice is a branded line of apple juice and fruit nectar from Nestl\u00e9"
+    },
+    {
+        "input":"What is Fruita Vitals Red Anaar?",
+        "Answer":"Fruita Vitals Red Anaar juice is a pomegranate-flavored fruit nectar made by Nestl\u00e9, known for its rich, deep flavor and antioxidant properties"
+    },
+    {
+        "input":"What is Pakola?",
+        "Answer":"Pakola is a brand of Pakistani beverages, known for both its green-colored, ice-cream soda-flavored carbonated soft drink and its range of milk-based and fruit juices"
+    },
+    {
+        "input":"What is Rani Peach?",
+        "Answer":"Rani peach juice is a fruit juice drink with real peach chunks or pulp, known for its \"shake, drink, and chew\" experience"
+    },
+    {
+        "input":"What is Rani Orange?",
+        "Answer":"Rani orange juice is a brand of fruit-based juice drink known for its signature \"Float\" line, which contains real fruit pieces or chunks in a refreshing juice blend"
+    },
+    {
+        "input":"What is Nesfruita?",
+        "Answer":"Nesfruta is a brand of fruit-flavored beverages made by Nestl\u00e9. Available in flavors like apple and mango"
+    },
+    {
+        "input":"What is Slice?",
+        "Answer":"Slice is a mango-flavored fruit juice, popular in South Asia, made with mango pulp and marketed as a refreshing and tasty drink"
+    },
+    {
+        "input":"What is Nesfruita Red Grapes?",
+        "Answer":"Nestl\u00e9 Fruita Vitals Red Grapes Juice is a fruit drink brand from Pakistan that comes in different fruit juice content percentages, such as 35% or 50%"
+    },
+    {
+        "input":"What is Chilli Garlic Sauce?",
+        "Answer":"National Chilli Garlic Sauce is a versatile condiment from National Foods that combines spicy chili peppers and aromatic garlic to create a bold, savory, and hot flavor"
+    },
+    {
+        "input":"What is Tomato Ketchup?",
+        "Answer":"National Tomato Ketchup is a thick, flavorful condiment made by National Foods from real tomatoes and a blend of spices"
+    },
+    {
+        "input":"What is Nurpur?",
+        "Answer":"Nurpur milk is a brand of dairy products, particularly known for its full-cream milk"
+    },
+    {
+        "input":"What is Olpers?",
+        "Answer":"Olpers is a full cream, flavored, and high-calcium low-fat milk"
+    },
+    {
+        "input":"What is Dostea?",
+        "Answer":"Dostea milk is a liquid tea creamer"
+    },
+    {
+        "input":"What is Milkpak?",
+        "Answer":"Milkpak is a popular dairy product brand from Nestl\u00e9, primarily sold in Pakistan, that includes a variety of items like full-cream milk and cream"
+    },
+    {
+        "input":"What is Tarang?",
+        "Answer":"Tarang milk is a popular UHT (Ultra-High Temperature) dairy-based tea whitener made by Engro Foods in Pakistan"
+    },
+    {
+        "input":"What is Adaab?",
+        "Answer":null
+    },
+    {
+        "input":"What is Rajni?",
+        "Answer":null
+    },
+    {
+        "input":"What is Pan Parag?",
+        "Answer":null
+    },
+    {
+        "input":"What is Mughlia?",
+        "Answer":null
+    },
+    {
+        "input":"What is Lunch Time?",
+        "Answer":null
+    },
+    {
+        "input":"What is Ballay Ballay?",
+        "Answer":null
+    },
+    {
+        "input":"What is Shoop Chicken?",
+        "Answer":null
+    },
+    {
+        "input":"What is Knor Chicken?",
+        "Answer":null
+    },
+    {
+        "input":"What is Shoop Chatpata?",
+        "Answer":null
+    },
+    {
+        "input":"What is Knor Chatpata?",
+        "Answer":null
+    },
+    {
+        "input":"What is Mixed Pickle?",
+        "Answer":null
+    },
+    {
+        "input":"What is Trim?",
+        "Answer":null
+    },
+    {
+        "input":"What is Treet?",
+        "Answer":null
+    },
+    {
+        "input":"What is Trig?",
+        "Answer":null
+    },
+    {
+        "input":"What is Gillete?",
+        "Answer":null
+    },
+    {
+        "input":"What is Butterfly?",
+        "Answer":null
+    },
+    {
+        "input":"What is Always?",
+        "Answer":null
+    },
+    {
+        "input":"What is Embrace?",
+        "Answer":null
+    },
+    {
+        "input":"What is Sunsilk?",
+        "Answer":null
+    },
+    {
+        "input":"What is Head n Shoulder?",
+        "Answer":null
+    },
+    {
+        "input":"What is Tresseme?",
+        "Answer":null
+    },
+    {
+        "input":"What is Lifebouy Shampoo?",
+        "Answer":null
+    },
+    {
+        "input":"What is Clear?",
+        "Answer":null
+    },
+    {
+        "input":"What is Power Plus?",
+        "Answer":"wer Plus is a brand of shoe polish available in various formats, such as liquid, cream, and instant shiner, designed to clean, shine, and protect leather and synthetic shoes"
+    },
+    {
+        "input":"What is Kiwi?",
+        "Answer":"Kiwi shoe polish is a brand of shoe polish used to clean, shine, and protect leather footwear"
+    },
+    {
+        "input":"What is Cherry Blososom?",
+        "Answer":"Cherry Blossom shoe polish is a brand of shoe care products, primarily a wax and oil-based polish, that is designed to clean, condition, and shine smooth leather shoes"
+    },
+    {
+        "input":"What is Lifebouy?",
+        "Answer":"Lifebuoy is a brand of soap, originally famous for its carbolic acid content, that is now marketed as a germ-protection soap with various formulations for hand and body hygiene"
+    },
+    {
+        "input":"What is Hari?",
+        "Answer":"Hari is a laundry bar soap"
+    },
+    {
+        "input":"What is Safeguard?",
+        "Answer":"Safeguard is an antibacterial soap"
+    },
+    {
+        "input":"What is Pears?",
+        "Answer":"Pears is a glycerin-based soap"
+    },
+    {
+        "input":"What is Tibet?",
+        "Answer":"TIbet is a daily cleansing soap"
+    },
+    {
+        "input":"What is Palmolive?",
+        "Answer":"Palmolive is a brand of personal care and cleaning products produced by Colgate-Palmolive"
+    },
+    {
+        "input":"What is Dettol?",
+        "Answer":"Dettol soap is an antibacterial bar soap designed to cleanse the skin and protect against germs that cause body odor and skin infections"
+    },
+    {
+        "input":"What is Lux?",
+        "Answer":"Lux soap is a brand of beauty soap produced by Unilever, known for its luxurious fragrances and skin-nourishing properties rather than strong antibacterial effects"
+    },
+    {
+        "input":"What is Dove?",
+        "Answer":"Dove is a Beauty Bar, a cleansing product that is different from traditional bar soaps because it contains 1\/4 moisturizing cream"
+    },
+    {
+        "input":"What is Mountain Dew?",
+        "Answer":"Mountain Dew is a citrus-flavored, caffeinated carbonated soft drink"
+    },
+    {
+        "input":"What is Fizz Up?",
+        "Answer":"Fizz Up is a low-carb, sugar-free, and sparkling drink"
+    },
+    {
+        "input":"What is Pepsi Diet?",
+        "Answer":"Diet Pepsi is a sugar-free, zero-calorie version of the classic Pepsi cola that uses artificial sweeteners to provide the same flavor without the sugar"
+    },
+    {
+        "input":"What is Sting?",
+        "Answer":"Sting is a carbonated energy drink"
+    },
+    {
+        "input":"What is Mirinda?",
+        "Answer":"Mirinda is a carbonated fruit-flavored soft drink"
+    },
+    {
+        "input":"What is Fanta?",
+        "Answer":"Fanta is a fizzy, fruity, and tangy taste drink"
+    },
+    {
+        "input":"What is 7Up?",
+        "Answer":"7UP is a brand of lemon-lime-flavored, non-caffeinated soft drink"
+    },
+    {
+        "input":"What is Sprite?",
+        "Answer":"Sprite is a caffeine-free, lemon-lime flavored soft drink"
+    },
+    {
+        "input":"What is Coca Cola?",
+        "Answer":"Coca-Cola is a sweet, carbonated beverage"
+    },
+    {
+        "input":"What is Pepsi?",
+        "Answer":"Pepsi is a carbonated soft drink with a cola flavor"
+    },
+    {
+        "input":"What is Cola Next?",
+        "Answer":"Cola Next is a classic cola flavor, balancing sweetness with a tangy and fizzy taste drink"
+    },
+    {
+        "input":"What is Rajput?",
+        "Answer":"Rajput Supari is a type of sweet areca nut (supari) mouth freshener, often marketed as \"Rajput Gold\""
+    },
+    {
+        "input":"What is Jambola?",
+        "Answer":"Jambola supari is a type of sweet mouth freshener made from betel nuts, flavored, and often infused with menthol and other spices"
+    },
+    {
+        "input":"What is Tara?",
+        "Answer":"Tara Supari, specifically Tara Gold Sweet Supari, is a brand of sweet betel nut (areca nut) mouth freshener popular in Pakistan"
+    },
+    {
+        "input":"What is Dillagi?",
+        "Answer":"Dillagi supari is a sweet, flavored betel nut product commonly used as a traditional Indian and Pakistani mouth freshener and digestive aid"
+    },
+    {
+        "input":"What is Tasty Gold?",
+        "Answer":"Tasty Gold is a mouth freshner supari"
+    },
+    {
+        "input":"What is Andlip?",
+        "Answer":"Andleeb supari is a specific brand of sweet, traditional Pakistani mouth freshener made from areca nuts that are sweetened with sugar, artificial flavors, and menthol"
+    },
+    {
+        "input":"What is Hum Tum?",
+        "Answer":"Hum Tum Supari is a popular sweet, aromatic mouth freshener from Pakistan, made primarily from betel nuts (supari) mixed with a variety of other ingredients like fennel, sesame, aniseed, and a chocolate flavor"
+    },
+    {
+        "input":"What is Naz?",
+        "Answer":"Naz supari is a popular Pakistani sweet mouth freshener made from areca nut (betel nut), flavored with a sweet and aromatic blend of spices, sugar, fennel seeds, and coconut"
+    },
+    {
+        "input":"What is Sanam Gold?",
+        "Answer":"Sanam Gold Supari is a type of sweet betel nut confection, often sold as a candy or after-meal treat, that is typically found in a gold-colored wrapper"
+    },
+    {
+        "input":"What is Tulsi?",
+        "Answer":"Tulsi supari is a traditional South Asian mouth freshener that combines betel nut (\\(supari\\)) with sweet, aromatic ingredients, including tulsi (holy basil) leaves. It is made with a blend of ingredients like fennel seeds, cardamom, and sugar, offering a sweet, refreshing, and aromatic flavor profile that is used as a digestive aid after meals or as a social treat"
+    },
+    {
+        "input":"What is Shahi Deluxe?",
+        "Answer":"Shahi Deluxe Supari is a popular herbal mouth freshener made with a blend of ingredients like fennel seeds, dry dates, cardamom, and menthol"
+    },
+    {
+        "input":"What is Kashmiri Gold?",
+        "Answer":"Kashmiri Gold Supari is a premium mouth freshener made from a blend of betel nuts (supari), natural flavors, mint, sweeteners, and sometimes silver leaves or dry fruits"
+    },
+    {
+        "input":"What is Jam e shirin?",
+        "Answer":"Jam-e-Shirin is a brand of refreshing herbal syrup, often made from distillates of natural herbs and known for its pleasant taste and fragrance"
+    },
+    {
+        "input":"What is Pakola?",
+        "Answer":"Pakola syrup is a liquid concentrate made from ingredients like refined sugar and fruit essence, depending on the flavor"
+    },
+    {
+        "input":"What is Quice?",
+        "Answer":"Quice syrup is a brand of concentrated syrup, available as both an ice cream topping and a beverage mix (often called Rooh-e-Shireen), made from distillates of natural herbs and fruit juices"
+    },
+    {
+        "input":"What is Vital?",
+        "Answer":"Vital Tea is a brand of tea, primarily popular in Pakistan, that offers various types of tea including black, green, and herbal blends"
+    },
+    {
+        "input":"What is Green Tea?",
+        "Answer":"Green tea is a type of tea made from the Camellia sinensis plant that is minimally oxidized because its leaves are quickly heated after harvesting to prevent oxidation"
+    },
+    {
+        "input":"What is Lipton?",
+        "Answer":"Lipton is a popular brand known for its tea products, including hot tea bags, loose leaf tea, and ready-to-drink iced tea"
+    },
+    {
+        "input":"What is Tapal Danedar?",
+        "Answer":"Tapal Danedar is a premium black tea brand from Pakistan, known for its strong, rich flavor and aroma"
+    },
+    {
+        "input":"What is Supreme?",
+        "Answer":"Brooke Bond Supreme Tea - Royal-E-MartSupreme Tea is a brand of black tea, primarily known as Brooke Bond Supreme"
+    },
+    {
+        "input":"What is Synthetic Vinegar?",
+        "Answer":"Synthetic vinegar is vinegar produced through a chemical process, unlike naturally fermented vinegar, and is essentially a solution of chemically synthesized acetic acid and water"
+    },
+    {
+        "input":"What is Novita Orange?",
+        "Answer":"Novita orange is a four-layered wafer with three layers of orange-flavored cream filling"
+    },
+    {
+        "input":"What is Novita Chocolate?",
+        "Answer":"Novita chocolate is a four-layered wafer with three layers of orange-flavored cream filling"
+    },
+    {
+        "input":"What is Wispy?",
+        "Answer":"Wispy Wafers are a brand of crispy, thin, and light wafer rolls"
+    },
+    {
+        "input":"What is Nestle?",
+        "Answer":"Nestle pure life a mineral water"
+    },
+    {
+        "input":"What is Aquafina?",
+        "Answer":"Aquafina is a drinking water"
+    },
+    {
+        "input":"What is Atco?",
+        "Answer":"Atco is a water"
+    },
+        {
+        "input":"What is the price of Oreo?",
+        "output":"The price of Oreo is 20rs"
+    },
+    {
+        "input":"What is the price of Cocomo?",
+        "output":"The price of Cocomo is 10rs"
+    },
+    {
+        "input":"What is the price of Special?",
+        "output":"The price of Special is 20rs"
+    },
+    {
+        "input":"What is the price of Sooper?",
+        "output":"The price of Sooper is 20rs"
+    },
+    {
+        "input":"What is the price of Milcolu?",
+        "output":"The price of Milcolu is 20rs"
+    },
+    {
+        "input":"What is the price of Milkabisk?",
+        "output":"The price of Milkabisk is 20rs"
+    },
+    {
+        "input":"What is the price of Butter Puff?",
+        "output":"The price of Butter Puff is 20rs"
+    },
+    {
+        "input":"What is the price of Marie?",
+        "output":"The price of Marie is 20rs"
+    },
+    {
+        "input":"What is the price of Peanut Pik?",
+        "output":"The price of Peanut Pik is 20rs"
+    },
+    {
+        "input":"What is the price of Gala?",
+        "output":"The price of Gala is 20rs"
+    },
+    {
+        "input":"What is the price of Candy?",
+        "output":"The price of Candy is 20rs"
+    },
+    {
+        "input":"What is the price of Peanut Pista?",
+        "output":"The price of Peanut Pista is 20rs"
+    },
+    {
+        "input":"What is the price of Rio?",
+        "output":"The price of Rio is 20rs"
+    },
+    {
+        "input":"What is the price of Prince?",
+        "output":"The price of Prince is 20rs"
+    },
+    {
+        "input":"What is the price of Day Dream?",
+        "output":"The price of Day Dream is 20rs"
+    },
+    {
+        "input":"What is the price of Tuc?",
+        "output":"The price of Tuc is 20rs"
+    },
+    {
+        "input":"What is the price of Tiger?",
+        "output":"The price of Tiger is 20rs"
+    },
+    {
+        "input":"What is the price of Zeera Plus?",
+        "output":"The price of Zeera Plus is 20rs"
+    },
+    {
+        "input":"What is the price of Chocolate Chip?",
+        "output":"The price of Chocolate Chip is 20rs"
+    },
+    {
+        "input":"What is the price of Hilal Cup cake?",
+        "output":"The price of Hilal Cup cake is 15rs"
+    },
+    {
+        "input":"What is the price of Sooper Cake?",
+        "output":"The price of Sooper Cake is 15rs"
+    },
+    {
+        "input":"What is the price of Hoest?",
+        "output":"The price of Hoest is 5rs"
+    },
+    {
+        "input":"What is the price of Chaska?",
+        "output":"The price of Chaska is 5rs"
+    },
+    {
+        "input":"What is the price of Hajmola Imli?",
+        "output":"The price of Hajmola Imli is 5rs"
+    },
+    {
+        "input":"What is the price of Chooran Chatni?",
+        "output":"The price of Chooran Chatni is 5rs"
+    },
+    {
+        "input":"What is the price of Aamrus?",
+        "output":"The price of Aamrus is 5rs"
+    },
+    {
+        "input":"What is the price of Frooto Apple?",
+        "output":"The price of Frooto Apple is 5rs"
+    },
+    {
+        "input":"What is the price of Panpasand?",
+        "output":"The price of Panpasand is 5rs"
+    },
+    {
+        "input":"What is the price of Eclairs?",
+        "output":"The price of Eclairs is 5rs"
+    },
+    {
+        "input":"What is the price of Frooto Amrood?",
+        "output":"The price of Frooto Amrood is 5rs"
+    },
+    {
+        "input":"What is the price of Frooto Orange?",
+        "output":"The price of Frooto Orange is 5rs"
+    },
+    {
+        "input":"What is the price of Softmint ice?",
+        "output":"The price of Softmint ice is 5rs"
+    },
+    {
+        "input":"What is the price of Frooto?",
+        "output":"The price of Frooto is 5rs"
+    },
+    {
+        "input":"What is the price of Fruit Gala?",
+        "output":"The price of Fruit Gala is 5rs"
+    },
+    {
+        "input":"What is the price of Fanta?",
+        "output":"The price of Fanta is 5rs"
+    },
+    {
+        "input":"What is the price of Khopra?",
+        "output":"The price of Khopra is 5rs"
+    },
+    {
+        "input":"What is the price of Mentos?",
+        "output":"The price of Mentos is 100rs"
+    },
+    {
+        "input":"What is the price of Bubble Pop?",
+        "output":"The price of Bubble Pop is 5rs"
+    },
+    {
+        "input":"What is the price of Joe Soft?",
+        "output":"The price of Joe Soft is 5rs"
+    },
+    {
+        "input":"What is the price of Ding Dong?",
+        "output":"The price of Ding Dong is 5rs"
+    },
+    {
+        "input":"What is the price of Boom Boom?",
+        "output":"The price of Boom Boom is 5rs"
+    },
+    {
+        "input":"What is the price of Fresh up?",
+        "output":"The price of Fresh up is 5rs"
+    },
+    {
+        "input":"What is the price of Lays?",
+        "output":"The price of Lays is 30rs"
+    },
+    {
+        "input":"What is the price of Wavy?",
+        "output":"The price of Wavy is 30rs"
+    },
+    {
+        "input":"What is the price of Slanty?",
+        "output":"The price of Slanty is 30rs"
+    },
+    {
+        "input":"What is the price of Kurkure?",
+        "output":"The price of Kurkure is 30rs"
+    },
+    {
+        "input":"What is the price of Kurleez?",
+        "output":"The price of Kurleez is 30rs"
+    },
+    {
+        "input":"What is the price of Cheetos?",
+        "output":"The price of Cheetos is 30rs"
+    },
+    {
+        "input":"What is the price of Now?",
+        "output":"The price of Now is 20rs"
+    },
+    {
+        "input":"What is the price of Paradise?",
+        "output":"The price of Paradise is 20rs"
+    },
+    {
+        "input":"What is the price of Jubilee?",
+        "output":"The price of Jubilee is 20rs"
+    },
+    {
+        "input":"What is the price of Sonnet?",
+        "output":"The price of Sonnet is 20rs"
+    },
+    {
+        "input":"What is the price of Snickers?",
+        "output":"The price of Snickers is 200rs"
+    },
+    {
+        "input":"What is the price of Dairy Milk?",
+        "output":"The price of Dairy Milk is 50rs"
+    },
+    {
+        "input":"What is the price of Capstan?",
+        "output":"The price of Capstan is 15rs"
+    },
+    {
+        "input":"What is the price of Gold Leaf?",
+        "output":"The price of Gold Leaf is 15rs"
+    },
+    {
+        "input":"What is the price of Gold Flake?",
+        "output":"The price of Gold Flake is 15rs"
+    },
+    {
+        "input":"What is the price of Dunhill?",
+        "output":"The price of Dunhill is 15rs"
+    },
+    {
+        "input":"What is the price of Morven Gold?",
+        "output":"The price of Morven Gold is 15rs"
+    },
+    {
+        "input":"What is the price of John Player?",
+        "output":"The price of John Player is 15rs"
+    },
+    {
+        "input":"What is the price of Marlobolo Crafted?",
+        "output":"The price of Marlobolo Crafted is 15rs"
+    },
+    {
+        "input":"What is the price of Pine?",
+        "output":"The price of Pine is 15rs"
+    },
+    {
+        "input":"What is the price of Dot?",
+        "output":"The price of Dot is 150rs"
+    },
+    {
+        "input":"What is the price of Josh?",
+        "output":"The price of Josh is 150rs"
+    },
+    {
+        "input":"What is the price of Durex?",
+        "output":"The price of Durex is 150rs"
+    },
+    {
+        "input":"What is the price of Sathi?",
+        "output":"The price of Sathi is 150rs"
+    },
+    {
+        "input":"What is the price of Blueband?",
+        "output":"The price of Blueband is 80rs"
+    },
+    {
+        "input":"What is the price of Olpers Cream?",
+        "output":"The price of Olpers Cream is 220rs"
+    },
+    {
+        "input":"What is the price of Milkpak Cream?",
+        "output":"The price of Milkpak Cream is 220rs"
+    },
+    {
+        "input":"What is the price of Nurpur Cream?",
+        "output":"The price of Nurpur Cream is 220rs"
+    },
+    {
+        "input":"What is the price of Jelly Banana?",
+        "output":"The price of Jelly Banana is 60rs"
+    },
+    {
+        "input":"What is the price of Jelly Mixed Fruit?",
+        "output":"The price of Jelly Mixed Fruit is 60rs"
+    },
+    {
+        "input":"What is the price of Sunlight?",
+        "output":"The price of Sunlight is 40rs"
+    },
+    {
+        "input":"What is the price of Bonus?",
+        "output":"The price of Bonus is 40rs"
+    },
+    {
+        "input":"What is the price of Ariel?",
+        "output":"The price of Ariel is 40rs"
+    },
+    {
+        "input":"What is the price of Surf Excel?",
+        "output":"The price of Surf Excel is 40rs"
+    },
+    {
+        "input":"What is the price of Brite?",
+        "output":"The price of Brite is 40rs"
+    },
+    {
+        "input":"What is the price of Pampers?",
+        "output":"The price of Pampers is 50rs"
+    },
+    {
+        "input":"What is the price of Bona Papa?",
+        "output":"The price of Bona Papa is 50rs"
+    },
+    {
+        "input":"What is the price of Canbebe?",
+        "output":"The price of Canbebe is 50rs"
+    },
+    {
+        "input":"What is the price of Royal Ozone?",
+        "output":"The price of Royal Ozone is 50rs"
+    },
+    {
+        "input":"What is the price of Gastril?",
+        "output":"The price of Gastril is 5rs"
+    },
+    {
+        "input":"What is the price of Vermicelli?",
+        "output":"The price of Vermicelli is 100rs"
+    },
+    {
+        "input":"What is the price of Quorma?",
+        "output":"The price of Quorma is 160rs"
+    },
+    {
+        "input":"What is the price of Biryani?",
+        "output":"The price of Biryani is 160rs"
+    },
+    {
+        "input":"What is the price of Coriander?",
+        "output":"The price of Coriander is 100rs"
+    },
+    {
+        "input":"What is the price of Kasuri Methi?",
+        "output":"The price of Kasuri Methi is 100rs"
+    },
+    {
+        "input":"What is the price of Garam Masala?",
+        "output":"The price of Garam Masala is 100rs"
+    },
+    {
+        "input":"What is the price of Bombay Biryani?",
+        "output":"The price of Bombay Biryani is 160rs"
+    },
+    {
+        "input":"What is the price of Eggs?",
+        "output":"The price of Eggs is 30rs"
+    },
+    {
+        "input":"What is the price of Rice?",
+        "output":"The price of Rice is 100rs"
+    },
+    {
+        "input":"What is the price of Sugar?",
+        "output":"The price of Sugar is 100rs"
+    },
+    {
+        "input":"What is the price of Flour?",
+        "output":"The price of Flour is 100rs"
+    },
+    {
+        "input":"What is the price of Pebbles?",
+        "output":"The price of Pebbles is 10rs"
+    },
+    {
+        "input":"What is the price of Wobbly?",
+        "output":"The price of Wobbly is 10rs"
+    },
+    {
+        "input":"What is the price of Peach Jelly?",
+        "output":"The price of Peach Jelly is 10rs"
+    },
+    {
+        "input":"What is the price of Gummy Bear?",
+        "output":"The price of Gummy Bear is 10rs"
+    },
+    {
+        "input":"What is the price of Jelly Fish?",
+        "output":"The price of Jelly Fish is 10rs"
+    },
+    {
+        "input":"What is the price of Jello Bello?",
+        "output":"The price of Jello Bello is 10rs"
+    },
+    {
+        "input":"What is the price of Berries?",
+        "output":"The price of Berries is 10rs"
+    },
+    {
+        "input":"What is the price of Jelly Strawberry?",
+        "output":"The price of Jelly Strawberry is 10rs"
+    },
+    {
+        "input":"What is the price of Amrood Jelly?",
+        "output":"The price of Amrood Jelly is 10rs"
+    },
+    {
+        "input":"What is the price of Fizzi O?",
+        "output":"The price of Fizzi O is 10rs"
+    },
+    {
+        "input":"What is the price of Anda?",
+        "output":"The price of Anda is 10rs"
+    },
+    {
+        "input":"What is the price of ABC?",
+        "output":"The price of ABC is 10rs"
+    },
+    {
+        "input":"What is the price of Chilli Milli?",
+        "output":"The price of Chilli Milli is 10rs"
+    },
+    {
+        "input":"What is the price of Twisto?",
+        "output":"The price of Twisto is 10rs"
+    },
+    {
+        "input":"What is the price of Polly?",
+        "output":"The price of Polly is 60rs"
+    },
+    {
+        "input":"What is the price of Fruita Vitals Apple?",
+        "output":"The price of Fruita Vitals Apple is 70rs"
+    },
+    {
+        "input":"What is the price of Fruita Vitals Red Anaar?",
+        "output":"The price of Fruita Vitals Red Anaar is 70rs"
+    },
+    {
+        "input":"What is the price of Pakola?",
+        "output":"The price of Pakola is 80rs"
+    },
+    {
+        "input":"What is the price of Rani Peach?",
+        "output":"The price of Rani Peach is 150rs"
+    },
+    {
+        "input":"What is the price of Rani Orange?",
+        "output":"The price of Rani Orange is 150rs"
+    },
+    {
+        "input":"What is the price of Nesfruita?",
+        "output":"The price of Nesfruita is 60rs"
+    },
+    {
+        "input":"What is the price of Slice?",
+        "output":"The price of Slice is 60rs"
+    },
+    {
+        "input":"What is the price of Nesfruita Red Grapes?",
+        "output":"The price of Nesfruita Red Grapes is 70rs"
+    },
+    {
+        "input":"What is the price of Chilli Garlic Sauce?",
+        "output":"The price of Chilli Garlic Sauce is 220rs"
+    },
+    {
+        "input":"What is the price of Tomato Ketchup?",
+        "output":"The price of Tomato Ketchup is 220rs"
+    },
+    {
+        "input":"What is the price of Nurpur?",
+        "output":"The price of Nurpur is 80rs"
+    },
+    {
+        "input":"What is the price of Olpers?",
+        "output":"The price of Olpers is 80rs"
+    },
+    {
+        "input":"What is the price of Dostea?",
+        "output":"The price of Dostea is 60rs"
+    },
+    {
+        "input":"What is the price of Milkpak?",
+        "output":"The price of Milkpak is 80rs"
+    },
+    {
+        "input":"What is the price of Tarang?",
+        "output":"The price of Tarang is 60rs"
+    },
+    {
+        "input":"What is the price of Adaab?",
+        "output":"The price of Adaab is 10rs"
+    },
+    {
+        "input":"What is the price of Rajni?",
+        "output":"The price of Rajni is 10rs"
+    },
+    {
+        "input":"What is the price of Pan Parag?",
+        "output":"The price of Pan Parag is 10rs"
+    },
+    {
+        "input":"What is the price of Mughlia?",
+        "output":"The price of Mughlia is 20rs"
+    },
+    {
+        "input":"What is the price of Lunch Time?",
+        "output":"The price of Lunch Time is 20rs"
+    },
+    {
+        "input":"What is the price of Ballay Ballay?",
+        "output":"The price of Ballay Ballay is 20rs"
+    },
+    {
+        "input":"What is the price of Shoop Chicken?",
+        "output":"The price of Shoop Chicken is 50rs"
+    },
+    {
+        "input":"What is the price of Knor Chicken?",
+        "output":"The price of Knor Chicken is 50rs"
+    },
+    {
+        "input":"What is the price of Shoop Chatpata?",
+        "output":"The price of Shoop Chatpata is 50rs"
+    },
+    {
+        "input":"What is the price of Knor Chatpata?",
+        "output":"The price of Knor Chatpata is 50rs"
+    },
+    {
+        "input":"What is the price of Mixed Pickle?",
+        "output":"The price of Mixed Pickle is 50rs"
+    },
+    {
+        "input":"What is the price of Trim?",
+        "output":"The price of Trim is 80rs"
+    },
+    {
+        "input":"What is the price of Treet?",
+        "output":"The price of Treet is 80rs"
+    },
+    {
+        "input":"What is the price of Trig?",
+        "output":"The price of Trig is 80rs"
+    },
+    {
+        "input":"What is the price of Gillete?",
+        "output":"The price of Gillete is 80rs"
+    },
+    {
+        "input":"What is the price of Butterfly?",
+        "output":"The price of Butterfly is 400rs"
+    },
+    {
+        "input":"What is the price of Always?",
+        "output":"The price of Always is 400rs"
+    },
+    {
+        "input":"What is the price of Embrace?",
+        "output":"The price of Embrace is 400rs"
+    },
+    {
+        "input":"What is the price of Sunsilk?",
+        "output":"The price of Sunsilk is 350rs"
+    },
+    {
+        "input":"What is the price of Head n Shoulder?",
+        "output":"The price of Head n Shoulder is 350rs"
+    },
+    {
+        "input":"What is the price of Tresseme?",
+        "output":"The price of Tresseme is 350rs"
+    },
+    {
+        "input":"What is the price of Lifebouy Shampoo?",
+        "output":"The price of Lifebouy Shampoo is 350rs"
+    },
+    {
+        "input":"What is the price of Clear?",
+        "output":"The price of Clear is 350rs"
+    },
+    {
+        "input":"What is the price of Power Plus?",
+        "output":"The price of Power Plus is 150rs"
+    },
+    {
+        "input":"What is the price of Kiwi?",
+        "output":"The price of Kiwi is 100rs"
+    },
+    {
+        "input":"What is the price of Cherry Blososom?",
+        "output":"The price of Cherry Blososom is 250rs"
+    },
+    {
+        "input":"What is the price of Lifebouy?",
+        "output":"The price of Lifebouy is 100rs"
+    },
+    {
+        "input":"What is the price of Hari?",
+        "output":"The price of Hari is 40rs"
+    },
+    {
+        "input":"What is the price of Safeguard?",
+        "output":"The price of Safeguard is 120rs"
+    },
+    {
+        "input":"What is the price of Pears?",
+        "output":"The price of Pears is 200rs"
+    },
+    {
+        "input":"What is the price of Tibet?",
+        "output":"The price of Tibet is 100rs"
+    },
+    {
+        "input":"What is the price of Palmolive?",
+        "output":"The price of Palmolive is 100rs"
+    },
+    {
+        "input":"What is the price of Dettol?",
+        "output":"The price of Dettol is 120rs"
+    },
+    {
+        "input":"What is the price of Lux?",
+        "output":"The price of Lux is 180rs"
+    },
+    {
+        "input":"What is the price of Dove?",
+        "output":"The price of Dove is 200rs"
+    },
+    {
+        "input":"What is the price of Mountain Dew?",
+        "output":"The price of Mountain Dew is 180rs"
+    },
+    {
+        "input":"What is the price of Fizz Up?",
+        "output":"The price of Fizz Up is 180rs"
+    },
+    {
+        "input":"What is the price of Pepsi Diet?",
+        "output":"The price of Pepsi Diet is 180rs"
+    },
+    {
+        "input":"What is the price of Sting?",
+        "output":"The price of Sting is 180rs"
+    },
+    {
+        "input":"What is the price of Mirinda?",
+        "output":"The price of Mirinda is 180rs"
+    },
+    {
+        "input":"What is the price of Fanta?",
+        "output":"The price of Fanta is 180rs"
+    },
+    {
+        "input":"What is the price of 7Up?",
+        "output":"The price of 7Up is 180rs"
+    },
+    {
+        "input":"What is the price of Sprite?",
+        "output":"The price of Sprite is 180rs"
+    },
+    {
+        "input":"What is the price of Coca Cola?",
+        "output":"The price of Coca Cola is 180rs"
+    },
+    {
+        "input":"What is the price of Pepsi?",
+        "output":"The price of Pepsi is 180rs"
+    },
+    {
+        "input":"What is the price of Cola Next?",
+        "output":"The price of Cola Next is 180rs"
+    },
+    {
+        "input":"What is the price of Rajput?",
+        "output":"The price of Rajput is 5rs"
+    },
+    {
+        "input":"What is the price of Jambola?",
+        "output":"The price of Jambola is 5rs"
+    },
+    {
+        "input":"What is the price of Tara?",
+        "output":"The price of Tara is 5rs"
+    },
+    {
+        "input":"What is the price of Dillagi?",
+        "output":"The price of Dillagi is 5rs"
+    },
+    {
+        "input":"What is the price of Tasty Gold?",
+        "output":"The price of Tasty Gold is 5rs"
+    },
+    {
+        "input":"What is the price of Andlip?",
+        "output":"The price of Andlip is 5rs"
+    },
+    {
+        "input":"What is the price of Hum Tum?",
+        "output":"The price of Hum Tum is 5rs"
+    },
+    {
+        "input":"What is the price of Naz?",
+        "output":"The price of Naz is 5rs"
+    },
+    {
+        "input":"What is the price of Sanam Gold?",
+        "output":"The price of Sanam Gold is 5rs"
+    },
+    {
+        "input":"What is the price of Tulsi?",
+        "output":"The price of Tulsi is 5rs"
+    },
+    {
+        "input":"What is the price of Shahi Deluxe?",
+        "output":"The price of Shahi Deluxe is 5rs"
+    },
+    {
+        "input":"What is the price of Kashmiri Gold?",
+        "output":"The price of Kashmiri Gold is 5rs"
+    },
+    {
+        "input":"What is the price of Jam e shirin?",
+        "output":"The price of Jam e shirin is 230rs"
+    },
+    {
+        "input":"What is the price of Pakola?",
+        "output":"The price of Pakola is 230rs"
+    },
+    {
+        "input":"What is the price of Quice?",
+        "output":"The price of Quice is 230rs"
+    },
+    {
+        "input":"What is the price of Vital?",
+        "output":"The price of Vital is 30rs"
+    },
+    {
+        "input":"What is the price of Green Tea?",
+        "output":"The price of Green Tea is 40rs"
+    },
+    {
+        "input":"What is the price of Lipton?",
+        "output":"The price of Lipton is 80rs"
+    },
+    {
+        "input":"What is the price of Tapal Danedar?",
+        "output":"The price of Tapal Danedar is 30rs"
+    },
+    {
+        "input":"What is the price of Supreme?",
+        "output":"The price of Supreme is 30rs"
+    },
+    {
+        "input":"What is the price of Synthetic Vinegar?",
+        "output":"The price of Synthetic Vinegar is 140rs"
+    },
+    {
+        "input":"What is the price of Novita Orange?",
+        "output":"The price of Novita Orange is 30rs"
+    },
+    {
+        "input":"What is the price of Novita Chocolate?",
+        "output":"The price of Novita Chocolate is 30rs"
+    },
+    {
+        "input":"What is the price of Wispy?",
+        "output":"The price of Wispy is 30rs"
+    },
+    {
+        "input":"What is the price of Nestle?",
+        "output":"The price of Nestle is 70rs"
+    },
+    {
+        "input":"What is the price of Aquafina?",
+        "output":"The price of Aquafina is 50rs"
+    },
+    {
+        "input":"What is the price of Atco?",
+        "output":"The price of Atco is 50rs"
+    }
+
+]
