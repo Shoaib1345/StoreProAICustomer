@@ -1,155 +1,787 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Text to Speech Showcase</title>
-<link rel="stylesheet" href="{{ url_for('static', filename='css/index.css') }}">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>StorePro AI - Next Gen Shopping</title>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --neon-blue: #00D9FF;
+            --neon-purple: #B537FF;
+            --neon-pink: #FF2E97;
+            --dark-1: #0A0E27;
+            --dark-2: #14183A;
+            --dark-3: #1E234D;
+            --glass: rgba(255, 255, 255, 0.05);
+            --glass-border: rgba(255, 255, 255, 0.1);
+        }
+
+        body {
+            font-family: 'Space Grotesk', sans-serif;
+            background: var(--dark-1);
+            color: white;
+            overflow: hidden;
+        }
+
+        /* Animated Background */
+        .bg-animation {
+            position: fixed;
+            width: 100%;
+            height: 100%;
+            z-index: 0;
+            overflow: hidden;
+        }
+
+        .orb {
+            position: absolute;
+            border-radius: 50%;
+            filter: blur(80px);
+            opacity: 0.5;
+            animation: float 20s infinite ease-in-out;
+        }
+
+        .orb-1 {
+            width: 400px;
+            height: 400px;
+            background: var(--neon-blue);
+            top: -100px;
+            left: -100px;
+            animation-delay: 0s;
+        }
+
+        .orb-2 {
+            width: 500px;
+            height: 500px;
+            background: var(--neon-purple);
+            bottom: -150px;
+            right: -150px;
+            animation-delay: -7s;
+        }
+
+        .orb-3 {
+            width: 350px;
+            height: 350px;
+            background: var(--neon-pink);
+            top: 50%;
+            left: 50%;
+            animation-delay: -14s;
+        }
+
+        @keyframes float {
+            0%, 100% { transform: translate(0, 0) scale(1); }
+            33% { transform: translate(100px, -100px) scale(1.1); }
+            66% { transform: translate(-100px, 100px) scale(0.9); }
+        }
+
+        /* Intro Animation */
+        .intro-screen {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: var(--dark-1);
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            z-index: 2000;
+            transition: opacity 0.8s ease-out;
+        }
+
+        .intro-screen.fade-out {
+            opacity: 0;
+            pointer-events: none;
+        }
+
+        .logo-intro {
+            position: relative;
+            width: 250px;
+            height: 250px;
+            margin-bottom: 40px;
+        }
+
+        .logo-circle {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            border: 3px solid transparent;
+            border-radius: 50%;
+            animation: spin 3s linear infinite;
+        }
+
+        .logo-circle-1 {
+            border-top-color: var(--neon-blue);
+            border-right-color: var(--neon-blue);
+            animation-duration: 2s;
+        }
+
+        .logo-circle-2 {
+            border-bottom-color: var(--neon-purple);
+            border-left-color: var(--neon-purple);
+            animation-duration: 3s;
+            animation-direction: reverse;
+        }
+
+        .logo-circle-3 {
+            border-top-color: var(--neon-pink);
+            border-left-color: var(--neon-pink);
+            animation-duration: 4s;
+            width: 80%;
+            height: 80%;
+            top: 10%;
+            left: 10%;
+        }
+
+        @keyframes spin {
+            100% { transform: rotate(360deg); }
+        }
+
+        .logo-center {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            font-size: 64px;
+            animation: pulse 2s ease-in-out infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { transform: translate(-50%, -50%) scale(1); }
+            50% { transform: translate(-50%, -50%) scale(1.1); }
+        }
+
+        .intro-text {
+            font-size: 32px;
+            font-weight: 700;
+            background: linear-gradient(90deg, var(--neon-blue), var(--neon-purple), var(--neon-pink));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-size: 200% auto;
+            animation: gradient 3s linear infinite;
+        }
+
+        @keyframes gradient {
+            0% { background-position: 0% center; }
+            100% { background-position: 200% center; }
+        }
+
+        /* Main Container */
+        .main-container {
+            position: relative;
+            z-index: 1;
+            display: flex;
+            height: 100vh;
+            padding: 20px;
+            gap: 20px;
+        }
+
+        /* Glassmorphism Card */
+        .glass-card {
+            background: var(--glass);
+            backdrop-filter: blur(20px);
+            border: 1px solid var(--glass-border);
+            border-radius: 24px;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+        }
+
+        /* Sidebar */
+        .sidebar {
+            width: 320px;
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+            animation: slideInLeft 0.8s ease-out;
+        }
+
+        @keyframes slideInLeft {
+            from {
+                opacity: 0;
+                transform: translateX(-50px);
+            }
+            to {
+                opacity: 1;
+                transform: translateX(0);
+            }
+        }
+
+        .brand-card {
+            padding: 30px;
+            text-align: center;
+        }
+
+        .brand-icon {
+            width: 100px;
+            height: 100px;
+            margin: 0 auto 20px;
+            background: linear-gradient(135deg, var(--neon-blue), var(--neon-purple));
+            border-radius: 30px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 48px;
+            box-shadow: 0 0 30px rgba(0, 217, 255, 0.5);
+            animation: float-icon 3s ease-in-out infinite;
+        }
+
+        @keyframes float-icon {
+            0%, 100% { transform: translateY(0px); }
+            50% { transform: translateY(-15px); }
+        }
+
+        .brand-title {
+            font-size: 28px;
+            font-weight: 700;
+            margin-bottom: 8px;
+            background: linear-gradient(90deg, var(--neon-blue), var(--neon-purple));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .brand-subtitle {
+            font-size: 14px;
+            color: rgba(255, 255, 255, 0.6);
+            font-weight: 300;
+        }
+
+        .quick-actions {
+            padding: 20px;
+            flex: 1;
+            overflow-y: auto;
+        }
+
+        .quick-actions h3 {
+            font-size: 14px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: rgba(255, 255, 255, 0.5);
+            margin-bottom: 15px;
+            font-weight: 500;
+        }
+
+        .action-grid {
+            display: grid;
+            gap: 12px;
+        }
+
+        .action-btn {
+            padding: 16px;
+            background: var(--glass);
+            border: 1px solid var(--glass-border);
+            border-radius: 16px;
+            cursor: pointer;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .action-btn:hover {
+            background: rgba(255, 255, 255, 0.1);
+            border-color: var(--neon-blue);
+            transform: translateY(-2px);
+            box-shadow: 0 8px 20px rgba(0, 217, 255, 0.3);
+        }
+
+        .action-icon {
+            width: 44px;
+            height: 44px;
+            background: linear-gradient(135deg, var(--neon-blue), var(--neon-purple));
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 20px;
+            flex-shrink: 0;
+        }
+
+        .action-text {
+            flex: 1;
+        }
+
+        .action-label {
+            font-size: 14px;
+            font-weight: 600;
+            margin-bottom: 2px;
+        }
+
+        .action-desc {
+            font-size: 11px;
+            color: rgba(255, 255, 255, 0.5);
+        }
+
+        /* Chat Area */
+        .chat-area {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            animation: slideInRight 0.8s ease-out;
+        }
+
+        @keyframes slideInRight {
+            from {
+                opacity: 0;
+                transform: translateX(50px);
+            }
+            to {
+                opacity: 1;
+                transform: translateX(0);
+            }
+        }
+
+        .chat-header {
+            padding: 24px 30px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 1px solid var(--glass-border);
+        }
+
+        .header-left h2 {
+            font-size: 24px;
+            font-weight: 700;
+            margin-bottom: 4px;
+        }
+
+        .header-left p {
+            font-size: 13px;
+            color: rgba(255, 255, 255, 0.5);
+        }
+
+        .status-badge {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            padding: 8px 16px;
+            background: rgba(0, 217, 255, 0.1);
+            border: 1px solid var(--neon-blue);
+            border-radius: 20px;
+            font-size: 13px;
+            font-weight: 500;
+        }
+
+        .status-dot {
+            width: 8px;
+            height: 8px;
+            background: var(--neon-blue);
+            border-radius: 50%;
+            box-shadow: 0 0 10px var(--neon-blue);
+            animation: blink 2s infinite;
+        }
+
+        @keyframes blink {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.3; }
+        }
+
+        .chat-messages {
+            flex: 1;
+            padding: 30px;
+            overflow-y: auto;
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+        }
+
+        .chat-messages::-webkit-scrollbar {
+            width: 6px;
+        }
+
+        .chat-messages::-webkit-scrollbar-track {
+            background: transparent;
+        }
+
+        .chat-messages::-webkit-scrollbar-thumb {
+            background: var(--glass-border);
+            border-radius: 10px;
+        }
+
+        .message {
+            max-width: 75%;
+            padding: 16px 20px;
+            border-radius: 20px;
+            line-height: 1.6;
+            font-size: 14px;
+            animation: messageIn 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+            position: relative;
+        }
+
+        @keyframes messageIn {
+            from {
+                opacity: 0;
+                transform: translateY(20px) scale(0.95);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0) scale(1);
+            }
+        }
+
+        .user-msg {
+            align-self: flex-end;
+            background: linear-gradient(135deg, var(--neon-blue), var(--neon-purple));
+            box-shadow: 0 8px 20px rgba(0, 217, 255, 0.3);
+        }
+
+        .bot-msg {
+            align-self: flex-start;
+            background: var(--glass);
+            border: 1px solid var(--glass-border);
+        }
+
+        .welcome-card {
+            align-self: center;
+            max-width: 500px;
+            text-align: center;
+            padding: 30px;
+            background: var(--glass);
+            border: 1px solid var(--glass-border);
+            border-radius: 20px;
+            margin: auto;
+        }
+
+        .welcome-card h3 {
+            font-size: 24px;
+            margin-bottom: 12px;
+            background: linear-gradient(90deg, var(--neon-blue), var(--neon-purple));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .welcome-card p {
+            font-size: 14px;
+            color: rgba(255, 255, 255, 0.6);
+            line-height: 1.6;
+        }
+
+        .typing-indicator {
+            align-self: flex-start;
+            display: none;
+            padding: 16px 20px;
+            background: var(--glass);
+            border: 1px solid var(--glass-border);
+            border-radius: 20px;
+            max-width: 80px;
+        }
+
+        .typing-dots {
+            display: flex;
+            gap: 6px;
+            justify-content: center;
+        }
+
+        .typing-dot {
+            width: 8px;
+            height: 8px;
+            background: var(--neon-blue);
+            border-radius: 50%;
+            animation: typing 1.4s infinite;
+        }
+
+        .typing-dot:nth-child(1) { animation-delay: 0s; }
+        .typing-dot:nth-child(2) { animation-delay: 0.2s; }
+        .typing-dot:nth-child(3) { animation-delay: 0.4s; }
+
+        @keyframes typing {
+            0%, 60%, 100% { transform: translateY(0); opacity: 0.7; }
+            30% { transform: translateY(-10px); opacity: 1; }
+        }
+
+        .chat-input-area {
+            padding: 24px 30px;
+            border-top: 1px solid var(--glass-border);
+        }
+
+        .input-wrapper {
+            display: flex;
+            gap: 12px;
+            align-items: center;
+            background: var(--dark-2);
+            padding: 6px;
+            border-radius: 24px;
+            border: 2px solid var(--glass-border);
+            transition: all 0.3s ease;
+        }
+
+        .input-wrapper:focus-within {
+            border-color: var(--neon-blue);
+            box-shadow: 0 0 20px rgba(0, 217, 255, 0.3);
+        }
+
+        .chat-input {
+            flex: 1;
+            padding: 14px 20px;
+            background: transparent;
+            border: none;
+            outline: none;
+            color: white;
+            font-size: 14px;
+            font-family: 'Space Grotesk', sans-serif;
+        }
+
+        .chat-input::placeholder {
+            color: rgba(255, 255, 255, 0.4);
+        }
+
+        .send-btn {
+            width: 48px;
+            height: 48px;
+            background: linear-gradient(135deg, var(--neon-blue), var(--neon-purple));
+            border: none;
+            border-radius: 50%;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 20px;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 15px rgba(0, 217, 255, 0.4);
+        }
+
+        .send-btn:hover {
+            transform: scale(1.1) rotate(15deg);
+            box-shadow: 0 6px 20px rgba(0, 217, 255, 0.6);
+        }
+
+        .send-btn:active {
+            transform: scale(0.95);
+        }
+
+        /* Mobile Responsive */
+        @media (max-width: 968px) {
+            .main-container {
+                padding: 0;
+                gap: 0;
+            }
+
+            .sidebar {
+                display: none;
+            }
+
+            .chat-area {
+                border-radius: 0;
+            }
+
+            .chat-messages {
+                padding: 20px;
+            }
+
+            .message {
+                max-width: 85%;
+            }
+        }
+
+        /* Custom Scrollbar for Sidebar */
+        .quick-actions::-webkit-scrollbar {
+            width: 6px;
+        }
+
+        .quick-actions::-webkit-scrollbar-track {
+            background: transparent;
+        }
+
+        .quick-actions::-webkit-scrollbar-thumb {
+            background: var(--glass-border);
+            border-radius: 10px;
+        }
+    </style>
 </head>
 <body>
-  <!-- Header -->
-  <header>
-    <nav>
-      <div class="glass-slider"></div>
-      <div class="nav-links">
-        <a href="/" class="nav-link active">Home</a>
-        <a href="/about" class="nav-link">About</a>
-      </div>
-    </nav>
-  </header>
-
-  <!-- Main Content -->
-  <div class="main-content">
-    <!-- Circular Sound Wave Animation -->
-    <div class="sound-circle">
-      <div class="pulse-ring"></div>
-
-      <div class="wave-container">
-        <div class="circular-wave" style="animation-delay: 0s"></div>
-        <div class="circular-wave" style="animation-delay: 1s"></div>
-        <div class="circular-wave" style="animation-delay: 2s"></div>
-      </div>
-
-      <div class="sound-wave">
-        <div class="wave-bar" style="animation-delay: 0s, 0s"></div>
-        <div class="wave-bar" style="animation-delay: 0.1s, 0.1s"></div>
-        <div class="wave-bar" style="animation-delay: 0.2s, 0.2s"></div>
-        <div class="wave-bar" style="animation-delay: 0.3s, 0.3s"></div>
-        <div class="wave-bar" style="animation-delay: 0.4s, 0.4s"></div>
-        <div class="wave-bar" style="animation-delay: 0.5s, 0.5s"></div>
-        <div class="wave-bar" style="animation-delay: 0.6s, 0.6s"></div>
-        <div class="wave-bar" style="animation-delay: 0.7s, 0.7s"></div>
-        <div class="wave-bar" style="animation-delay: 0.8s, 0.8s"></div>
-        <div class="wave-bar" style="animation-delay: 0.9s, 0.9s"></div>
-        <div class="wave-bar" style="animation-delay: 1.0s, 1.0s"></div>
-        <div class="wave-bar" style="animation-delay: 1.1s, 1.1s"></div>
-      </div>
+    <!-- Animated Background -->
+    <div class="bg-animation">
+        <div class="orb orb-1"></div>
+        <div class="orb orb-2"></div>
+        <div class="orb orb-3"></div>
     </div>
 
-    <!-- Main Title -->
-    <h1>Text to Speech Showcase</h1>
-
-    <!-- Card Container -->
-    <div class="container">
-      <div class="card">
-        <h2>Text to Speech using API</h2>
-        <p>
-          Converts written text to natural voice instantly using an online API.
-          Best for real-time web applications and lightweight integrations.
-        </p>
-        <button class="glow-btn" onclick="location.href='/api_model'">Go to Model</button>
-      </div>
-
-      <div class="card">
-        <h2>Text to Speech using Pyttsx3</h2>
-        <p>
-          Offline text-to-speech engine built with Python.
-          Works without internet and provides voice customization features.
-        </p>
-        <button class="glow-btn" onclick="location.href='/pyttsx_model'">Go to Model</button>
-      </div>
-
-      <div class="card">
-        <h2>Text to Speech using Trained Model</h2>
-        <p>
-          Deep learning-based model trained on human speech dataset to generate
-          realistic, emotion-rich voice outputs from any input text.
-        </p>
-        <button class="glow-btn" onclick="location.href='/trained_model'">Go to Model</button>
-      </div>
+    <!-- Intro Screen -->
+    <div class="intro-screen" id="introScreen">
+        <div class="logo-intro">
+            <div class="logo-circle logo-circle-1"></div>
+            <div class="logo-circle logo-circle-2"></div>
+            <div class="logo-circle logo-circle-3"></div>
+            <div class="logo-center">🛍️</div>
+        </div>
+        <div class="intro-text">StorePro AI</div>
     </div>
-  </div>
 
-  <!-- Floating Particles Animation -->
-  <script>
-    for (let i = 0; i < 60; i++) {
-      const particle = document.createElement("div");
-      particle.classList.add("particle");
-      document.body.appendChild(particle);
-      particle.style.left = Math.random() * 100 + "vw";
-      particle.style.top = Math.random() * 100 + "vh";
-      particle.style.animationDelay = Math.random() * 8 + "s";
-      particle.style.width = particle.style.height = (Math.random() * 6 + 3) + "px";
-      particle.style.opacity = Math.random();
-    }
+    <!-- Main Container -->
+    <div class="main-container">
+        <!-- Sidebar -->
+        <div class="sidebar">
+            <div class="glass-card brand-card">
+                <div class="brand-icon">🤖</div>
+                <div class="brand-title">StorePro AI</div>
+                <div class="brand-subtitle">Next-Gen Shopping Assistant</div>
+            </div>
 
-    // Dynamic wave animation
-    const waveBars = document.querySelectorAll('.wave-bar');
-    setInterval(() => {
-      waveBars.forEach(bar => {
-        const randomHeight = Math.floor(Math.random() * 50) + 10;
-        bar.style.height = `${randomHeight}px`;
-      });
-    }, 500);
+            <div class="glass-card quick-actions">
+                <h3>Quick Actions</h3>
+                <div class="action-grid">
+                    <div class="action-btn" onclick="quickAction('Show me your product catalog')">
+                        <div class="action-icon">📦</div>
+                        <div class="action-text">
+                            <div class="action-label">Browse Products</div>
+                            <div class="action-desc">View entire catalog</div>
+                        </div>
+                    </div>
+                    <div class="action-btn" onclick="quickAction('What are the current prices?')">
+                        <div class="action-icon">💎</div>
+                        <div class="action-text">
+                            <div class="action-label">Price Check</div>
+                            <div class="action-desc">Compare pricing</div>
+                        </div>
+                    </div>
+                    <div class="action-btn" onclick="quickAction('Track my order')">
+                        <div class="action-icon">📍</div>
+                        <div class="action-text">
+                            <div class="action-label">Order Status</div>
+                            <div class="action-desc">Track shipment</div>
+                        </div>
+                    </div>
+                    <div class="action-btn" onclick="quickAction('Delivery options available')">
+                        <div class="action-icon">🚀</div>
+                        <div class="action-text">
+                            <div class="action-label">Fast Delivery</div>
+                            <div class="action-desc">Shipping options</div>
+                        </div>
+                    </div>
+                    <div class="action-btn" onclick="quickAction('Recommend trending products')">
+                        <div class="action-icon">✨</div>
+                        <div class="action-text">
+                            <div class="action-label">Recommendations</div>
+                            <div class="action-desc">AI-powered picks</div>
+                        </div>
+                    </div>
+                    <div class="action-btn" onclick="quickAction('Customer support help')">
+                        <div class="action-icon">💬</div>
+                        <div class="action-text">
+                            <div class="action-label">Get Support</div>
+                            <div class="action-desc">24/7 assistance</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
 
-    // Glass slider navigation
-    document.addEventListener('DOMContentLoaded', function() {
-      const navLinks = document.querySelectorAll('.nav-link');
-      const glassSlider = document.querySelector('.glass-slider');
-      
-      // Initialize slider position
-      function initializeSlider() {
-        const activeLink = document.querySelector('.nav-link.active');
-        if (activeLink) {
-          updateSliderPosition(activeLink);
+        <!-- Chat Area -->
+        <div class="glass-card chat-area">
+            <div class="chat-header">
+                <div class="header-left">
+                    <h2>AI Assistant</h2>
+                    <p>Powered by advanced intelligence</p>
+                </div>
+                <div class="status-badge">
+                    <div class="status-dot"></div>
+                    <span>Online</span>
+                </div>
+            </div>
+
+            <div class="chat-messages" id="chatMessages">
+                <div class="welcome-card">
+                    <h3>👋 Welcome to StorePro AI</h3>
+                    <p>I'm your intelligent shopping assistant. Ask me anything about products, pricing, orders, delivery, or get personalized recommendations. How can I help you today?</p>
+                </div>
+            </div>
+
+            <div class="typing-indicator" id="typingIndicator">
+                <div class="typing-dots">
+                    <div class="typing-dot"></div>
+                    <div class="typing-dot"></div>
+                    <div class="typing-dot"></div>
+                </div>
+            </div>
+
+            <div class="chat-input-area">
+                <div class="input-wrapper">
+                    <input
+                        type="text"
+                        class="chat-input"
+                        id="chatInput"
+                        placeholder="Type your message here..."
+                        onkeypress="handleKeyPress(event)"
+                    />
+                    <button class="send-btn" onclick="sendMessage()">
+                        ➤
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Hide intro after 2.5 seconds
+        setTimeout(() => {
+            document.getElementById('introScreen').classList.add('fade-out');
+            setTimeout(() => {
+                document.getElementById('introScreen').style.display = 'none';
+                document.getElementById('chatInput').focus();
+            }, 800);
+        }, 2500);
+
+        function quickAction(text) {
+            document.getElementById('chatInput').value = text;
+            sendMessage();
         }
-      }
-      
-      function updateSliderPosition(link) {
-        const linkRect = link.getBoundingClientRect();
-        const navRect = link.closest('nav').getBoundingClientRect();
-        
-        glassSlider.style.width = `${linkRect.width}px`;
-        glassSlider.style.left = `${linkRect.left - navRect.left}px`;
-      }
-      
-      // Set initial position
-      initializeSlider();
-      
-      // Add click event listeners
-      navLinks.forEach(link => {
-        link.addEventListener('click', function(e) {
-          e.preventDefault();
-          
-          // Remove active class from all links
-          navLinks.forEach(l => l.classList.remove('active'));
-          
-          // Add active class to clicked link
-          this.classList.add('active');
-          
-          // Update slider position
-          updateSliderPosition(this);
-          
-          // Optional: Navigate to the link after animation
-          setTimeout(() => {
-            window.location.href = this.getAttribute('href');
-          }, 400);
-        });
-      });
-      
-      // Update slider on window resize
-      window.addEventListener('resize', initializeSlider);
-    });
-  </script>
+
+        function handleKeyPress(event) {
+            if (event.key === 'Enter') {
+                sendMessage();
+            }
+        }
+
+        async function sendMessage() {
+            const input = document.getElementById('chatInput');
+            const text = input.value.trim();
+
+            if (!text) return;
+
+            addMessage(text, 'user');
+            input.value = '';
+
+            const typingIndicator = document.getElementById('typingIndicator');
+            typingIndicator.style.display = 'block';
+            scrollToBottom();
+
+            try {
+                const response = await fetch('/ask', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({ question: text })
+                });
+
+                const data = await response.json();
+                typingIndicator.style.display = 'none';
+                addMessage(data.answer, 'bot');
+
+            } catch (error) {
+                typingIndicator.style.display = 'none';
+                addMessage('⚠️ Connection error. Please try again.', 'bot');
+            }
+        }
+
+        function addMessage(text, sender) {
+            const container = document.getElementById('chatMessages');
+            const messageDiv = document.createElement('div');
+            messageDiv.className = sender === 'user' ? 'message user-msg' : 'message bot-msg';
+            messageDiv.textContent = text;
+            container.appendChild(messageDiv);
+            scrollToBottom();
+        }
+
+        function scrollToBottom() {
+            const container = document.getElementById('chatMessages');
+            container.scrollTop = container.scrollHeight;
+        }
+    </script>
 </body>
 </html>
