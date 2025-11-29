@@ -1730,5 +1730,789 @@
   {
     "input": "What is the price of Atco?",
     "output": "The price of Atco is 50rs"
-  }
+  },
+  {
+        "input":"Who is the manufacturer of Oreo?",
+        "output":"The manufacturer of Oreo is LU"
+    },
+    {
+        "input":"Who is the manufacturer of Cocomo?",
+        "output":"The manufacturer of Cocomo is CandyLand"
+    },
+    {
+        "input":"Who is the manufacturer of Special?",
+        "output":"The manufacturer of Special is Hilal"
+    },
+    {
+        "input":"Who is the manufacturer of Sooper?",
+        "output":"The manufacturer of Sooper is Hilal"
+    },
+    {
+        "input":"Who is the manufacturer of Milcolu?",
+        "output":"The manufacturer of Milcolu is Hilal"
+    },
+    {
+        "input":"Who is the manufacturer of Milkabisk?",
+        "output":"The manufacturer of Milkabisk is LU"
+    },
+    {
+        "input":"Who is the manufacturer of Butter Puff?",
+        "output":"The manufacturer of Butter Puff is LU "
+    },
+    {
+        "input":"Who is the manufacturer of Marie?",
+        "output":"The manufacturer of Marie is Hilal"
+    },
+    {
+        "input":"Who is the manufacturer of Peanut Pik?",
+        "output":"The manufacturer of Peanut Pik is Hilal"
+    },
+    {
+        "input":"Who is the manufacturer of Gala?",
+        "output":"The manufacturer of Gala is LU "
+    },
+    {
+        "input":"Who is the manufacturer of Candy?",
+        "output":"The manufacturer of Candy is CandyLand"
+    },
+    {
+        "input":"Who is the manufacturer of Peanut Pista?",
+        "output":"The manufacturer of Peanut Pista is Hilal"
+    },
+    {
+        "input":"Who is the manufacturer of Rio?",
+        "output":"The manufacturer of Rio is Peek Freans"
+    },
+    {
+        "input":"Who is the manufacturer of Prince?",
+        "output":"The manufacturer of Prince is LU"
+    },
+    {
+        "input":"Who is the manufacturer of Day Dream?",
+        "output":"The manufacturer of Day Dream is Bisconni"
+    },
+    {
+        "input":"Who is the manufacturer of Tuc?",
+        "output":"The manufacturer of Tuc is LU"
+    },
+    {
+        "input":"Who is the manufacturer of Tiger?",
+        "output":"The manufacturer of Tiger is LU"
+    },
+    {
+        "input":"Who is the manufacturer of Zeera Plus?",
+        "output":"The manufacturer of Zeera Plus is LU"
+    },
+    {
+        "input":"Who is the manufacturer of Chocolate Chip?",
+        "output":"The manufacturer of Chocolate Chip is EBM"
+    },
+    {
+        "input":"Who is the manufacturer of Hilal Cup cake?",
+        "output":"The manufacturer of Hilal Cup cake is Peek Freans"
+    },
+    {
+        "input":"Who is the manufacturer of Sooper Cake?",
+        "output":"The manufacturer of Sooper Cake is Sooper"
+    },
+    {
+        "input":"Who is the manufacturer of Hoest?",
+        "output":"The manufacturer of Hoest is Hilal Foods"
+    },
+    {
+        "input":"Who is the manufacturer of Chaska?",
+        "output":"The manufacturer of Chaska is EBM"
+    },
+    {
+        "input":"Who is the manufacturer of Hajmola Imli?",
+        "output":"The manufacturer of Hajmola Imli is Dabur"
+    },
+    {
+        "input":"Who is the manufacturer of Chooran Chatni?",
+        "output":"The manufacturer of Chooran Chatni is Local"
+    },
+    {
+        "input":"Who is the manufacturer of Aamrus?",
+        "output":"The manufacturer of Aamrus is Shezan"
+    },
+    {
+        "input":"Who is the manufacturer of Frooto Apple?",
+        "output":"The manufacturer of Frooto Apple is Shezan"
+    },
+    {
+        "input":"Who is the manufacturer of Panpasand?",
+        "output":"The manufacturer of Panpasand is Hilal Foods"
+    },
+    {
+        "input":"Who is the manufacturer of Eclairs?",
+        "output":"The manufacturer of Eclairs is Hilal Foods"
+    },
+    {
+        "input":"Who is the manufacturer of Frooto Amrood?",
+        "output":"The manufacturer of Frooto Amrood is Shezan"
+    },
+    {
+        "input":"Who is the manufacturer of Frooto Orange?",
+        "output":"The manufacturer of Frooto Orange is Shezan"
+    },
+    {
+        "input":"Who is the manufacturer of Softmint ice?",
+        "output":"The manufacturer of Softmint ice is Hilal Foods"
+    },
+    {
+        "input":"Who is the manufacturer of Frooto?",
+        "output":"The manufacturer of Frooto is Shezan"
+    },
+    {
+        "input":"Who is the manufacturer of Fruit Gala?",
+        "output":"The manufacturer of Fruit Gala is Shezan"
+    },
+    {
+        "input":"Who is the manufacturer of Fanta?",
+        "output":"The manufacturer of Fanta is Coca-Cola"
+    },
+    {
+        "input":"Who is the manufacturer of Khopra?",
+        "output":"The manufacturer of Khopra is Local"
+    },
+    {
+        "input":"Who is the manufacturer of Mentos?",
+        "output":"The manufacturer of Mentos is Perfetti Van Melle"
+    },
+    {
+        "input":"Who is the manufacturer of Bubble Pop?",
+        "output":"The manufacturer of Bubble Pop is CandyLand"
+    },
+    {
+        "input":"Who is the manufacturer of Joe Soft?",
+        "output":"The manufacturer of Joe Soft is CandyLand"
+    },
+    {
+        "input":"Who is the manufacturer of Ding Dong?",
+        "output":"The manufacturer of Ding Dong is Hilal Foods"
+    },
+    {
+        "input":"Who is the manufacturer of Boom Boom?",
+        "output":"The manufacturer of Boom Boom is Hilal Foods"
+    },
+    {
+        "input":"Who is the manufacturer of Fresh up?",
+        "output":"The manufacturer of Fresh up is CandyLand"
+    },
+    {
+        "input":"Who is the manufacturer of Lays?",
+        "output":"The manufacturer of Lays is PepsiCo"
+    },
+    {
+        "input":"Who is the manufacturer of Wavy?",
+        "output":"The manufacturer of Wavy is PepsiCo"
+    },
+    {
+        "input":"Who is the manufacturer of Slanty?",
+        "output":"The manufacturer of Slanty is Kolson"
+    },
+    {
+        "input":"Who is the manufacturer of Kurkure?",
+        "output":"The manufacturer of Kurkure is PepsiCo"
+    },
+    {
+        "input":"Who is the manufacturer of Kurleez?",
+        "output":"The manufacturer of Kurleez is Ismail Industries"
+    },
+    {
+        "input":"Who is the manufacturer of Cheetos?",
+        "output":"The manufacturer of Cheetos is PepsiCo"
+    },
+    {
+        "input":"Who is the manufacturer of Now?",
+        "output":"The manufacturer of Now is LU"
+    },
+    {
+        "input":"Who is the manufacturer of Paradise?",
+        "output":"The manufacturer of Paradise is EBM"
+    },
+    {
+        "input":"Who is the manufacturer of Jubilee?",
+        "output":"The manufacturer of Jubilee is Hilal Foods"
+    },
+    {
+        "input":"Who is the manufacturer of Sonnet?",
+        "output":"The manufacturer of Sonnet is EBM"
+    },
+    {
+        "input":"Who is the manufacturer of Snickers?",
+        "output":"The manufacturer of Snickers is Mars"
+    },
+    {
+        "input":"Who is the manufacturer of Dairy Milk?",
+        "output":"The manufacturer of Dairy Milk is Mondelez"
+    },
+    {
+        "input":"Who is the manufacturer of Capstan?",
+        "output":"The manufacturer of Capstan is PTC"
+    },
+    {
+        "input":"Who is the manufacturer of Gold Leaf?",
+        "output":"The manufacturer of Gold Leaf is PTC"
+    },
+    {
+        "input":"Who is the manufacturer of Gold Flake?",
+        "output":"The manufacturer of Gold Flake is PTC"
+    },
+    {
+        "input":"Who is the manufacturer of Dunhill?",
+        "output":"The manufacturer of Dunhill is BAT"
+    },
+    {
+        "input":"Who is the manufacturer of Morven Gold?",
+        "output":"The manufacturer of Morven Gold is PTC"
+    },
+    {
+        "input":"Who is the manufacturer of John Player?",
+        "output":"The manufacturer of John Player is BAT"
+    },
+    {
+        "input":"Who is the manufacturer of Marlobolo Crafted?",
+        "output":"The manufacturer of Marlobolo Crafted is Marlboro"
+    },
+    {
+        "input":"Who is the manufacturer of Pine?",
+        "output":"The manufacturer of Pine is Local"
+    },
+    {
+        "input":"Who is the manufacturer of Dot?",
+        "output":"The manufacturer of Dot is Local"
+    },
+    {
+        "input":"Who is the manufacturer of Josh?",
+        "output":"The manufacturer of Josh is Durex"
+    },
+    {
+        "input":"Who is the manufacturer of Durex?",
+        "output":"The manufacturer of Durex is Reckitt"
+    },
+    {
+        "input":"Who is the manufacturer of Sathi?",
+        "output":"The manufacturer of Sathi is Local"
+    },
+    {
+        "input":"Who is the manufacturer of Blueband?",
+        "output":"The manufacturer of Blueband is Upfield"
+    },
+    {
+        "input":"Who is the manufacturer of Olpers Cream?",
+        "output":"The manufacturer of Olpers Cream is Engro Foods"
+    },
+    {
+        "input":"Who is the manufacturer of Milkpak Cream?",
+        "output":"The manufacturer of Milkpak Cream is Nestle"
+    },
+    {
+        "input":"Who is the manufacturer of Nurpur Cream?",
+        "output":"The manufacturer of Nurpur Cream is Fauji Foods"
+    },
+    {
+        "input":"Who is the manufacturer of Jelly Banana?",
+        "output":"The manufacturer of Jelly Banana is CandyLand"
+    },
+    {
+        "input":"Who is the manufacturer of Jelly Mixed Fruit?",
+        "output":"The manufacturer of Jelly Mixed Fruit is CandyLand"
+    },
+    {
+        "input":"Who is the manufacturer of Sunlight?",
+        "output":"The manufacturer of Sunlight is Unilever"
+    },
+    {
+        "input":"Who is the manufacturer of Bonus?",
+        "output":"The manufacturer of Bonus is Colgate-Palmolive"
+    },
+    {
+        "input":"Who is the manufacturer of Ariel?",
+        "output":"The manufacturer of Ariel is P&G"
+    },
+    {
+        "input":"Who is the manufacturer of Surf Excel?",
+        "output":"The manufacturer of Surf Excel is Unilever"
+    },
+    {
+        "input":"Who is the manufacturer of Brite?",
+        "output":"The manufacturer of Brite is Colgate-Palmolive"
+    },
+    {
+        "input":"Who is the manufacturer of Pampers?",
+        "output":"The manufacturer of Pampers is P&G"
+    },
+    {
+        "input":"Who is the manufacturer of Bona Papa?",
+        "output":"The manufacturer of Bona Papa is Local"
+    },
+    {
+        "input":"Who is the manufacturer of Canbebe?",
+        "output":"The manufacturer of Canbebe is Ontex"
+    },
+    {
+        "input":"Who is the manufacturer of Royal Ozone?",
+        "output":"The manufacturer of Royal Ozone is Local"
+    },
+    {
+        "input":"Who is the manufacturer of Gastril?",
+        "output":"The manufacturer of Gastril is PharmEvo"
+    },
+    {
+        "input":"Who is the manufacturer of Vermicelli?",
+        "output":"The manufacturer of Vermicelli is Kolson"
+    },
+    {
+        "input":"Who is the manufacturer of Quorma?",
+        "output":"The manufacturer of Quorma is Shan Foods"
+    },
+    {
+        "input":"Who is the manufacturer of Biryani?",
+        "output":"The manufacturer of Biryani is Shan Foods"
+    },
+    {
+        "input":"Who is the manufacturer of Coriander?",
+        "output":"The manufacturer of Coriander is Shan Foods"
+    },
+    {
+        "input":"Who is the manufacturer of Kasuri Methi?",
+        "output":"The manufacturer of Kasuri Methi is Shan"
+    },
+    {
+        "input":"Who is the manufacturer of Garam Masala?",
+        "output":"The manufacturer of Garam Masala is Shan"
+    },
+    {
+        "input":"Who is the manufacturer of Bombay Biryani?",
+        "output":"The manufacturer of Bombay Biryani is Shan Foods"
+    },
+    {
+        "input":"Who is the manufacturer of Eggs?",
+        "output":"The manufacturer of Eggs is Commodity"
+    },
+    {
+        "input":"Who is the manufacturer of Rice?",
+        "output":"The manufacturer of Rice is Commodity"
+    },
+    {
+        "input":"Who is the manufacturer of Sugar?",
+        "output":"The manufacturer of Sugar is Commodity"
+    },
+    {
+        "input":"Who is the manufacturer of Flour?",
+        "output":"The manufacturer of Flour is Commodity"
+    },
+    {
+        "input":"Who is the manufacturer of Pebbles?",
+        "output":"The manufacturer of Pebbles is CandyLand"
+    },
+    {
+        "input":"Who is the manufacturer of Wobbly?",
+        "output":"The manufacturer of Wobbly is CandyLand"
+    },
+    {
+        "input":"Who is the manufacturer of Peach Jelly?",
+        "output":"The manufacturer of Peach Jelly is CandyLand"
+    },
+    {
+        "input":"Who is the manufacturer of Gummy Bear?",
+        "output":"The manufacturer of Gummy Bear is CandyLand"
+    },
+    {
+        "input":"Who is the manufacturer of Jelly Fish?",
+        "output":"The manufacturer of Jelly Fish is CandyLand"
+    },
+    {
+        "input":"Who is the manufacturer of Jello Bello?",
+        "output":"The manufacturer of Jello Bello is CandyLand"
+    },
+    {
+        "input":"Who is the manufacturer of Berries?",
+        "output":"The manufacturer of Berries is CandyLand"
+    },
+    {
+        "input":"Who is the manufacturer of Jelly Strawberry?",
+        "output":"The manufacturer of Jelly Strawberry is CandyLand"
+    },
+    {
+        "input":"Who is the manufacturer of Amrood Jelly?",
+        "output":"The manufacturer of Amrood Jelly is CandyLand"
+    },
+    {
+        "input":"Who is the manufacturer of Fizzi O?",
+        "output":"The manufacturer of Fizzi O is Ismail"
+    },
+    {
+        "input":"Who is the manufacturer of Anda?",
+        "output":"The manufacturer of Anda is Commodity"
+    },
+    {
+        "input":"Who is the manufacturer of ABC?",
+        "output":"The manufacturer of ABC is Local"
+    },
+    {
+        "input":"Who is the manufacturer of Chilli Milli?",
+        "output":"The manufacturer of Chilli Milli is CandyLand"
+    },
+    {
+        "input":"Who is the manufacturer of Twisto?",
+        "output":"The manufacturer of Twisto is Ismail"
+    },
+    {
+        "input":"Who is the manufacturer of Polly?",
+        "output":"The manufacturer of Polly is Bisconni"
+    },
+    {
+        "input":"Who is the manufacturer of Fruita Vitals Apple?",
+        "output":"The manufacturer of Fruita Vitals Apple is Nestle"
+    },
+    {
+        "input":"Who is the manufacturer of Fruita Vitals Red Anaar?",
+        "output":"The manufacturer of Fruita Vitals Red Anaar is Nestle"
+    },
+    {
+        "input":"Who is the manufacturer of Pakola?",
+        "output":"The manufacturer of Pakola is Mehran Bottlers"
+    },
+    {
+        "input":"Who is the manufacturer of Rani Peach?",
+        "output":"The manufacturer of Rani Peach is Aujan Coca-Cola"
+    },
+    {
+        "input":"Who is the manufacturer of Rani Orange?",
+        "output":"The manufacturer of Rani Orange is Aujan Coca-Cola"
+    },
+    {
+        "input":"Who is the manufacturer of Nesfruita?",
+        "output":"The manufacturer of Nesfruita is Nestle"
+    },
+    {
+        "input":"Who is the manufacturer of Slice?",
+        "output":"The manufacturer of Slice is PepsiCo"
+    },
+    {
+        "input":"Who is the manufacturer of Nesfruita Red Grapes?",
+        "output":"The manufacturer of Nesfruita Red Grapes is Nestle"
+    },
+    {
+        "input":"Who is the manufacturer of Chilli Garlic Sauce?",
+        "output":"The manufacturer of Chilli Garlic Sauce is National"
+    },
+    {
+        "input":"Who is the manufacturer of Tomato Ketchup?",
+        "output":"The manufacturer of Tomato Ketchup is National"
+    },
+    {
+        "input":"Who is the manufacturer of Nurpur?",
+        "output":"The manufacturer of Nurpur is Fauji Foods"
+    },
+    {
+        "input":"Who is the manufacturer of Olpers?",
+        "output":"The manufacturer of Olpers is Engro Foods"
+    },
+    {
+        "input":"Who is the manufacturer of Dostea?",
+        "output":"The manufacturer of Dostea is Engro Foods"
+    },
+    {
+        "input":"Who is the manufacturer of Milkpak?",
+        "output":"The manufacturer of Milkpak is Nestle"
+    },
+    {
+        "input":"Who is the manufacturer of Tarang?",
+        "output":"The manufacturer of Tarang is Engro Foods"
+    },
+    {
+        "input":"Who is the manufacturer of Adaab?",
+        "output":"The manufacturer of Adaab is Local"
+    },
+    {
+        "input":"Who is the manufacturer of Rajni?",
+        "output":"The manufacturer of Rajni is Local"
+    },
+    {
+        "input":"Who is the manufacturer of Pan Parag?",
+        "output":"The manufacturer of Pan Parag is DS Group"
+    },
+    {
+        "input":"Who is the manufacturer of Mughlia?",
+        "output":"The manufacturer of Mughlia is Local"
+    },
+    {
+        "input":"Who is the manufacturer of Lunch Time?",
+        "output":"The manufacturer of Lunch Time is Bisconni"
+    },
+    {
+        "input":"Who is the manufacturer of Ballay Ballay?",
+        "output":"The manufacturer of Ballay Ballay is Bisconni"
+    },
+    {
+        "input":"Who is the manufacturer of Shoop Chicken?",
+        "output":"The manufacturer of Shoop Chicken is Shan Foods"
+    },
+    {
+        "input":"Who is the manufacturer of Knor Chicken?",
+        "output":"The manufacturer of Knor Chicken is Unilever"
+    },
+    {
+        "input":"Who is the manufacturer of Shoop Chatpata?",
+        "output":"The manufacturer of Shoop Chatpata is Shan Foods"
+    },
+    {
+        "input":"Who is the manufacturer of Knor Chatpata?",
+        "output":"The manufacturer of Knor Chatpata is Unilever"
+    },
+    {
+        "input":"Who is the manufacturer of Mixed Pickle?",
+        "output":"The manufacturer of Mixed Pickle is National"
+    },
+    {
+        "input":"Who is the manufacturer of Trim?",
+        "output":"The manufacturer of Trim is Treet Corporation"
+    },
+    {
+        "input":"Who is the manufacturer of Treet?",
+        "output":"The manufacturer of Treet is Treet Corporation"
+    },
+    {
+        "input":"Who is the manufacturer of Trig?",
+        "output":"The manufacturer of Trig is Treet Corporation"
+    },
+    {
+        "input":"Who is the manufacturer of Gillete?",
+        "output":"The manufacturer of Gillete is P&G"
+    },
+    {
+        "input":"Who is the manufacturer of Butterfly?",
+        "output":"The manufacturer of Butterfly is Santex"
+    },
+    {
+        "input":"Who is the manufacturer of Always?",
+        "output":"The manufacturer of Always is P&G"
+    },
+    {
+        "input":"Who is the manufacturer of Embrace?",
+        "output":"The manufacturer of Embrace is P&G"
+    },
+    {
+        "input":"Who is the manufacturer of Sunsilk?",
+        "output":"The manufacturer of Sunsilk is Unilever"
+    },
+    {
+        "input":"Who is the manufacturer of Head n Shoulder?",
+        "output":"The manufacturer of Head n Shoulder is P&G"
+    },
+    {
+        "input":"Who is the manufacturer of Tresseme?",
+        "output":"The manufacturer of Tresseme is Unilever"
+    },
+    {
+        "input":"Who is the manufacturer of Lifebouy Shampoo?",
+        "output":"The manufacturer of Lifebouy Shampoo is Unilever"
+    },
+    {
+        "input":"Who is the manufacturer of Clear?",
+        "output":"The manufacturer of Clear is Unilever"
+    },
+    {
+        "input":"Who is the manufacturer of Power Plus?",
+        "output":"The manufacturer of Power Plus is Local"
+    },
+    {
+        "input":"Who is the manufacturer of Kiwi?",
+        "output":"The manufacturer of Kiwi is SC Johnson"
+    },
+    {
+        "input":"Who is the manufacturer of Cherry Blososom?",
+        "output":"The manufacturer of Cherry Blososom is SC Johnson"
+    },
+    {
+        "input":"Who is the manufacturer of Lifebouy?",
+        "output":"The manufacturer of Lifebouy is Unilever"
+    },
+    {
+        "input":"Who is the manufacturer of Hari?",
+        "output":"The manufacturer of Hari is Local"
+    },
+    {
+        "input":"Who is the manufacturer of Safeguard?",
+        "output":"The manufacturer of Safeguard is P&G"
+    },
+    {
+        "input":"Who is the manufacturer of Pears?",
+        "output":"The manufacturer of Pears is Unilever"
+    },
+    {
+        "input":"Who is the manufacturer of Tibet?",
+        "output":"The manufacturer of Tibet is Tibbet Group"
+    },
+    {
+        "input":"Who is the manufacturer of Palmolive?",
+        "output":"The manufacturer of Palmolive is Colgate-Palmolive"
+    },
+    {
+        "input":"Who is the manufacturer of Dettol?",
+        "output":"The manufacturer of Dettol is Reckitt"
+    },
+    {
+        "input":"Who is the manufacturer of Lux?",
+        "output":"The manufacturer of Lux is Unilever"
+    },
+    {
+        "input":"Who is the manufacturer of Dove?",
+        "output":"The manufacturer of Dove is Unilever"
+    },
+    {
+        "input":"Who is the manufacturer of Mountain Dew?",
+        "output":"The manufacturer of Mountain Dew is PepsiCo"
+    },
+    {
+        "input":"Who is the manufacturer of Fizz Up?",
+        "output":"The manufacturer of Fizz Up is Local"
+    },
+    {
+        "input":"Who is the manufacturer of Pepsi Diet?",
+        "output":"The manufacturer of Pepsi Diet is PepsiCo"
+    },
+    {
+        "input":"Who is the manufacturer of Sting?",
+        "output":"The manufacturer of Sting is PepsiCo"
+    },
+    {
+        "input":"Who is the manufacturer of Mirinda?",
+        "output":"The manufacturer of Mirinda is PepsiCo"
+    },
+    {
+        "input":"Who is the manufacturer of Fanta?",
+        "output":"The manufacturer of Fanta is Coca-Cola"
+    },
+    {
+        "input":"Who is the manufacturer of 7Up?",
+        "output":"The manufacturer of 7Up is PepsiCo"
+    },
+    {
+        "input":"Who is the manufacturer of Sprite?",
+        "output":"The manufacturer of Sprite is Coca-Cola"
+    },
+    {
+        "input":"Who is the manufacturer of Coca Cola?",
+        "output":"The manufacturer of Coca Cola is Coca-Cola"
+    },
+    {
+        "input":"Who is the manufacturer of Pepsi?",
+        "output":"The manufacturer of Pepsi is PepsiCo"
+    },
+    {
+        "input":"Who is the manufacturer of Cola Next?",
+        "output":"The manufacturer of Cola Next is Mehran Bottlers"
+    },
+    {
+        "input":"Who is the manufacturer of Rajput?",
+        "output":"The manufacturer of Rajput is Local"
+    },
+    {
+        "input":"Who is the manufacturer of Jambola?",
+        "output":"The manufacturer of Jambola is Local"
+    },
+    {
+        "input":"Who is the manufacturer of Tara?",
+        "output":"The manufacturer of Tara is Local"
+    },
+    {
+        "input":"Who is the manufacturer of Dillagi?",
+        "output":"The manufacturer of Dillagi is Local"
+    },
+    {
+        "input":"Who is the manufacturer of Tasty Gold?",
+        "output":"The manufacturer of Tasty Gold is Local"
+    },
+    {
+        "input":"Who is the manufacturer of Andlip?",
+        "output":"The manufacturer of Andlip is Local"
+    },
+    {
+        "input":"Who is the manufacturer of Hum Tum?",
+        "output":"The manufacturer of Hum Tum is Local"
+    },
+    {
+        "input":"Who is the manufacturer of Naz?",
+        "output":"The manufacturer of Naz is Local"
+    },
+    {
+        "input":"Who is the manufacturer of Sanam Gold?",
+        "output":"The manufacturer of Sanam Gold is Local"
+    },
+    {
+        "input":"Who is the manufacturer of Tulsi?",
+        "output":"The manufacturer of Tulsi is Local"
+    },
+    {
+        "input":"Who is the manufacturer of Shahi Deluxe?",
+        "output":"The manufacturer of Shahi Deluxe is Local"
+    },
+    {
+        "input":"Who is the manufacturer of Kashmiri Gold?",
+        "output":"The manufacturer of Kashmiri Gold is Local"
+    },
+    {
+        "input":"Who is the manufacturer of Jam e shirin?",
+        "output":"The manufacturer of Jam e shirin is Qarshi"
+    },
+    {
+        "input":"Who is the manufacturer of Pakola?",
+        "output":"The manufacturer of Pakola is Mehran Bottlers"
+    },
+    {
+        "input":"Who is the manufacturer of Quice?",
+        "output":"The manufacturer of Quice is Quice Foods"
+    },
+    {
+        "input":"Who is the manufacturer of Vital?",
+        "output":"The manufacturer of Vital is Vital Tea"
+    },
+    {
+        "input":"Who is the manufacturer of Green Tea?",
+        "output":"The manufacturer of Green Tea is Tapal"
+    },
+    {
+        "input":"Who is the manufacturer of Lipton?",
+        "output":"The manufacturer of Lipton is Unilever"
+    },
+    {
+        "input":"Who is the manufacturer of Tapal Danedar?",
+        "output":"The manufacturer of Tapal Danedar is Tapal Tea"
+    },
+    {
+        "input":"Who is the manufacturer of Supreme?",
+        "output":"The manufacturer of Supreme is Tapal Tea"
+    },
+    {
+        "input":"Who is the manufacturer of Synthetic Vinegar?",
+        "output":"The manufacturer of Synthetic Vinegar is National"
+    },
+    {
+        "input":"Who is the manufacturer of Novita Orange?",
+        "output":"The manufacturer of Novita Orange is Bisconni"
+    },
+    {
+        "input":"Who is the manufacturer of Novita Chocolate?",
+        "output":"The manufacturer of Novita Chocolate is Bisconni"
+    },
+    {
+        "input":"Who is the manufacturer of Wispy?",
+        "output":"The manufacturer of Wispy is Ismail Industries"
+    },
+    {
+        "input":"Who is the manufacturer of Nestle?",
+        "output":"The manufacturer of Nestle is Nestle"
+    },
+    {
+        "input":"Who is the manufacturer of Aquafina?",
+        "output":"The manufacturer of Aquafina is PepsiCo"
+    },
+    {
+        "input":"Who is the manufacturer of Atco?",
+        "output":"The manufacturer of Atco is ATCO Laboratories"
+    }
 ]
