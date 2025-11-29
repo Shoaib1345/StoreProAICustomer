@@ -9,12 +9,15 @@ venv\Scripts\activate      # Windows
 pip install flask
 ```
 ```
-pip install gTTS
+pip install sentence-transformers
 ```
 
 
 ``` 
-pip install pyttsx3
+pip install numpy
+```
+``` 
+pip install scikit-learn
 ```
 # 3️⃣ Run the Flask app
 python app.py
@@ -25,25 +28,20 @@ Then open in browser:
 
 🧠 Features
 
-Convert text to speech using pyttsx3
-
-Select from English, German, Japanese, or Italian
-
-Adjust voice speed and volume
-
-Buttons: Speak, Stop, and Reset.
-
 # 📁 Folder Structure
 ```
 TexttoSpeech/
 │
 ├── app.py
 ├── templates/
-│   └── frontend/
-│       └── index.html
+│   └── about.html
+|   └── index.html
 └── static/
     -images
     ├── javascript/
-    │   └── button1.js
-    └── audio/
+    │   └── index.js
+    ├── css/
+        └── about.css
+        └── index.css
+    
 ```
