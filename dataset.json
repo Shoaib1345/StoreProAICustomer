@@ -2514,5 +2514,41 @@
     {
         "input":"Who is the manufacturer of Atco?",
         "output":"The manufacturer of Atco is ATCO Laboratories"
-    }
+    },
+    {
+      "input": "What is the name of shop owner?",
+      "output": "The shop owner is Faraz Ahmed"
+    },
+  {
+    "input": "What is the name of shop?",
+    "output": "The shop name is Faraz General Store"
+  },
+  {
+    "input": "Where the shop is located?",
+    "output": "The shop is located near Dr Ghayas clinic Dubba road Old Sukkur"
+  },
+  {
+    "input": "Do you provide home delivery?",
+    "output": "We actually don't provide home delivery"
+  },
+  {
+    "input": "What the timing of shop?",
+    "output": "The timing of shop is 9:00 AM to 12:00 AM"
+  },
+  {
+    "input": "When shop gets open?",
+    "output": "The shop opens at 9:00 AM morning"
+  },
+  {
+    "input": "When shop gets close",
+    "output": "The shop close at 12:00 AM"
+  },
+  {
+    "input": "What is the phone number of shop owner",
+    "output": "Shop owner phone number is: 03448143397"
+  },
+  {
+    "input": "How can we meet shop owner",
+    "output": "You can meet shop owner during shop time from 9:00 AM to 12:00 AM or you can contact him on 03448143397"
+  }
 ]
