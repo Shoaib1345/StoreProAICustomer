@@ -195,77 +195,77 @@ Wispy,30.0,Wafer,What is Wispy?,"Wispy Wafers are a brand of crispy, thin, and l
 Nestle,70.0,Water,What is Nestle?,Nestle pure life a mineral water,Nestle,What is the price of Nestle?,The price of Nestle is 70rs,Who is the manufacturer of Nestle?,The manufacturer of Nestle is Nestle
 Aquafina,50.0,Water,What is Aquafina?,Aquafina is a drinking water,PepsiCo,What is the price of Aquafina?,The price of Aquafina is 50rs,Who is the manufacturer of Aquafina?,The manufacturer of Aquafina is PepsiCo
 Atco,50.0,Water,What is Atco?,Atco is a water,ATCO Laboratories,What is the price of Atco?,The price of Atco is 50rs,Who is the manufacturer of Atco?,The manufacturer of Atco is ATCO Laboratories
-Lemon,20.0,Biscuit,What is Lemon?,,Peek Freans,What is the price of Lemon?,The price of Lemon is 20rs,Who is the manufacturer of Lemon?,
-Lemon Max,30.0,Soap,What is Lemon Max?,,Colgate-Palmolive,What is the price of Lemon Max?,The price of Lemon Max is 30.0rs,Who is the manufacturer of Lemon Max?,
-Touch,150.0,Condom,What is Touch?,,Greenstar,What is the price of Touch?,The price of Touch is 150.0rs,Who is the manufacturer of Touch?,
-Salva,20.0,Nimco,What is Salva?,,Zia Foods,What is the price of Salva?,The price of Salva is 20.0rs,Who is the manufacturer of Salva?,
-Colgate,100.0,Tooth Paste,What is Colgate?,,Colgate-Palmolive,What is the price of Colgate?,The price of Colgate is 100.0rs,Who is the manufacturer of Colgate?,
-Sensodyne,150.0,Tooth Paste,What is Sensodyne?,,Haleon plc,What is the price of Sensodyne?,The price of Sensodyne is 150.0rs,Who is the manufacturer of Sensodyne?,
-Paradontax,150.0,Tooth Paste,What is Paradontax?,,Haleon plc,What is the price of Paradontax?,The price of Paradontax is 150.0rs,Who is the manufacturer of Paradontax?,
-Doctor,150.0,Tooth Paste,What is Doctor?,,Anfords Pakistan (Pvt.) Ltd,What is the price of Doctor?,The price of Doctor is 150.0rs,Who is the manufacturer of Doctor?,
-Nankhatai,20.0,Biscuit,What is Nankhatai?,,LU,What is the price of Nankhatai?,The price of Nankhatai is 20.0rs,Who is the manufacturer of Nankhatai?,
-Butter,20.0,Biscuit,What is Butter?,,LU,What is the price of Butter?,The price of Butter is 20.0rs,Who is the manufacturer of Butter?,
-Cafe,20.0,Biscuit,What is Cafe?,,Mayfair,What is the price of Cafe?,The price of Cafe is 20.0rs,Who is the manufacturer of Cafe?,
-Digestive,30.0,Biscuit,What is Digestive?,,Innovative,What is the price of Digestive?,The price of Digestive is 30.0rs,Who is the manufacturer of Digestive?,
-Chocolatto,20.0,Biscuit,What is Chocolatto?,,Bisconni,What is the price of Chocolatto?,The price of Chocolatto is 20.0rs,Who is the manufacturer of Chocolatto?,
-Party Pik,20.0,Biscuit,What is Party Pik?,,Peek Freans,What is the price of Party Pik?,The price of Party Pik is 20.0rs,Who is the manufacturer of Party Pik?,
-Rite,20.0,Biscuit,What is Rite?,,Bisconni,What is the price of Rite?,The price of Rite is 20.0rs,Who is the manufacturer of Rite?,
-Bistiks,20.0,Biscuit,What is Bistiks?,,LU,What is the price of Bistiks?,The price of Bistiks is 20.0rs,Who is the manufacturer of Bistiks?,
-Click,20.0,Biscuit,What is Click?,,Peek Freans,What is the price of Click?,The price of Click is 20.0rs,Who is the manufacturer of Click?,
-Gluco,20.0,Biscuit,What is Gluco?,,Peek Freans,What is the price of Gluco?,The price of Gluco is 20.0rs,Who is the manufacturer of Gluco?,
-Choco Lava,30.0,Biscuit,What is Choco Lava?,,Peek Freans,What is the price of Choco Lava?,The price of Choco Lava is 30.0rs,Who is the manufacturer of Choco Lava?,
-Rollies,50.0,Cake,What is Rollies?,,Bisconni,What is the price of Rollies?,The price of Rollies is 50.0rs,Who is the manufacturer of Rollies?,
-Wheatable,20.0,Biscuit,What is Wheatable?,,LU,What is the price of Wheatable?,The price of Wheatable is 20.0rs,Who is the manufacturer of Wheatable?,
-Coconut,20.0,Biscuit,What is Coconut?,,LU,What is the price of Coconut?,The price of Coconut is 20.0rs,Who is the manufacturer of Coconut?,
-Nice,20.0,Biscuit,What is Nice?,,LU,What is the price of Nice?,The price of Nice is 20.0rs,Who is the manufacturer of Nice?,
-Classic,20.0,Biscuit,What is Classic?,,LU,What is the price of Classic?,The price of Classic is 20.0rs,Who is the manufacturer of Classic?,
-Peanut,20.0,Biscuit,What is Peanut?,,Innovative,What is the price of Peanut?,The price of Peanut is 20.0rs,Who is the manufacturer of Peanut?,
-Chai Wala Biscuit,20.0,Biscuit,What is Chai Wala Biscuit?,,Bisconni,What is the price of Chai Wala Biscuit?,The price of Chai Wala Biscuit is 20.0rs,Who is the manufacturer of Chai Wala Biscuit?,
-Frisky,40.0,Wafer,What is Frisky?,,Innovative,What is the price of Frisky?,The price of Frisky is nanrs,Who is the manufacturer of Frisky?,
-Deluxe,20.0,Biscuit,What is Deluxe?,,Bisconni,What is the price of Deluxe?,The price of Deluxe is 20.0rs,Who is the manufacturer of Deluxe?,
-TeaTime,20.0,Biscuit,What is TeaTime?,,Cookania,What is the price of TeaTime?,The price of TeaTime is 20.0rs,Who is the manufacturer of TeaTime?,
-Saltish,50.0,Biscuit,What is Saltish?,,Peek Freans,What is the price of Saltish?,The price of Saltish is 50.0rs,Who is the manufacturer of Saltish?,
-Patti Fry,10.0,Chips,What is Patti Fry?,,Winner,What is the price of Patti Fry?,The price of Patti Fry is 10.0rs,Who is the manufacturer of Patti Fry?,
-Finger Fries,10.0,Chips,What is Finger Fries?,,Bolton,What is the price of Finger Fries?,The price of Finger Fries is 10.0rs,Who is the manufacturer of Finger Fries?,
-Snackers,20.0,Chips,What is Snackers?,,Kolson,What is the price of Snackers?,The price of Snackers is 20.0rs,Who is the manufacturer of Snackers?,
-Pingos,20.0,Chips,What is Pingos?,,Jojo,What is the price of Pingos?,The price of Pingos is 20.0rs,Who is the manufacturer of Pingos?,
-Tikka Boti,10.0,Chips,What is Tikka Boti?,,Snacky,What is the price of Tikka Boti?,The price of Tikka Boti is 10.0rs,Who is the manufacturer of Tikka Boti?,
-Chicken Maza,10.0,Chips,What is Chicken Maza?,,Local,What is the price of Chicken Maza?,The price of Chicken Maza is 10.0rs,Who is the manufacturer of Chicken Maza?,
-Fillz,20.0,Chips,What is Fillz?,,Snackcity,What is the price of Fillz?,The price of Fillz is 20.0rs,Who is the manufacturer of Fillz?,
-Pop Star,10.0,Chips,What is Pop Star?,,Shahi,What is the price of Pop Star?,The price of Pop Star is 10.0rs,Who is the manufacturer of Pop Star?,
-Cheese Balls,20.0,Chips,What is Cheese Balls?,,Kolson,What is the price of Cheese Balls?,The price of Cheese Balls is 20.0rs,Who is the manufacturer of Cheese Balls?,
-Chillz,50.0,Chips,What is Chillz?,,Snackcity,What is the price of Chillz?,The price of Chillz is 50.0rs,Who is the manufacturer of Chillz?,
-Potato Sticks,20.0,Chips,What is Potato Sticks?,,Kolson,What is the price of Potato Sticks?,The price of Potato Sticks is 20.0rs,Who is the manufacturer of Potato Sticks?,
-Potato Snacks,20.0,Chips,What is Potato Snacks?,,Yum Treats,What is the price of Potato Snacks?,The price of Potato Snacks is 20.0rs,Who is the manufacturer of Potato Snacks?,
-Pringles,150.0,Chips,What is Pringles?,,P&G,What is the price of Pringles?,The price of Pringles is 150.0rs,Who is the manufacturer of Pringles?,
-Dalda,200.0,Oil & Ghee,What is Dalda?,,Dalda Foods,What is the price of Dalda?,The price of Dalda is 200.0rs,Who is the manufacturer of Dalda?,
-Kisan,200.0,Oil & Ghee,What is Kisan?,,Faisalabad Oil Refinery (Pvt.) Limited (FORL),What is the price of Kisan?,The price of Kisan is 200.0rs,Who is the manufacturer of Kisan?,
-Habib,200.0,Oil & Ghee,What is Habib?,,Habib,What is the price of Habib?,The price of Habib is 200.0rs,Who is the manufacturer of Habib?,
-Tullo,200.0,Oil & Ghee,What is Tullo?,,Wazir Ali Industries Limited and Dalda Foods Ltd,What is the price of Tullo?,The price of Tullo is 200.0rs,Who is the manufacturer of Tullo?,
-Sufi,200.0,Oil & Ghee,What is Sufi?,,Sufi Banaspati & Cooking Oil,What is the price of Sufi?,The price of Sufi is 200.0rs,Who is the manufacturer of Sufi?,
-Manpasand,200.0,Oil & Ghee,What is Manpasand?,,Manpasand Beverages Limited,What is the price of Manpasand?,The price of Manpasand is 200.0rs,Who is the manufacturer of Manpasand?,
-Golden Sun,200.0,Oil & Ghee,What is Golden Sun?,,Iffco Group,What is the price of Golden Sun?,The price of Golden Sun is 200.0rs,Who is the manufacturer of Golden Sun?,
-Meezan,200.0,Oil & Ghee,What is Meezan?,,Meezan Group,What is the price of Meezan?,The price of Meezan is 200.0rs,Who is the manufacturer of Meezan?,
-Soya Supreme,200.0,Oil & Ghee,What is Soya Supreme?,,Agro Processors & Atmospheric Gases (Pvt.) Ltd. (APAG),What is the price of Soya Supreme?,The price of Soya Supreme is 200.0rs,Who is the manufacturer of Soya Supreme?,
-Kiran,200.0,Oil & Ghee,What is Kiran?,,Kiran Group,What is the price of Kiran?,The price of Kiran is 200.0rs,Who is the manufacturer of Kiran?,
-Sultan,200.0,Oil & Ghee,What is Sultan?,,Al-Hilal Industries (Pvt) Limited,What is the price of Sultan?,The price of Sultan is 200.0rs,Who is the manufacturer of Sultan?,
-Bake Time,40.0,Cake,What is Bake Time?,,Hilal Foods,What is the price of Bake Time?,The price of Bake Time is 40.0rs,Who is the manufacturer of Bake Time?,
-Good Goodies,20.0,Cake,What is Good Goodies?,,Mitchells (Pvt) Ltd,What is the price of Good Goodies?,The price of Good Goodies is 20.0rs,Who is the manufacturer of Good Goodies?,
-Smile,50.0,Cake,What is Smile?,,Peek Freans,What is the price of Smile?,The price of Smile is 50.0rs,Who is the manufacturer of Smile?,
-Lotus,50.0,Cake,What is Lotus?,,Bisconni,What is the price of Lotus?,The price of Lotus is 50.0rs,Who is the manufacturer of Lotus?,
-Kake,20.0,Cake,What is Kake?,,Hilal Foods,What is the price of Kake?,The price of Kake is 20.0rs,Who is the manufacturer of Kake?,
-Care,80.0,Soap,What is Care?,,Care Cosmetics,What is the price of Care?,The price of Care is 80.0rs,Who is the manufacturer of Care?,
-Capri,80.0,Soap,What is Capri?,,ZIL Limited,What is the price of Capri?,The price of Capri is 80.0rs,Who is the manufacturer of Capri?,
-Lara,80.0,Soap,What is Lara?,,Lara Cosmetic,What is the price of Lara?,The price of Lara is 80.0rs,Who is the manufacturer of Lara?,
-Express Power,250.0,Detergent,What is Express Power?,,Colgate-Palmolive (Pakistan) Ltd,What is the price of Express Power?,The price of Express Power is 250.0rs,Who is the manufacturer of Express Power?,
-Yums,10.0,Chew,What is Yums?,,CandyLand,What is the price of Yums?,The price of Yums is 10.0rs,Who is the manufacturer of Yums?,
-Super Sour,5.0,Candy,What is Super Sour?,,Hilal Foods,What is the price of Super Sour?,The price of Super Sour is 5.0rs,Who is the manufacturer of Super Sour?,
-Creamers,5.0,Candy,What is Creamers?,,Mayfair,What is the price of Creamers?,The price of Creamers is 5.0rs,Who is the manufacturer of Creamers?,
-Bisca,30.0,Chocolate,What is Bisca?,,CandyLand,What is the price of Bisca?,The price of Bisca is 30.0rs,Who is the manufacturer of Bisca?,
-Caramel,30.0,Chocolate,What is Caramel?,,Shirin Asal,What is the price of Caramel?,The price of Caramel is 30.0rs,Who is the manufacturer of Caramel?,
-You,30.0,Chocolate,What is You?,,CandyLand,What is the price of You?,The price of You is 30.0rs,Who is the manufacturer of You?,
-Hiss,30.0,Chocolate,What is Hiss?,,Shirin Asal,What is the price of Hiss?,The price of Hiss is 30.0rs,Who is the manufacturer of Hiss?,
-Bittens,30.0,Chocolate,What is Bittens?,,Innovative,What is the price of Bittens?,The price of Bittens is 30.0rs,Who is the manufacturer of Bittens?,
-Mars,150.0,Chocolate,What is Mars?,,"Mars, Incorporated",What is the price of Mars?,The price of Mars is 150.0rs,Who is the manufacturer of Mars?,
-KitKat,150.0,Chocolate,What is KitKat?,,Nestle,What is the price of KitKat?,The price of KitKat is 150.0rs,Who is the manufacturer of KitKat?,
-Opus,5.0,Chocolate,What is Opus?,,Giggly,What is the price of Opus?,The price of Opus is 5.0rs,Who is the manufacturer of Opus?,
+Lemon,20.0,Biscuit,What is Lemon?,,Peek Freans,What is the price of Lemon?,The price of Lemon is 20rs,Who is the manufacturer of Lemon?,The manufacturer of Lemon is Peek Freans
+Lemon Max,30.0,Soap,What is Lemon Max?,,Colgate-Palmolive,What is the price of Lemon Max?,The price of Lemon Max is 30.0rs,Who is the manufacturer of Lemon Max?,The manufacturer of Lemon Max is Colgate-Palmolive
+Touch,150.0,Condom,What is Touch?,,Greenstar,What is the price of Touch?,The price of Touch is 150.0rs,Who is the manufacturer of Touch?,The manufacturer of Touch is Greenstar
+Salva,20.0,Nimco,What is Salva?,,Zia Foods,What is the price of Salva?,The price of Salva is 20.0rs,Who is the manufacturer of Salva?,The manufacturer of Salva is Zia Foods
+Colgate,100.0,Tooth Paste,What is Colgate?,,Colgate-Palmolive,What is the price of Colgate?,The price of Colgate is 100.0rs,Who is the manufacturer of Colgate?,The manufacturer of Colgate is Colgate-Palmolive
+Sensodyne,150.0,Tooth Paste,What is Sensodyne?,,Haleon plc,What is the price of Sensodyne?,The price of Sensodyne is 150.0rs,Who is the manufacturer of Sensodyne?,The manufacturer of Sensodyne is Haleon plc
+Paradontax,150.0,Tooth Paste,What is Paradontax?,,Haleon plc,What is the price of Paradontax?,The price of Paradontax is 150.0rs,Who is the manufacturer of Paradontax?,The manufacturer of Paradontax is Haleon plc
+Doctor,150.0,Tooth Paste,What is Doctor?,,Anfords Pakistan (Pvt.) Ltd,What is the price of Doctor?,The price of Doctor is 150.0rs,Who is the manufacturer of Doctor?,The manufacturer of Doctor is Anfords Pakistan (Pvt.) Ltd
+Nankhatai,20.0,Biscuit,What is Nankhatai?,,LU,What is the price of Nankhatai?,The price of Nankhatai is 20.0rs,Who is the manufacturer of Nankhatai?,The manufacturer of Nankhatai is LU
+Butter,20.0,Biscuit,What is Butter?,,LU,What is the price of Butter?,The price of Butter is 20.0rs,Who is the manufacturer of Butter?,The manufacturer of Butter is LU
+Cafe,20.0,Biscuit,What is Cafe?,,Mayfair,What is the price of Cafe?,The price of Cafe is 20.0rs,Who is the manufacturer of Cafe?,The manufacturer of Cafe is Mayfair
+Digestive,30.0,Biscuit,What is Digestive?,,Innovative,What is the price of Digestive?,The price of Digestive is 30.0rs,Who is the manufacturer of Digestive?,The manufacturer of Digestive is Innovative
+Chocolatto,20.0,Biscuit,What is Chocolatto?,,Bisconni,What is the price of Chocolatto?,The price of Chocolatto is 20.0rs,Who is the manufacturer of Chocolatto?,The manufacturer of Chocolatto is Bisconni
+Party Pik,20.0,Biscuit,What is Party Pik?,,Peek Freans,What is the price of Party Pik?,The price of Party Pik is 20.0rs,Who is the manufacturer of Party Pik?,The manufacturer of Party Pik is Peek Freans
+Rite,20.0,Biscuit,What is Rite?,,Bisconni,What is the price of Rite?,The price of Rite is 20.0rs,Who is the manufacturer of Rite?,The manufacturer of Rite is Bisconni
+Bistiks,20.0,Biscuit,What is Bistiks?,,LU,What is the price of Bistiks?,The price of Bistiks is 20.0rs,Who is the manufacturer of Bistiks?,The manufacturer of Bistiks is LU
+Click,20.0,Biscuit,What is Click?,,Peek Freans,What is the price of Click?,The price of Click is 20.0rs,Who is the manufacturer of Click?,The manufacturer of Click is Peek Freans
+Gluco,20.0,Biscuit,What is Gluco?,,Peek Freans,What is the price of Gluco?,The price of Gluco is 20.0rs,Who is the manufacturer of Gluco?,The manufacturer of Gluco is Peek Freans
+Choco Lava,30.0,Biscuit,What is Choco Lava?,,Peek Freans,What is the price of Choco Lava?,The price of Choco Lava is 30.0rs,Who is the manufacturer of Choco Lava?,The manufacturer of Choco Lava is Peek Freans
+Rollies,50.0,Cake,What is Rollies?,,Bisconni,What is the price of Rollies?,The price of Rollies is 50.0rs,Who is the manufacturer of Rollies?,The manufacturer of Rollies is Bisconni
+Wheatable,20.0,Biscuit,What is Wheatable?,,LU,What is the price of Wheatable?,The price of Wheatable is 20.0rs,Who is the manufacturer of Wheatable?,The manufacturer of Wheatable is LU
+Coconut,20.0,Biscuit,What is Coconut?,,LU,What is the price of Coconut?,The price of Coconut is 20.0rs,Who is the manufacturer of Coconut?,The manufacturer of Coconut is LU
+Nice,20.0,Biscuit,What is Nice?,,LU,What is the price of Nice?,The price of Nice is 20.0rs,Who is the manufacturer of Nice?,The manufacturer of Nice is LU
+Classic,20.0,Biscuit,What is Classic?,,LU,What is the price of Classic?,The price of Classic is 20.0rs,Who is the manufacturer of Classic?,The manufacturer of Classic is LU
+Peanut,20.0,Biscuit,What is Peanut?,,Innovative,What is the price of Peanut?,The price of Peanut is 20.0rs,Who is the manufacturer of Peanut?,The manufacturer of Peanut is Innovative
+Chai Wala Biscuit,20.0,Biscuit,What is Chai Wala Biscuit?,,Bisconni,What is the price of Chai Wala Biscuit?,The price of Chai Wala Biscuit is 20.0rs,Who is the manufacturer of Chai Wala Biscuit?,The manufacturer of Chai Wala Biscuit is Bisconni
+Frisky,40.0,Wafer,What is Frisky?,,Innovative,What is the price of Frisky?,The price of Frisky is nanrs,Who is the manufacturer of Frisky?,The manufacturer of Frisky is Innovative
+Deluxe,20.0,Biscuit,What is Deluxe?,,Bisconni,What is the price of Deluxe?,The price of Deluxe is 20.0rs,Who is the manufacturer of Deluxe?,The manufacturer of Deluxe is Bisconni
+TeaTime,20.0,Biscuit,What is TeaTime?,,Cookania,What is the price of TeaTime?,The price of TeaTime is 20.0rs,Who is the manufacturer of TeaTime?,The manufacturer of TeaTime is Cookania
+Saltish,50.0,Biscuit,What is Saltish?,,Peek Freans,What is the price of Saltish?,The price of Saltish is 50.0rs,Who is the manufacturer of Saltish?,The manufacturer of Saltish is Peek Freans
+Patti Fry,10.0,Chips,What is Patti Fry?,,Winner,What is the price of Patti Fry?,The price of Patti Fry is 10.0rs,Who is the manufacturer of Patti Fry?,The manufacturer of Patti Fry is Winner
+Finger Fries,10.0,Chips,What is Finger Fries?,,Bolton,What is the price of Finger Fries?,The price of Finger Fries is 10.0rs,Who is the manufacturer of Finger Fries?,The manufacturer of Finger Fries is Bolton
+Snackers,20.0,Chips,What is Snackers?,,Kolson,What is the price of Snackers?,The price of Snackers is 20.0rs,Who is the manufacturer of Snackers?,The manufacturer of Snackers is Kolson
+Pingos,20.0,Chips,What is Pingos?,,Jojo,What is the price of Pingos?,The price of Pingos is 20.0rs,Who is the manufacturer of Pingos?,The manufacturer of Pingos is Jojo
+Tikka Boti,10.0,Chips,What is Tikka Boti?,,Snacky,What is the price of Tikka Boti?,The price of Tikka Boti is 10.0rs,Who is the manufacturer of Tikka Boti?,The manufacturer of Tikka Boti is Snacky
+Chicken Maza,10.0,Chips,What is Chicken Maza?,,Local,What is the price of Chicken Maza?,The price of Chicken Maza is 10.0rs,Who is the manufacturer of Chicken Maza?,The manufacturer of Chicken Maza is Local
+Fillz,20.0,Chips,What is Fillz?,,Snackcity,What is the price of Fillz?,The price of Fillz is 20.0rs,Who is the manufacturer of Fillz?,The manufacturer of Fillz is Snackcity
+Pop Star,10.0,Chips,What is Pop Star?,,Shahi,What is the price of Pop Star?,The price of Pop Star is 10.0rs,Who is the manufacturer of Pop Star?,The manufacturer of Pop Star is Shahi
+Cheese Balls,20.0,Chips,What is Cheese Balls?,,Kolson,What is the price of Cheese Balls?,The price of Cheese Balls is 20.0rs,Who is the manufacturer of Cheese Balls?,The manufacturer of Cheese Balls is Kolson
+Chillz,50.0,Chips,What is Chillz?,,Snackcity,What is the price of Chillz?,The price of Chillz is 50.0rs,Who is the manufacturer of Chillz?,The manufacturer of Chillz is Snackcity
+Potato Sticks,20.0,Chips,What is Potato Sticks?,,Kolson,What is the price of Potato Sticks?,The price of Potato Sticks is 20.0rs,Who is the manufacturer of Potato Sticks?,The manufacturer of Potato Sticks is Kolson
+Potato Snacks,20.0,Chips,What is Potato Snacks?,,Yum Treats,What is the price of Potato Snacks?,The price of Potato Snacks is 20.0rs,Who is the manufacturer of Potato Snacks?,The manufacturer of Potato Snacks is Yum Treats
+Pringles,150.0,Chips,What is Pringles?,,P&G,What is the price of Pringles?,The price of Pringles is 150.0rs,Who is the manufacturer of Pringles?,The manufacturer of Pringles is P&G
+Dalda,200.0,Oil & Ghee,What is Dalda?,,Dalda Foods,What is the price of Dalda?,The price of Dalda is 200.0rs,Who is the manufacturer of Dalda?,The manufacturer of Dalda is Dalda Foods
+Kisan,200.0,Oil & Ghee,What is Kisan?,,Faisalabad Oil Refinery (Pvt.) Limited (FORL),What is the price of Kisan?,The price of Kisan is 200.0rs,Who is the manufacturer of Kisan?,The manufacturer of Kisan is Faisalabad Oil Refinery (Pvt.) Limited (FORL)
+Habib,200.0,Oil & Ghee,What is Habib?,,Habib,What is the price of Habib?,The price of Habib is 200.0rs,Who is the manufacturer of Habib?,The manufacturer of Habib is Habib
+Tullo,200.0,Oil & Ghee,What is Tullo?,,Wazir Ali Industries Limited and Dalda Foods Ltd,What is the price of Tullo?,The price of Tullo is 200.0rs,Who is the manufacturer of Tullo?,The manufacturer of Tullo is Wazir Ali Industries Limited and Dalda Foods Ltd
+Sufi,200.0,Oil & Ghee,What is Sufi?,,Sufi Banaspati & Cooking Oil,What is the price of Sufi?,The price of Sufi is 200.0rs,Who is the manufacturer of Sufi?,The manufacturer of Sufi is Sufi Banaspati & Cooking Oil
+Manpasand,200.0,Oil & Ghee,What is Manpasand?,,Manpasand Beverages Limited,What is the price of Manpasand?,The price of Manpasand is 200.0rs,Who is the manufacturer of Manpasand?,The manufacturer of Manpasand is Manpasand Beverages Limited
+Golden Sun,200.0,Oil & Ghee,What is Golden Sun?,,Iffco Group,What is the price of Golden Sun?,The price of Golden Sun is 200.0rs,Who is the manufacturer of Golden Sun?,The manufacturer of Golden Sun is Iffco Group
+Meezan,200.0,Oil & Ghee,What is Meezan?,,Meezan Group,What is the price of Meezan?,The price of Meezan is 200.0rs,Who is the manufacturer of Meezan?,The manufacturer of Meezan is Meezan Group
+Soya Supreme,200.0,Oil & Ghee,What is Soya Supreme?,,Agro Processors & Atmospheric Gases (Pvt.) Ltd. (APAG),What is the price of Soya Supreme?,The price of Soya Supreme is 200.0rs,Who is the manufacturer of Soya Supreme?,The manufacturer of Soya Supreme is Agro Processors & Atmospheric Gases (Pvt.) Ltd. (APAG)
+Kiran,200.0,Oil & Ghee,What is Kiran?,,Kiran Group,What is the price of Kiran?,The price of Kiran is 200.0rs,Who is the manufacturer of Kiran?,The manufacturer of Kiran is Kiran Group
+Sultan,200.0,Oil & Ghee,What is Sultan?,,Al-Hilal Industries (Pvt) Limited,What is the price of Sultan?,The price of Sultan is 200.0rs,Who is the manufacturer of Sultan?,The manufacturer of Sultan is Al-Hilal Industries (Pvt) Limited
+Bake Time,40.0,Cake,What is Bake Time?,,Hilal Foods,What is the price of Bake Time?,The price of Bake Time is 40.0rs,Who is the manufacturer of Bake Time?,The manufacturer of Bake Time is Hilal Foods
+Good Goodies,20.0,Cake,What is Good Goodies?,,Mitchells (Pvt) Ltd,What is the price of Good Goodies?,The price of Good Goodies is 20.0rs,Who is the manufacturer of Good Goodies?,The manufacturer of Good Goodies is Mitchells (Pvt) Ltd
+Smile,50.0,Cake,What is Smile?,,Peek Freans,What is the price of Smile?,The price of Smile is 50.0rs,Who is the manufacturer of Smile?,The manufacturer of Smile is Peek Freans
+Lotus,50.0,Cake,What is Lotus?,,Bisconni,What is the price of Lotus?,The price of Lotus is 50.0rs,Who is the manufacturer of Lotus?,The manufacturer of Lotus is Bisconni
+Kake,20.0,Cake,What is Kake?,,Hilal Foods,What is the price of Kake?,The price of Kake is 20.0rs,Who is the manufacturer of Kake?,The manufacturer of Kake is Hilal Foods
+Care,80.0,Soap,What is Care?,,Care Cosmetics,What is the price of Care?,The price of Care is 80.0rs,Who is the manufacturer of Care?,The manufacturer of Care is Care Cosmetics
+Capri,80.0,Soap,What is Capri?,,ZIL Limited,What is the price of Capri?,The price of Capri is 80.0rs,Who is the manufacturer of Capri?,The manufacturer of Capri is ZIL Limited
+Lara,80.0,Soap,What is Lara?,,Lara Cosmetic,What is the price of Lara?,The price of Lara is 80.0rs,Who is the manufacturer of Lara?,The manufacturer of Lara is Lara Cosmetic
+Express Power,250.0,Detergent,What is Express Power?,,Colgate-Palmolive (Pakistan) Ltd,What is the price of Express Power?,The price of Express Power is 250.0rs,Who is the manufacturer of Express Power?,The manufacturer of Express Power is Colgate-Palmolive (Pakistan) Ltd
+Yums,10.0,Chew,What is Yums?,,CandyLand,What is the price of Yums?,The price of Yums is 10.0rs,Who is the manufacturer of Yums?,The manufacturer of Yums is CandyLand
+Super Sour,5.0,Candy,What is Super Sour?,,Hilal Foods,What is the price of Super Sour?,The price of Super Sour is 5.0rs,Who is the manufacturer of Super Sour?,The manufacturer of Super Sour is Hilal Foods
+Creamers,5.0,Candy,What is Creamers?,,Mayfair,What is the price of Creamers?,The price of Creamers is 5.0rs,Who is the manufacturer of Creamers?,The manufacturer of Creamers is Mayfair
+Bisca,30.0,Chocolate,What is Bisca?,,CandyLand,What is the price of Bisca?,The price of Bisca is 30.0rs,Who is the manufacturer of Bisca?,The manufacturer of Bisca is CandyLand
+Caramel,30.0,Chocolate,What is Caramel?,,Shirin Asal,What is the price of Caramel?,The price of Caramel is 30.0rs,Who is the manufacturer of Caramel?,The manufacturer of Caramel is Shirin Asal
+You,30.0,Chocolate,What is You?,,CandyLand,What is the price of You?,The price of You is 30.0rs,Who is the manufacturer of You?,The manufacturer of You is CandyLand
+Hiss,30.0,Chocolate,What is Hiss?,,Shirin Asal,What is the price of Hiss?,The price of Hiss is 30.0rs,Who is the manufacturer of Hiss?,The manufacturer of Hiss is Shirin Asal
+Bittens,30.0,Chocolate,What is Bittens?,,Innovative,What is the price of Bittens?,The price of Bittens is 30.0rs,Who is the manufacturer of Bittens?,The manufacturer of Bittens is Innovative
+Mars,150.0,Chocolate,What is Mars?,,"Mars, Incorporated",What is the price of Mars?,The price of Mars is 150.0rs,Who is the manufacturer of Mars?,"The manufacturer of Mars is Mars, Incorporated"
+KitKat,150.0,Chocolate,What is KitKat?,,Nestle,What is the price of KitKat?,The price of KitKat is 150.0rs,Who is the manufacturer of KitKat?,The manufacturer of KitKat is Nestle
+Opus,5.0,Chocolate,What is Opus?,,Giggly,What is the price of Opus?,The price of Opus is 5.0rs,Who is the manufacturer of Opus?,The manufacturer of Opus is Giggly
