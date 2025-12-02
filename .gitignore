@@ -4,3 +4,6 @@ static/output.mp3
 .idea/misc.xml
 .idea/vcs.xml
 /fine_tuned_sbert
+__pycache__/
+*.pyc
+\__pycache__\app.cpython-312.pyc
