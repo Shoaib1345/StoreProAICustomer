@@ -20,9 +20,6 @@ pip install numpy
 pip install scikit-learn
 ```
 ``` 
-pip install pyngrok
-```
-``` 
 pip install datasets
 ```
 ``` 
@@ -30,9 +27,6 @@ pip install transformers[torch]
 ```
 ```
 python train.py
-```
-```
-python finetune.py
 ```
 # 3️⃣ Run the Flask app
 python app.py
