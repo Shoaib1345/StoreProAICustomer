@@ -533,7 +533,7 @@
   },
   {
     "input": "What is Peach Jelly?",
-    "output": "Peach jelly is a smooth, translucent fruit preserve made from peach juice, sugar, and pectin ."
+    "output": "Peach jelly is a smooth, translucent fruit preserve made from peach juice, sugar, and pectin."
   },
   {
     "input": "What is Gummy Bear?",
@@ -549,11 +549,11 @@
   },
   {
     "input": "What is Berries?",
-    "output": "Berries jelly is a preserve made from the strained juice of various berries, combined with sugar and a gelling agent like pectin or gelatin. "
+    "output": "Berries jelly is a preserve made from the strained juice of various berries, combined with sugar and a gelling agent like pectin or gelatin."
   },
   {
     "input": "What is Jelly Strawberry?",
-    "output": "a fruit spread made from strawberry juice, sugar, and pectin, or a gelatin dessert that is popular in the UK. "
+    "output": "a fruit spread made from strawberry juice, sugar, and pectin, or a gelatin dessert that is popular in the UK."
   },
   {
     "input": "What is Amrood Jelly?",
@@ -645,7 +645,7 @@
   },
   {
     "input": "What is Adaab?",
-    "output": "The product is known for its \"traditional flavor\" and is widely exported from India to markets in Pakistan, Afghanistan, and the Middle East. The product is consumed for cultural and social occasions and is associated with a rich and satisfying taste. "
+    "output": "The product is known for its traditional flavor and is widely exported from India to markets in Pakistan, Afghanistan, and the Middle East. The product is consumed for cultural and social occasions and is associated with a rich and satisfying taste."
   },
   {
     "input": "What is Rajni?",
@@ -653,7 +653,7 @@
   },
   {
     "input": "What is Pan Parag?",
-    "output": "Pan Parag is a brand name for a popular Indian mouth freshener and a pioneer in the pan masala industry ."
+    "output": "Pan Parag is a brand name for a popular Indian mouth freshener and a pioneer in the pan masala industry."
   },
   {
     "input": "What is Mughlia?",
@@ -673,15 +673,15 @@
   },
   {
     "input": "What is Knor Chicken?",
-    "output": "Knorr Chicken is a brand of food products that enhances the flavor of dishes with a savory, chicken taste. "
+    "output": "Knorr Chicken is a brand of food products that enhances the flavor of dishes with a savory, chicken taste."
   },
   {
     "input": "What is Shoop Chatpata?",
-    "output": "Shoop Chatpata is a brand of instant noodles from Shan Foods that are known for their spicy and tangy \"chatpata\" . "
+    "output": "Shoop Chatpata is a brand of instant noodles from Shan Foods that are known for their spicy and tangy chatpata."
   },
   {
     "input": "What is Knor Chatpata?",
-    "output": "Knorr Chatpata is a type of instant noodle with a popular, tangy and spicy \"chatpata\" flavor profile, inspired by South Asian street food."
+    "output": "Knorr Chatpata is a type of instant noodle with a popular, tangy and spicy chatpata flavor profile, inspired by South Asian street food."
   },
   {
     "input": "What is Mixed Pickle?",
@@ -689,7 +689,7 @@
   },
   {
     "input": "What is Treet?",
-    "output": "Treet is a Pakistani conglomerate that primarily manufactures razors and razor blades, including disposable and safety razors for personal hygiene, as well as other products like batteries and soaps ."
+    "output": "Treet is a Pakistani conglomerate that primarily manufactures razors and razor blades, including disposable and safety razors for personal hygiene, as well as other products like batteries and soaps."
   },
   {
     "input": "What is Trig?",
@@ -709,7 +709,7 @@
   },
   {
     "input": "What is Embrace?",
-    "output": "Embrace is a brand of sanitary pads from Pakistan, offering a range of products like the Sensitives line for sensitive skin and \"Essentials\" for regular use. These pads are known for features like being perfume and ink-free, having a cotton-soft top sheet, and a breathable backsheet for comfort. Some specific products are designed to be extra long, maxi thick, or ultra-thin."
+    "output": "Embrace is a brand of sanitary pads from Pakistan, offering a range of products like the Sensitives line for sensitive skin and Essentials for regular use. These pads are known for features like being perfume and ink-free, having a cotton-soft top sheet, and a breathable backsheet for comfort. Some specific products are designed to be extra long, maxi thick, or ultra-thin."
   },
   {
     "input": "What is Sunsilk?",
@@ -725,11 +725,11 @@
   },
   {
     "input": "What is Lifebouy Shampoo?",
-    "output": null
+    "output": "Lifebuoy is a brand of soap, originally famous for its carbolic acid content, that is now marketed as a germ-protection soap with various formulations for hand and body hygiene"
   },
   {
     "input": "What is Clear?",
-    "output": null
+    "output": "Clear is a brand of shampoo that focuses on scalp care, primarily known for its anti-dandruff properties and its use of technologies like Triple Anti-Dandruff Technology."
   },
   {
     "input": "What is Power Plus?",
@@ -2797,7 +2797,7 @@
     },
         {
         "input":"What is Lemon?",
-        "output":"A lemon biscuit is a type of cookie or biscuit with a citrus flavor, achieved by adding lemon zest and\/or juice to the dough"
+        "output":"A lemon biscuit is a type of cookie or biscuit with a citrus flavor, achieved by adding lemon zest and or juice to the dough"
     },
     {
         "input":"What is Lemon Max?",
@@ -2805,7 +2805,7 @@
     },
     {
         "input":"What is Touch?",
-        "output":" condoms are made from natural rubber latex, are electronically tested, and are designed to provide protection against unwanted pregnancies and sexually transmitted infections (STIs). "
+        "output":" condoms are made from natural rubber latex, are electronically tested, and are designed to provide protection against unwanted pregnancies and sexually transmitted infections (STIs)."
     },
     {
         "input":"What is Salva?",
@@ -2857,15 +2857,15 @@
     },
     {
         "input":"What is Bistiks?",
-        "output":"Bistiks is a brand name for a type of biscuit, specifically LU Bakeri Bistiks, which are typically crunchy, finger-shaped biscuits often infused with flavors like lemon and vanilla. "
+        "output":"Bistiks is a brand name for a type of biscuit, specifically LU Bakeri Bistiks, which are typically crunchy, finger-shaped biscuits often infused with flavors like lemon and vanilla."
     },
     {
         "input":"What is Click?",
-        "output":" It is described as a soft dough biscuit with a distinctive crunchy texture and the added \"zing\" of roasted cumin seeds."
+        "output":" It is described as a soft dough biscuit with a distinctive crunchy texture and the added zing of roasted cumin seeds."
     },
     {
         "input":"What is Gluco?",
-        "output":"A \"Gluco\" biscuit is a type of energy biscuit, often a plain, sweet, and crunchy biscuit that provides a quick source of energy due to its glucose content"
+        "output":"A Gluco biscuit is a type of energy biscuit, often a plain, sweet, and crunchy biscuit that provides a quick source of energy due to its glucose content"
     },
     {
         "input":"What is Choco Lava?",
@@ -2885,7 +2885,7 @@
     },
     {
         "input":"What is Nice?",
-        "output":"A \"Nice\" biscuit is a thin, rectangular, coconut-flavored biscuit that is lightly sprinkled with sugar crystals, often with the word \"NICE\" imprinted on to"
+        "output":"A Nice biscuit is a thin, rectangular, coconut-flavored biscuit that is lightly sprinkled with sugar crystals, often with the word NICE imprinted on to"
     },
     {
         "input":"What is Classic?",
@@ -2897,7 +2897,7 @@
     },
     {
         "input":"What is Chai Wala Biscuit?",
-        "output":"A \"Chai Wala Biscuit\" is a type of cookie or cracker, specifically designed to be eaten with tea."
+        "output":"A Chai Wala Biscuit is a type of cookie or cracker, specifically designed to be eaten with tea."
     },
     {
         "input":"What is Frisky?",
@@ -2945,7 +2945,7 @@
     },
     {
         "input":"What is Pop Star?",
-        "output":"Pop Star snacks are a brand of baked, extruded snacks made from cornmeal, known for being a \"healthier alternative\" to fried potato snack"
+        "output":"Pop Star snacks are a brand of baked, extruded snacks made from cornmeal, known for being a healthier alternative to fried potato snack"
     },
     {
         "input":"What is Cheese Balls?",
@@ -3037,7 +3037,7 @@
     },
     {
         "input":"What is Capri?",
-        "output":"The soaps are made with natural ingredients and fragrances, aiming to provide a luxurious, gentle cleansing experience that leaves skin soft, nourished, and fresh. "
+        "output":"The soaps are made with natural ingredients and fragrances, aiming to provide a luxurious, gentle cleansing experience that leaves skin soft, nourished, and fresh."
     },
     {
         "input":"What is Lara?",
@@ -3069,7 +3069,7 @@
     },
     {
         "input":"What is You?",
-        "output":"You is chocolate known for its creamy texture and balanced sweetness. "
+        "output":"You is chocolate known for its creamy texture and balanced sweetness."
     },
     {
         "input":"What is Hiss?",
