@@ -3578,5 +3578,153 @@
   {
     "input": "How many types of Water do you have?",
     "output": "We have 3 types of Water"
+  },
+  {
+    "input": "What are all the Biscuit products are?",
+    "output": "The Biscuit products are: Oreo, Cocomo, Special, Sooper, Milcolu, Milkabisk, Butter Puff, Marie, Peanut Pik, Gala, Candy, Peanut Pista, Rio, Prince, Day Dream, Tuc, Tiger, Zeera Plus, Chocolate Chip, Lemon, Nankhatai, Butter, Cafe, Digestive, Chocolatto, Party Pik, Rite, Bistiks, Click, Gluco, Choco Lava, Wheatable, Coconut, Nice, Classic, Peanut, Chai Wala Biscuit, Delice, TeaTime, Saltish"
+  },
+  {
+    "input": "What are all the Cake products are?",
+    "output": "The Cake products are: Hilal Cup cake, Sooper Cake, Rollies, Bake Time, Good Goodies, Smile, Lotus, Kake"
+  },
+  {
+    "input": "What are all the Candy products are?",
+    "output": "The Candy products are: Hoest, Chaska, Hajmola Imli, Chooran Chatni, Aamrus, Frooto Apple, Panpasand, Eclairs, Frooto Amrood, Frooto Orange, Softmint ice, Frooto, Fruit Gala, Fanta, Khopra, Super Sour, Creamers"
+  },
+  {
+    "input": "What are all the Chew products are?",
+    "output": "The Chew products are: Mentos, Yums"
+  },
+  {
+    "input": "What are all the Chew Gum products are?",
+    "output": "The Chew Gum products are: Bubble Pop, Joe Soft, Ding Dong, Boom Boom, Fresh up"
+  },
+  {
+    "input": "What are all the Chips products are?",
+    "output": "The Chips products are: Lays, Wavy, Slanty, Kurkure, Kurleez, Cheetos, Patti Fry, Finger Fries, Snackers, Pingos, Tikka Boti, Chicken Maza, Fillz, Pop Star, Cheese Balls, Chillz, Potato Sticks, Potato Snacks, Pringles"
+  },
+  {
+    "input": "What are all the Chocolate products are?",
+    "output": "The Chocolate products are: Now, Paradise, Jubilee, Sonnet, Snickers, Dairy Milk, Bisca, Caramel, You, Hiss, Bittens, Mars, KitKat, Opus"
+  },
+  {
+    "input": "What are all the Cigarette products are?",
+    "output": "The Cigarette products are: Capstan, Gold Leaf, Gold Flake, Dunhill, Morven Gold, John Player, Marlobolo Crafted, Pine"
+  },
+  {
+    "input": "What are all the Condom products are?",
+    "output": "The Condom products are: Dot, Josh, Durex, Sathi, Touch"
+  },
+  {
+    "input": "What are all the Cream products are?",
+    "output": "The Cream products are: Blueband, Olpers Cream, Milkpak Cream, Nurpur Cream"
+  },
+  {
+    "input": "What are all the Custard Jelly products are?",
+    "output": "The Custard Jelly products are: Jelly Banana, Jelly Mixed Fruit"
+  },
+  {
+    "input": "What are all the Detergent products are?",
+    "output": "The Detergent products are: Sunlight, Bonus, Ariel, Surf Excel, Brite, Express Power"
+  },
+  {
+    "input": "What are all the Diaper products are?",
+    "output": "The Diaper products are: Pampers, Bona Papa, Canbebe, Royal Ozone"
+  },
+  {
+    "input": "What are all the Digestion Pill products are?",
+    "output": "The Digestion Pill products are: Gastril"
+  },
+  {
+    "input": "What are all the Food Packet products are?",
+    "output": "The Food Packet products are: Vermicelli, Quorma, Biryani, Coriander, Kasuri Methi, Garam Masala, Bombay Biryani"
+  },
+  {
+    "input": "What are all the Jelly products are?",
+    "output": "The Jelly products are: Pebbles, Wobbly, Peach Jelly, Gummy Bear, Jelly Fish, Jello Bello, Berries, Jelly Strawberry, Amrood Jelly, Fizzi O, Anda, ABC, Chilli Milli, Twisto"
+  },
+  {
+    "input": "What are all the Juice products are?",
+    "output": "The Juice products are: Polly, Fruita Vitals Apple, Fruita Vitals Red Anaar, Pakola, Rani Peach, Rani Orange, Nesfruita, Slice, Nesfruita Red Grapes"
+  },
+  {
+    "input": "What are all the Ketchup products are?",
+    "output": "The Ketchup products are: Chilli Garlic Sauce, Tomato Ketchup"
+  },
+  {
+    "input": "What are all the Milk Whitener products are?",
+    "output": "The Milk Whitener products are: Nurpur, Olpers, Dostea, Milkpak, Tarang"
+  },
+  {
+    "input": "What are all the Nicotine products are?",
+    "output": "The Nicotine products are: Adaab, Rajni, Pan Parag"
+  },
+  {
+    "input": "What are all the Nimco products are?",
+    "output": "The Nimco products are: Mughlia, Lunch Time, Ballay Ballay, Salva"
+  },
+  {
+    "input": "What are all the Noodles products are?",
+    "output": "The Noodles products are: Shoop Chicken, Knor Chicken, Shoop Chatpata, Knor Chatpata"
+  },
+  {
+    "input": "What are all the Oil & Ghee products are?",
+    "output": "The Oil & Ghee products are: Dalda, Kisan, Habib, Tullo, Sufi, Manpasand, Golden Sun, Meezan, Soya Supreme, Kiran, Sultan"
+  },
+  {
+    "input": "What are all the Pickle products are?",
+    "output": "The Pickle products are: Mixed Pickle"
+  },
+  {
+    "input": "What are all the Razor products are?",
+    "output": "The Razor products are: Treet, Trig, Gillete"
+  },
+  {
+    "input": "What are all the Sanitary Pads products are?",
+    "output": "The Sanitary Pads products are: Butterfly, Always, Embrace"
+  },
+  {
+    "input": "What are all the Shampoo products are?",
+    "output": "The Shampoo products are: Sunsilk, Head n Shoulder, Tresseme, Lifebouy Shampoo, Clear"
+  },
+  {
+    "input": "What are all the Shoe Polish products are?",
+    "output": "The Shoe Polish products are: Power Plus, Kiwi, Cherry Blososom"
+  },
+  {
+    "input": "What are all the Soap products are?",
+    "output": "The Soap products are: Lifebouy, Hari, Safeguard, Pears, Tibet, Palmolive, Dettol, Lux, Dove, Lemon Max, Care, Capri, Lara"
+  },
+  {
+    "input": "What are all the Soft Drink products are?",
+    "output": "The Soft Drink products are: Mountain Dew, Fizz Up, Pepsi Diet, Sting, Mirinda, Fanta, 7Up, Sprite, Coca Cola, Pepsi, Cola Next"
+  },
+  {
+    "input": "What are all the Supari products are?",
+    "output": "The Supari products are: Rajput, Jambola, Tara, Dillagi, Tasty Gold, Andlip, Hum Tum, Naz, Sanam Gold, Tulsi, Shahi Deluxe, Kashmiri Gold"
+  },
+  {
+    "input": "What are all the Syrup products are?",
+    "output": "The Syrup products are: Jam e shirin, Pakola, Quice"
+  },
+  {
+    "input": "What are all the Tea products are?",
+    "output": "The Tea products are: Vital, Green Tea, Lipton, Tapal Danedar, Supreme"
+  },
+  {
+    "input": "What are all the Tooth Paste products are?",
+    "output": "The Tooth Paste products are: Colgate, Sensodyne, Paradontax, Doctor"
+  },
+  {
+    "input": "What are all the Vinegar products are?",
+    "output": "The Vinegar products are: Synthetic Vinegar"
+  },
+  {
+    "input": "What are all the Wafer products are?",
+    "output": "The Wafer products are: Novita Orange, Novita Chocolate, Wispy, Frisky"
+  },
+  {
+    "input": "What are all the Water products are?",
+    "output": "The Water products are: Nestle pure life, Aquafina, Atco"
   }
 ]
