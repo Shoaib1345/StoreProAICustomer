@@ -2500,6 +2500,894 @@
         "output":"The manufacturer of Atco is ATCO Laboratories"
     },
     {
+        "input":"Who is the manufacturer of Lemon?",
+        "output":"The manufacturer of Lemon is Peek Freans"
+    },
+    {
+        "input":"Who is the manufacturer of Lemon Max?",
+        "output":"The manufacturer of Lemon Max is Colgate-Palmolive"
+    },
+    {
+        "input":"Who is the manufacturer of Touch?",
+        "output":"The manufacturer of Touch is Greenstar"
+    },
+    {
+        "input":"Who is the manufacturer of Salva?",
+        "output":"The manufacturer of Salva is Zia Foods"
+    },
+    {
+        "input":"Who is the manufacturer of Colgate?",
+        "output":"The manufacturer of Colgate is Colgate-Palmolive"
+    },
+    {
+        "input":"Who is the manufacturer of Sensodyne?",
+        "output":"The manufacturer of Sensodyne is Haleon plc"
+    },
+    {
+        "input":"Who is the manufacturer of Paradontax?",
+        "output":"The manufacturer of Paradontax is Haleon plc"
+    },
+    {
+        "input":"Who is the manufacturer of Doctor?",
+        "output":"The manufacturer of Doctor is Anfords Pakistan (Pvt.) Ltd"
+    },
+    {
+        "input":"Who is the manufacturer of Nankhatai?",
+        "output":"The manufacturer of Nankhatai is LU"
+    },
+    {
+        "input":"Who is the manufacturer of Butter?",
+        "output":"The manufacturer of Butter is LU"
+    },
+    {
+        "input":"Who is the manufacturer of Cafe?",
+        "output":"The manufacturer of Cafe is Mayfair"
+    },
+    {
+        "input":"Who is the manufacturer of Digestive?",
+        "output":"The manufacturer of Digestive is Innovative"
+    },
+    {
+        "input":"Who is the manufacturer of Chocolatto?",
+        "output":"The manufacturer of Chocolatto is Bisconni"
+    },
+    {
+        "input":"Who is the manufacturer of Party Pik?",
+        "output":"The manufacturer of Party Pik is Peek Freans"
+    },
+    {
+        "input":"Who is the manufacturer of Rite?",
+        "output":"The manufacturer of Rite is Bisconni"
+    },
+    {
+        "input":"Who is the manufacturer of Bistiks?",
+        "output":"The manufacturer of Bistiks is LU"
+    },
+    {
+        "input":"Who is the manufacturer of Click?",
+        "output":"The manufacturer of Click is Peek Freans"
+    },
+    {
+        "input":"Who is the manufacturer of Gluco?",
+        "output":"The manufacturer of Gluco is Peek Freans"
+    },
+    {
+        "input":"Who is the manufacturer of Choco Lava?",
+        "output":"The manufacturer of Choco Lava is Peek Freans"
+    },
+    {
+        "input":"Who is the manufacturer of Rollies?",
+        "output":"The manufacturer of Rollies is Bisconni"
+    },
+    {
+        "input":"Who is the manufacturer of Wheatable?",
+        "output":"The manufacturer of Wheatable is LU"
+    },
+    {
+        "input":"Who is the manufacturer of Coconut?",
+        "output":"The manufacturer of Coconut is LU"
+    },
+    {
+        "input":"Who is the manufacturer of Nice?",
+        "output":"The manufacturer of Nice is LU"
+    },
+    {
+        "input":"Who is the manufacturer of Classic?",
+        "output":"The manufacturer of Classic is LU"
+    },
+    {
+        "input":"Who is the manufacturer of Peanut?",
+        "output":"The manufacturer of Peanut is Innovative"
+    },
+    {
+        "input":"Who is the manufacturer of Chai Wala Biscuit?",
+        "output":"The manufacturer of Chai Wala Biscuit is Bisconni"
+    },
+    {
+        "input":"Who is the manufacturer of Frisky?",
+        "output":"The manufacturer of Frisky is Innovative"
+    },
+    {
+        "input":"Who is the manufacturer of Delice?",
+        "output":"The manufacturer of Delice is Bisconni"
+    },
+    {
+        "input":"Who is the manufacturer of TeaTime?",
+        "output":"The manufacturer of TeaTime is Cookania"
+    },
+    {
+        "input":"Who is the manufacturer of Saltish?",
+        "output":"The manufacturer of Saltish is Peek Freans"
+    },
+    {
+        "input":"Who is the manufacturer of Patti Fry?",
+        "output":"The manufacturer of Patti Fry is Winner"
+    },
+    {
+        "input":"Who is the manufacturer of Finger Fries?",
+        "output":"The manufacturer of Finger Fries is Bolton"
+    },
+    {
+        "input":"Who is the manufacturer of Snackers?",
+        "output":"The manufacturer of Snackers is Kolson"
+    },
+    {
+        "input":"Who is the manufacturer of Pingos?",
+        "output":"The manufacturer of Pingos is Jojo"
+    },
+    {
+        "input":"Who is the manufacturer of Tikka Boti?",
+        "output":"The manufacturer of Tikka Boti is Snacky"
+    },
+    {
+        "input":"Who is the manufacturer of Chicken Maza?",
+        "output":"The manufacturer of Chicken Maza is Local"
+    },
+    {
+        "input":"Who is the manufacturer of Fillz?",
+        "output":"The manufacturer of Fillz is Snackcity"
+    },
+    {
+        "input":"Who is the manufacturer of Pop Star?",
+        "output":"The manufacturer of Pop Star is Shahi"
+    },
+    {
+        "input":"Who is the manufacturer of Cheese Balls?",
+        "output":"The manufacturer of Cheese Balls is Kolson"
+    },
+    {
+        "input":"Who is the manufacturer of Chillz?",
+        "output":"The manufacturer of Chillz is Snackcity"
+    },
+    {
+        "input":"Who is the manufacturer of Potato Sticks?",
+        "output":"The manufacturer of Potato Sticks is Kolson"
+    },
+    {
+        "input":"Who is the manufacturer of Potato Snacks?",
+        "output":"The manufacturer of Potato Snacks is Yum Treats"
+    },
+    {
+        "input":"Who is the manufacturer of Pringles?",
+        "output":"The manufacturer of Pringles is P&G"
+    },
+    {
+        "input":"Who is the manufacturer of Dalda?",
+        "output":"The manufacturer of Dalda is Dalda Foods"
+    },
+    {
+        "input":"Who is the manufacturer of Kisan?",
+        "output":"The manufacturer of Kisan is Faisalabad Oil Refinery (Pvt.) Limited (FORL)"
+    },
+    {
+        "input":"Who is the manufacturer of Habib?",
+        "output":"The manufacturer of Habib is Habib"
+    },
+    {
+        "input":"Who is the manufacturer of Tullo?",
+        "output":"The manufacturer of Tullo is Wazir Ali Industries Limited and Dalda Foods Ltd"
+    },
+    {
+        "input":"Who is the manufacturer of Sufi?",
+        "output":"The manufacturer of Sufi is Sufi Banaspati & Cooking Oil"
+    },
+    {
+        "input":"Who is the manufacturer of Manpasand?",
+        "output":"The manufacturer of Manpasand is Manpasand Beverages Limited"
+    },
+    {
+        "input":"Who is the manufacturer of Golden Sun?",
+        "output":"The manufacturer of Golden Sun is Iffco Group"
+    },
+    {
+        "input":"Who is the manufacturer of Meezan?",
+        "output":"The manufacturer of Meezan is Meezan Group"
+    },
+    {
+        "input":"Who is the manufacturer of Soya Supreme?",
+        "output":"The manufacturer of Soya Supreme is Agro Processors & Atmospheric Gases (Pvt.) Ltd. (APAG)"
+    },
+    {
+        "input":"Who is the manufacturer of Kiran?",
+        "output":"The manufacturer of Kiran is Kiran Group"
+    },
+    {
+        "input":"Who is the manufacturer of Sultan?",
+        "output":"The manufacturer of Sultan is Al-Hilal Industries (Pvt) Limited"
+    },
+    {
+        "input":"Who is the manufacturer of Bake Time?",
+        "output":"The manufacturer of Bake Time is Hilal Foods"
+    },
+    {
+        "input":"Who is the manufacturer of Good Goodies?",
+        "output":"The manufacturer of Good Goodies is Mitchells (Pvt) Ltd"
+    },
+    {
+        "input":"Who is the manufacturer of Smile?",
+        "output":"The manufacturer of Smile is Peek Freans"
+    },
+    {
+        "input":"Who is the manufacturer of Lotus?",
+        "output":"The manufacturer of Lotus is Bisconni"
+    },
+    {
+        "input":"Who is the manufacturer of Kake?",
+        "output":"The manufacturer of Kake is Hilal Foods"
+    },
+    {
+        "input":"Who is the manufacturer of Care?",
+        "output":"The manufacturer of Care is Care Cosmetics"
+    },
+    {
+        "input":"Who is the manufacturer of Capri?",
+        "output":"The manufacturer of Capri is ZIL Limited"
+    },
+    {
+        "input":"Who is the manufacturer of Lara?",
+        "output":"The manufacturer of Lara is Lara Cosmetic"
+    },
+    {
+        "input":"Who is the manufacturer of Express Power?",
+        "output":"The manufacturer of Express Power is Colgate-Palmolive (Pakistan) Ltd"
+    },
+    {
+        "input":"Who is the manufacturer of Yums?",
+        "output":"The manufacturer of Yums is CandyLand"
+    },
+    {
+        "input":"Who is the manufacturer of Super Sour?",
+        "output":"The manufacturer of Super Sour is Hilal Foods"
+    },
+    {
+        "input":"Who is the manufacturer of Creamers?",
+        "output":"The manufacturer of Creamers is Mayfair"
+    },
+    {
+        "input":"Who is the manufacturer of Bisca?",
+        "output":"The manufacturer of Bisca is CandyLand"
+    },
+    {
+        "input":"Who is the manufacturer of Caramel?",
+        "output":"The manufacturer of Caramel is Shirin Asal"
+    },
+    {
+        "input":"Who is the manufacturer of You?",
+        "output":"The manufacturer of You is CandyLand"
+    },
+    {
+        "input":"Who is the manufacturer of Hiss?",
+        "output":"The manufacturer of Hiss is Shirin Asal"
+    },
+    {
+        "input":"Who is the manufacturer of Bittens?",
+        "output":"The manufacturer of Bittens is Innovative"
+    },
+    {
+        "input":"Who is the manufacturer of Mars?",
+        "output":"The manufacturer of Mars is Mars, Incorporated"
+    },
+    {
+        "input":"Who is the manufacturer of KitKat?",
+        "output":"The manufacturer of KitKat is Nestle"
+    },
+    {
+        "input":"Who is the manufacturer of Opus?",
+        "output":"The manufacturer of Opus is Giggly"
+    },
+        {
+        "input":"What is Lemon?",
+        "output":"A lemon biscuit is a type of cookie or biscuit with a citrus flavor, achieved by adding lemon zest and\/or juice to the dough"
+    },
+    {
+        "input":"What is Lemon Max?",
+        "output":"Lemon Max is a brand of dishwashing products, produced by Colgate-Palmolive, that uses lemon juice for its grease-cutting properties"
+    },
+    {
+        "input":"What is Touch?",
+        "output":" condoms are made from natural rubber latex, are electronically tested, and are designed to provide protection against unwanted pregnancies and sexually transmitted infections (STIs). "
+    },
+    {
+        "input":"What is Salva?",
+        "output":"Salva is a brand of nimko, which is a popular Pakistani savory snack mix made from a combination of crispy ingredients like lentils, chickpeas, and peanuts, seasoned with a variety of spices"
+    },
+    {
+        "input":"What is Colgate?",
+        "output":"Colgate is an American oral hygiene brand owned by Colgate-Palmolive, which produces toothpaste and other dental care products"
+    },
+    {
+        "input":"What is Sensodyne?",
+        "output":"Sensodyne is a brand of toothpaste specifically formulated to relieve tooth sensitivity pain and provide long-term protection for sensitive teeth."
+    },
+    {
+        "input":"What is Paradontax?",
+        "output":"Parodontax is a brand of specialist toothpaste designed to help prevent and treat bleeding gums by targeting plaque."
+    },
+    {
+        "input":"What is Doctor?",
+        "output":"Doctor Toothpaste is a brand of oral care product that is formulated to protect gums and teeth by reducing sensitivity, relieving toothaches, stopping gum bleeding, and preventing bad breath."
+    },
+    {
+        "input":"What is Nankhatai?",
+        "output":"Nankhatai is a type of shortbread biscuit from the Indian subcontinent, known for its soft, crumbly, melt-in-the-mouth texture."
+    },
+    {
+        "input":"What is Butter?",
+        "output":"A butter biscuit is a type of cookie or a savory baked good made with a significant amount of butter as a primary ingredient, which gives it a rich flavor and tender, flaky, or crispy texture depending on the recipe."
+    },
+    {
+        "input":"What is Cafe?",
+        "output":"A cafe biscuit is typically a sweet, soft, or crumbly biscuit designed to be paired with tea or coffee."
+    },
+    {
+        "input":"What is Digestive?",
+        "output":"A digestive biscuit is a semi-sweet, hard biscuit made from whole-wheat flour and is known for its slightly crumbly texture and malty flavor."
+    },
+    {
+        "input":"What is Chocolatto?",
+        "output":"Chocolatto is a popular brand of biscuit, specifically from the Pakistani company Bisconni, known for its combination of a crispy biscuit shell and a rich, creamy chocolate filling inside."
+    },
+    {
+        "input":"What is Party Pik?",
+        "output":"Party Pik is a brand of biscuits from the Pakistani manufacturer Peek Freans and English Biscuit Manufacturers (EBM)."
+    },
+    {
+        "input":"What is Rite?",
+        "output":"Rite! is a brand of sandwich biscuit produced by Bisconni, known for its dark, crunchy biscuits with a vanilla or chocolate cream filling."
+    },
+    {
+        "input":"What is Bistiks?",
+        "output":"Bistiks is a brand name for a type of biscuit, specifically LU Bakeri Bistiks, which are typically crunchy, finger-shaped biscuits often infused with flavors like lemon and vanilla. "
+    },
+    {
+        "input":"What is Click?",
+        "output":" It is described as a soft dough biscuit with a distinctive crunchy texture and the added \"zing\" of roasted cumin seeds."
+    },
+    {
+        "input":"What is Gluco?",
+        "output":"A \"Gluco\" biscuit is a type of energy biscuit, often a plain, sweet, and crunchy biscuit that provides a quick source of energy due to its glucose content"
+    },
+    {
+        "input":"What is Choco Lava?",
+        "output":"A choco lava biscuit is a biscuit with a crispy outer layer and a soft, molten chocolate center that flows out when bitten into"
+    },
+    {
+        "input":"What is Rollies?",
+        "output":"They are a type of cake roll or Swiss roll, a dessert made from a thin sponge cake"
+    },
+    {
+        "input":"What is Wheatable?",
+        "output":"Wheatable is a brand of whole wheat biscuits, marketed as a healthy snack option that is high in fiber"
+    },
+    {
+        "input":"What is Coconut?",
+        "output":"Coconut is a biscuit made with real coconut flakes, giving it a tropical flavor and a sweet, crunchy texture"
+    },
+    {
+        "input":"What is Nice?",
+        "output":"A \"Nice\" biscuit is a thin, rectangular, coconut-flavored biscuit that is lightly sprinkled with sugar crystals, often with the word \"NICE\" imprinted on to"
+    },
+    {
+        "input":"What is Classic?",
+        "output":"Classic biscuits, often called Bakeri Classic, are a traditional milk and egg biscuit"
+    },
+    {
+        "input":"What is Peanut?",
+        "output":"These are biscuits that contain roasted peanuts, offering a crispy texture and rich peanut flavor"
+    },
+    {
+        "input":"What is Chai Wala Biscuit?",
+        "output":"A \"Chai Wala Biscuit\" is a type of cookie or cracker, specifically designed to be eaten with tea."
+    },
+    {
+        "input":"What is Frisky?",
+        "output":" Frisky is a crispy, sweet wafers filled with layers of flavored cream, such as orange, vanilla, or chocolate"
+    },
+    {
+        "input":"What is Delice?",
+        "output":"Delice Buiscuit  refers to a type of butter cookie or a sugar-sprinkled coconut biscuit"
+    },
+    {
+        "input":"What is TeaTime?",
+        "output":"Teatime biscuits are a crispy, traditional Pakistani snack, typically flavored with lemon and vanilla, designed to be eaten with tea"
+    },
+    {
+        "input":"What is Saltish?",
+        "output":"Saltish biscuits are a crispy, savory snack that offers a combination of salty and slightly sweet flavor"
+    },
+    {
+        "input":"What is Patti Fry?",
+        "output":"Patti Fry Masti Masala, a snack that brings a spicy twist to your munching moments"
+    },
+    {
+        "input":"What is Finger Fries?",
+        "output":"Finger Fries is a black papper chips"
+    },
+    {
+        "input":"What is Snackers?",
+        "output":" Snackers are a line of crunchy, triangle-shaped chips and snacks"
+    },
+    {
+        "input":"What is Pingos?",
+        "output":" Pingos are a brand of puffed cornmeal snacks that come in a crunchy, ring-shaped form"
+    },
+    {
+        "input":"What is Tikka Boti?",
+        "output":"Tikka boti is a local company snacks with tikka falvour"
+    },
+    {
+        "input":"What is Chicken Maza?",
+        "output":"chicken maza is a local company snacks with masala masti falvour"
+    },
+    {
+        "input":"What is Fillz?",
+        "output":"Fillz are light and crispy chips with Salt and Masala flavors"
+    },
+    {
+        "input":"What is Pop Star?",
+        "output":"Pop Star snacks are a brand of baked, extruded snacks made from cornmeal, known for being a \"healthier alternative\" to fried potato snack"
+    },
+    {
+        "input":"What is Cheese Balls?",
+        "output":" Cheese Balls are a popular, light, and crunchy snack made from cornmeal and flavored with either an original cheese or a tangy masala seasoning"
+    },
+    {
+        "input":"What is Chillz?",
+        "output":"Chillz are spicy, crunchy potato sticks"
+    },
+    {
+        "input":"What is Potato Sticks?",
+        "output":"Potato Sticks are a savory, crispy snack made from a blend of potato flakes and corn grits that are seasoned with pepper and salt"
+    },
+    {
+        "input":"What is Potato Snacks?",
+        "output":"Potato Snacks is  yummy snack that come in Vegetable falvour"
+    },
+    {
+        "input":"What is Pringles?",
+        "output":"Pringles are a brand of snack crisps made from a dehydrated potato-based dough, combined with other ingredients like corn, rice, and wheat flour"
+    },
+    {
+        "input":"What is Dalda?",
+        "output":"Dalda is a brand of cooking oils and fats, most notably a popular brand of vanaspati ghee (vegetable ghee) in South Asia"
+    },
+    {
+        "input":"What is Kisan?",
+        "output":"Kisan is brand that make oil and ghee, cooking oil is a blend of sunflower, canola, and soybean oils, while Kisan ghee is made from either pure desi cow ghee or vegetable fat (banaspati)"
+    },
+    {
+        "input":"What is Habib?",
+        "output":"Habib refers to a brand of cooking oil and ghee from Habib Oil Mills"
+    },
+    {
+        "input":"What is Tullo?",
+        "output":"Tullo most commonly refers to a brand of cooking oil and banaspati ghee popular in South Asia"
+    },
+    {
+        "input":"What is Sufi?",
+        "output":"Sufi is a brand of edible oils and ghee"
+    },
+    {
+        "input":"What is Manpasand?",
+        "output":"Manpasand is a brand of cooking oil and banaspati ghee type of vegetable shortning popular in pakistan"
+    },
+    {
+        "input":"What is Golden Sun?",
+        "output":"This is a line of pure vegetable cooking oils that are refined, deodorized, and often made from sunflower seeds"
+    },
+    {
+        "input":"What is Meezan?",
+        "output":"A lighter, versatile oil suitable for general cooking purposes like saut ing and frying."
+    },
+    {
+        "input":"What is Soya Supreme?",
+        "output":"Soya Supreme is a brand that produces cooking oils and banaspati ghee. Its products include various types of cooking oils"
+    },
+    {
+        "input":"What is Kiran?",
+        "output":"Kiran is a brand of cooking oil and banaspati (vegetable ghee) from a Pakistani company that produces a variety of edible oils"
+    },
+    {
+        "input":"What is Sultan?",
+        "output":"Sultan is a brand of cooking oil and ghee a blend of soybean, canola, and sunflower oils."
+    },
+    {
+        "input":"What is Bake Time?",
+        "output":" Individually packaged cake slices in a variety of flavors, including plain, chocolate, and fruit."
+    },
+    {
+        "input":"What is Good Goodies?",
+        "output":"Good Goodies is a delicious cake famous for its softness"
+    },
+    {
+        "input":"What is Smile?",
+        "output":"A brand of cream-filled, sprinkle-covered donut cakes by Peek Freans, or a type of cake decorated with a smiley face."
+    },
+    {
+        "input":"What is Lotus?",
+        "output":"Lotus cake refers to two main types of desserts: one made with a sweet lotus seed paste filling and the other, more commonly, made with the flavors of Lotus Biscoff cookies."
+    },
+    {
+        "input":"What is Kake?",
+        "output":"Hilal CupKake. With its soft, fluffy sponge and delightful center filling, it s a treat loved by kids and trusted by parents."
+    },
+    {
+        "input":"What is Care?",
+        "output":"Care Rose Water & Strawberry Extract Soap offers a balanced mixture of essence including citrus, moss, amber, and warm woods and roses."
+    },
+    {
+        "input":"What is Capri?",
+        "output":"The soaps are made with natural ingredients and fragrances, aiming to provide a luxurious, gentle cleansing experience that leaves skin soft, nourished, and fresh. "
+    },
+    {
+        "input":"What is Lara?",
+        "output":"Lara is a beautiful soap with elegant fragrance "
+    },
+    {
+        "input":"What is Express Power?",
+        "output":"Express Power is a brand of laundry detergent that comes in both powder and bar forms, known for providing an economical, high-quality wash with powerful stain-lifting capabilities."
+    },
+    {
+        "input":"What is Yums?",
+        "output":"Candyland Yums Fruity Chews, a type of chewy, fruit-flavored."
+    },
+    {
+        "input":"What is Super Sour?",
+        "output":"Super Sour Ultra Sour and Toxic Waste Hazardously Sour Candy"
+    },
+    {
+        "input":"What is Creamers?",
+        "output":"Creamer are small, hard candies that have a creamy, smooth texture"
+    },
+    {
+        "input":"What is Bisca?",
+        "output":"Bisca is a chocolate-covered biscuit treat that combines crunchy biscuits with a layer of caramel and is coated in chocolate."
+    },
+    {
+        "input":"What is Caramel?",
+        "output":"Caramel chocolate is a combination of caramel and chocolate, "
+    },
+    {
+        "input":"What is You?",
+        "output":"You is chocolate known for its creamy texture and balanced sweetness. "
+    },
+    {
+        "input":"What is Hiss?",
+        "output":"Hiss chocolate is an Iranian chocolate bar"
+    },
+    {
+        "input":"What is Bittens?",
+        "output":"Bittens chocolate refers to a brand of affordable, smooth, and creamy milk chocolate bars"
+    },
+    {
+        "input":"What is Mars?",
+        "output":"A Mars chocolate bar is a chocolate bar that consists of a chocolate-malt nougat and caramel center, covered in milk chocolate"
+    },
+    {
+        "input":"What is KitKat?",
+        "output":"KitKat is a popular chocolate bar featuring crispy wafer layers covered in milk chocolate."
+    },
+    {
+        "input":"What is Opus?",
+        "output":"Opus is a brand of chocolate, primarily known for a caramel-filled bar that features a rich chocolate exterior and a soft, gooey caramel center"
+    },
+    {
+        "input":"What is the price of Lemon?",
+        "output":"The price of Lemon is 20rs"
+    },
+    {
+        "input":"What is the price of Lemon Max?",
+        "output":"The price of Lemon Max is 30.0rs"
+    },
+    {
+        "input":"What is the price of Touch?",
+        "output":"The price of Touch is 150.0rs"
+    },
+    {
+        "input":"What is the price of Salva?",
+        "output":"The price of Salva is 20.0rs"
+    },
+    {
+        "input":"What is the price of Colgate?",
+        "output":"The price of Colgate is 100.0rs"
+    },
+    {
+        "input":"What is the price of Sensodyne?",
+        "output":"The price of Sensodyne is 150.0rs"
+    },
+    {
+        "input":"What is the price of Paradontax?",
+        "output":"The price of Paradontax is 150.0rs"
+    },
+    {
+        "input":"What is the price of Doctor?",
+        "output":"The price of Doctor is 150.0rs"
+    },
+    {
+        "input":"What is the price of Nankhatai?",
+        "output":"The price of Nankhatai is 20.0rs"
+    },
+    {
+        "input":"What is the price of Butter?",
+        "output":"The price of Butter is 20.0rs"
+    },
+    {
+        "input":"What is the price of Cafe?",
+        "output":"The price of Cafe is 20.0rs"
+    },
+    {
+        "input":"What is the price of Digestive?",
+        "output":"The price of Digestive is 30.0rs"
+    },
+    {
+        "input":"What is the price of Chocolatto?",
+        "output":"The price of Chocolatto is 20.0rs"
+    },
+    {
+        "input":"What is the price of Party Pik?",
+        "output":"The price of Party Pik is 20.0rs"
+    },
+    {
+        "input":"What is the price of Rite?",
+        "output":"The price of Rite is 20.0rs"
+    },
+    {
+        "input":"What is the price of Bistiks?",
+        "output":"The price of Bistiks is 20.0rs"
+    },
+    {
+        "input":"What is the price of Click?",
+        "output":"The price of Click is 20.0rs"
+    },
+    {
+        "input":"What is the price of Gluco?",
+        "output":"The price of Gluco is 20.0rs"
+    },
+    {
+        "input":"What is the price of Choco Lava?",
+        "output":"The price of Choco Lava is 30.0rs"
+    },
+    {
+        "input":"What is the price of Rollies?",
+        "output":"The price of Rollies is 50.0rs"
+    },
+    {
+        "input":"What is the price of Wheatable?",
+        "output":"The price of Wheatable is 20.0rs"
+    },
+    {
+        "input":"What is the price of Coconut?",
+        "output":"The price of Coconut is 20.0rs"
+    },
+    {
+        "input":"What is the price of Nice?",
+        "output":"The price of Nice is 20.0rs"
+    },
+    {
+        "input":"What is the price of Classic?",
+        "output":"The price of Classic is 20.0rs"
+    },
+    {
+        "input":"What is the price of Peanut?",
+        "output":"The price of Peanut is 20.0rs"
+    },
+    {
+        "input":"What is the price of Chai Wala Biscuit?",
+        "output":"The price of Chai Wala Biscuit is 20.0rs"
+    },
+    {
+        "input":"What is the price of Frisky?",
+        "output":"The price of Frisky is nanrs"
+    },
+    {
+        "input":"What is the price of Delice?",
+        "output":"The price of Delice is 20.0rs"
+    },
+    {
+        "input":"What is the price of TeaTime?",
+        "output":"The price of TeaTime is 20.0rs"
+    },
+    {
+        "input":"What is the price of Saltish?",
+        "output":"The price of Saltish is 50.0rs"
+    },
+    {
+        "input":"What is the price of Patti Fry?",
+        "output":"The price of Patti Fry is 10.0rs"
+    },
+    {
+        "input":"What is the price of Finger Fries?",
+        "output":"The price of Finger Fries is 10.0rs"
+    },
+    {
+        "input":"What is the price of Snackers?",
+        "output":"The price of Snackers is 20.0rs"
+    },
+    {
+        "input":"What is the price of Pingos?",
+        "output":"The price of Pingos is 20.0rs"
+    },
+    {
+        "input":"What is the price of Tikka Boti?",
+        "output":"The price of Tikka Boti is 10.0rs"
+    },
+    {
+        "input":"What is the price of Chicken Maza?",
+        "output":"The price of Chicken Maza is 10.0rs"
+    },
+    {
+        "input":"What is the price of Fillz?",
+        "output":"The price of Fillz is 20.0rs"
+    },
+    {
+        "input":"What is the price of Pop Star?",
+        "output":"The price of Pop Star is 10.0rs"
+    },
+    {
+        "input":"What is the price of Cheese Balls?",
+        "output":"The price of Cheese Balls is 20.0rs"
+    },
+    {
+        "input":"What is the price of Chillz?",
+        "output":"The price of Chillz is 50.0rs"
+    },
+    {
+        "input":"What is the price of Potato Sticks?",
+        "output":"The price of Potato Sticks is 20.0rs"
+    },
+    {
+        "input":"What is the price of Potato Snacks?",
+        "output":"The price of Potato Snacks is 20.0rs"
+    },
+    {
+        "input":"What is the price of Pringles?",
+        "output":"The price of Pringles is 150.0rs"
+    },
+    {
+        "input":"What is the price of Dalda?",
+        "output":"The price of Dalda is 200.0rs"
+    },
+    {
+        "input":"What is the price of Kisan?",
+        "output":"The price of Kisan is 200.0rs"
+    },
+    {
+        "input":"What is the price of Habib?",
+        "output":"The price of Habib is 200.0rs"
+    },
+    {
+        "input":"What is the price of Tullo?",
+        "output":"The price of Tullo is 200.0rs"
+    },
+    {
+        "input":"What is the price of Sufi?",
+        "output":"The price of Sufi is 200.0rs"
+    },
+    {
+        "input":"What is the price of Manpasand?",
+        "output":"The price of Manpasand is 200.0rs"
+    },
+    {
+        "input":"What is the price of Golden Sun?",
+        "output":"The price of Golden Sun is 200.0rs"
+    },
+    {
+        "input":"What is the price of Meezan?",
+        "output":"The price of Meezan is 200.0rs"
+    },
+    {
+        "input":"What is the price of Soya Supreme?",
+        "output":"The price of Soya Supreme is 200.0rs"
+    },
+    {
+        "input":"What is the price of Kiran?",
+        "output":"The price of Kiran is 200.0rs"
+    },
+    {
+        "input":"What is the price of Sultan?",
+        "output":"The price of Sultan is 200.0rs"
+    },
+    {
+        "input":"What is the price of Bake Time?",
+        "output":"The price of Bake Time is 40.0rs"
+    },
+    {
+        "input":"What is the price of Good Goodies?",
+        "output":"The price of Good Goodies is 20.0rs"
+    },
+    {
+        "input":"What is the price of Smile?",
+        "output":"The price of Smile is 50.0rs"
+    },
+    {
+        "input":"What is the price of Lotus?",
+        "output":"The price of Lotus is 50.0rs"
+    },
+    {
+        "input":"What is the price of Kake?",
+        "output":"The price of Kake is 20.0rs"
+    },
+    {
+        "input":"What is the price of Care?",
+        "output":"The price of Care is 80.0rs"
+    },
+    {
+        "input":"What is the price of Capri?",
+        "output":"The price of Capri is 80.0rs"
+    },
+    {
+        "input":"What is the price of Lara?",
+        "output":"The price of Lara is 80.0rs"
+    },
+    {
+        "input":"What is the price of Express Power?",
+        "output":"The price of Express Power is 250.0rs"
+    },
+    {
+        "input":"What is the price of Yums?",
+        "output":"The price of Yums is 10.0rs"
+    },
+    {
+        "input":"What is the price of Super Sour?",
+        "output":"The price of Super Sour is 5.0rs"
+    },
+    {
+        "input":"What is the price of Creamers?",
+        "output":"The price of Creamers is 5.0rs"
+    },
+    {
+        "input":"What is the price of Bisca?",
+        "output":"The price of Bisca is 30.0rs"
+    },
+    {
+        "input":"What is the price of Caramel?",
+        "output":"The price of Caramel is 30.0rs"
+    },
+    {
+        "input":"What is the price of You?",
+        "output":"The price of You is 30.0rs"
+    },
+    {
+        "input":"What is the price of Hiss?",
+        "output":"The price of Hiss is 30.0rs"
+    },
+    {
+        "input":"What is the price of Bittens?",
+        "output":"The price of Bittens is 30.0rs"
+    },
+    {
+        "input":"What is the price of Mars?",
+        "output":"The price of Mars is 150.0rs"
+    },
+    {
+        "input":"What is the price of KitKat?",
+        "output":"The price of KitKat is 150.0rs"
+    },
+    {
+        "input":"What is the price of Opus?",
+        "output":"The price of Opus is 5.0rs"
+    },
+    {
       "input": "What is the name of shop owner?",
       "output": "The shop owner is Faraz Ahmed"
     },
