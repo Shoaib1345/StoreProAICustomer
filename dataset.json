@@ -493,63 +493,51 @@
   },
   {
     "input": "What is Vermicelli?",
-    "output": null
+    "output": "Vermicelli is a type of pasta made from fine, long, solid strands, thinner than spaghetti"
   },
   {
     "input": "What is Quorma?",
-    "output": null
+    "output": "Korma is a rich, flavorful curry dish originating from the Indian subcontinent, characterized by meat or vegetables braised in a thick, creamy sauce made from yogurt or cream, nuts (like almonds or cashews), and spices"
   },
   {
     "input": "What is Biryani?",
-    "output": null
+    "output": "Biryani is a popular South Asian mixed rice dish made by layering marinated meat (or vegetables) with rice and spices, then cooking them together in a sealed pot to allow the flavors to meld"
   },
   {
     "input": "What is Coriander?",
-    "output": null
+    "output": "Coriander can refer to either the herb (leaves and stems, also called cilantro in the United States) or the spice (dried seeds) of the Coriandrum sativum plant"
   },
   {
     "input": "What is Kasuri Methi?",
-    "output": null
+    "output": "Kasuri methi is the dried leaves of the fenugreek plant, commonly used as an herb in Indian, Middle Eastern, and North African cuisines."
   },
   {
     "input": "What is Garam Masala?",
-    "output": null
+    "output": "Garam masala is a pungent and aromatic blend of ground spices used in Indian, Pakistani, and other South Asian cuisines"
   },
   {
     "input": "What is Bombay Biryani?",
-    "output": null
+    "output": "Bombay Biryani is a popular Indian dish from Mumbai (formerly Bombay) that features layers of basmati rice, meat (like chicken or mutton), potatoes, and a distinctive blend of sweet, spicy, and tangy flavors, often including ingredients like dried plums and fried onions."
   },
   {
     "input": "What is Eggs?",
     "output": "A chicken egg is an oval object laid by a female chicken, or hen, which can be either fertilized or unfertilized. It consists of a hard, protective shell, an inner white (albumen), and a yellow yolk, and serves as a rich source of protein and other nutrients"
   },
   {
-    "input": "What is Rice?",
-    "output": null
-  },
-  {
-    "input": "What is Sugar?",
-    "output": null
-  },
-  {
-    "input": "What is Flour?",
-    "output": null
-  },
-  {
     "input": "What is Pebbles?",
-    "output": null
+    "output": "Pebbles candy is a type of novelty candy that is designed to look like small, colorful pebbles or river stones"
   },
   {
     "input": "What is Wobbly?",
-    "output": null
+    "output": "Wobbly is a fruit-flavored jelly candies (gelatin desserts) known for their soft, shaking texture"
   },
   {
     "input": "What is Peach Jelly?",
-    "output": null
+    "output": "Peach jelly is a smooth, translucent fruit preserve made from peach juice, sugar, and pectin ."
   },
   {
     "input": "What is Gummy Bear?",
-    "output": null
+    "output": "Gummy bear jelly  is a product that combines the chewy texture of gummy bears with a soft, jelly-like consistency, often made from a mix of ingredients like gelatin and corn syrup to achieve the desired softness"
   },
   {
     "input": "What is Rose Petal?",
@@ -561,11 +549,11 @@
   },
   {
     "input": "What is Berries?",
-    "output": null
+    "output": "Berries jelly is a preserve made from the strained juice of various berries, combined with sugar and a gelling agent like pectin or gelatin. "
   },
   {
     "input": "What is Jelly Strawberry?",
-    "output": null
+    "output": "a fruit spread made from strawberry juice, sugar, and pectin, or a gelatin dessert that is popular in the UK. "
   },
   {
     "input": "What is Amrood Jelly?",
@@ -657,15 +645,15 @@
   },
   {
     "input": "What is Adaab?",
-    "output": null
+    "output": "The product is known for its \"traditional flavor\" and is widely exported from India to markets in Pakistan, Afghanistan, and the Middle East. The product is consumed for cultural and social occasions and is associated with a rich and satisfying taste. "
   },
   {
     "input": "What is Rajni?",
-    "output": null
+    "output": "Rajni is a sweet mouth freshener made with betel nuts and other ingredients"
   },
   {
     "input": "What is Pan Parag?",
-    "output": null
+    "output": "Pan Parag is a brand name for a popular Indian mouth freshener and a pioneer in the pan masala industry ."
   },
   {
     "input": "What is Mughlia?",
@@ -681,51 +669,47 @@
   },
   {
     "input": "What is Shoop Chicken?",
-    "output": null
+    "output": "Shoop Chicken is a brand of instant chicken-flavored noodles."
   },
   {
     "input": "What is Knor Chicken?",
-    "output": null
+    "output": "Knorr Chicken is a brand of food products that enhances the flavor of dishes with a savory, chicken taste. "
   },
   {
     "input": "What is Shoop Chatpata?",
-    "output": null
+    "output": "Shoop Chatpata is a brand of instant noodles from Shan Foods that are known for their spicy and tangy \"chatpata\" . "
   },
   {
     "input": "What is Knor Chatpata?",
-    "output": null
+    "output": "Knorr Chatpata is a type of instant noodle with a popular, tangy and spicy \"chatpata\" flavor profile, inspired by South Asian street food."
   },
   {
     "input": "What is Mixed Pickle?",
-    "output": null
-  },
-  {
-    "input": "What is Trim?",
-    "output": null
+    "output": "Mixed pickle is a condiment made from a variety of vegetables preserved in a brine or oil, featuring a medley of flavors like tangy, spicy, and savory."
   },
   {
     "input": "What is Treet?",
-    "output": null
+    "output": "Treet is a Pakistani conglomerate that primarily manufactures razors and razor blades, including disposable and safety razors for personal hygiene, as well as other products like batteries and soaps ."
   },
   {
     "input": "What is Trig?",
-    "output": null
+    "output": "Trig is a brand of razor blades, specifically Trig Silver Edge, which are stainless steel, double-edge razor blades made by the Treet Corporation in Pakistan"
   },
   {
     "input": "What is Gillete?",
-    "output": null
+    "output": "Gillette is an American brand of razors and personal care products, owned by Procter & Gamble."
   },
   {
     "input": "What is Butterfly?",
-    "output": null
+    "output": "Butterfly sanitary pads are�a line of menstrual hygiene products known for their comfort, absorbency, and variety, including options for sensitive skin, heavy flow, and postpartum use"
   },
   {
     "input": "What is Always?",
-    "output": null
+    "output": "Always Sanitary Pads are a brand of disposable feminine hygiene products designed for absorbing menstrual flow. They are manufactured by Procter & Gamble and come in various styles, such as ultra-thin, thick, and overnight options, to provide protection and comfort during a menstrual period. Key features often include features like wings, absorbent cores, and odor control technology.�"
   },
   {
     "input": "What is Embrace?",
-    "output": null
+    "output": "Embrace is a brand of sanitary pads from Pakistan, offering a range of products like the Sensitives line for sensitive skin and \"Essentials\" for regular use. These pads are known for features like being perfume and ink-free, having a cotton-soft top sheet, and a breathable backsheet for comfort. Some specific products are designed to be extra long, maxi thick, or ultra-thin."
   },
   {
     "input": "What is Sunsilk?",
