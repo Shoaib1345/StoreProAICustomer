@@ -1,4 +1,3 @@
- // Hide intro after 2.5 seconds
         setTimeout(() => {
             document.getElementById('introScreen').classList.add('fade-out');
             setTimeout(() => {
@@ -32,12 +31,12 @@
             scrollToBottom();
 
             try {
-                const response = await fetch('/ask', {
+                const response = await fetch('/chat', {
                     method: 'POST',
                     headers: {
                         'Content-Type': 'application/json',
                     },
-                    body: JSON.stringify({ question: text })
+                    body: JSON.stringify({ message: text })
                 });
 
                 const data = await response.json();
