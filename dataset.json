@@ -920,15 +920,15 @@
     "output": "Wispy Wafers are a brand of crispy, thin, and light wafer rolls"
   },
   {
-    "input": "What is Nestle?",
+    "input": "What is Nestle Small?",
     "output": "Nestle pure life a mineral water"
   },
   {
-    "input": "What is Aquafina?",
+    "input": "What is Aquafina Small?",
     "output": "Aquafina is a drinking water"
   },
   {
-    "input": "What is Atco?",
+    "input": "What is Atco Small?",
     "output": "Atco is a water"
   },
   {
@@ -3722,5 +3722,837 @@
   {
     "input": "What are all the Water products are?",
     "output": "The Water products are: Nestle pure life, Aquafina, Atco"
-  }
+  },
+  {
+        "input":"What is the price of Oreo Half Roll (Medium)?",
+        "output":"The price of Oreo Half Roll (Medium) is 50 rs."
+    },
+    {
+        "input":"What is the price of Cocomo Half Roll (Medium)?",
+        "output":"The price of Cocomo Half Roll (Medium) is 50 rs."
+    },
+    {
+        "input":"What is the price of Special Half Roll (Medium)?",
+        "output":"The price of Special Half Roll (Medium) is 50 rs."
+    },
+    {
+        "input":"What is the price of Sooper Half Roll (Medium)?",
+        "output":"The price of Sooper Half Roll (Medium) is 50 rs."
+    },
+    {
+        "input":"What is the price of Milcolu Half Roll (Medium)?",
+        "output":"The price of Milcolu Half Roll (Medium) is 50 rs."
+    },
+    {
+        "input":"What is the price of Milkabisk Half Roll (Medium)?",
+        "output":"The price of Milkabisk Half Roll (Medium) is 50 rs."
+    },
+    {
+        "input":"What is the price of Butter Puff Half Roll (Medium)?",
+        "output":"The price of Butter Puff Half Roll (Medium) is 50 rs."
+    },
+    {
+        "input":"What is the price of Marie Half Roll (Medium)?",
+        "output":"The price of Marie Half Roll (Medium) is 50 rs."
+    },
+    {
+        "input":"What is the price of Peanut Pik Half Roll (Medium)?",
+        "output":"The price of Peanut Pik Half Roll (Medium) is 50 rs."
+    },
+    {
+        "input":"What is the price of Gala Half Roll (Medium)?",
+        "output":"The price of Gala Half Roll (Medium) is 50 rs."
+    },
+    {
+        "input":"What is the price of Candy Half Roll (Medium)?",
+        "output":"The price of Candy Half Roll (Medium) is 50 rs."
+    },
+    {
+        "input":"What is the price of Peanut Pista Half Roll (Medium)?",
+        "output":"The price of Peanut Pista Half Roll (Medium) is 50 rs."
+    },
+    {
+        "input":"What is the price of Rio Half Roll (Medium)?",
+        "output":"The price of Rio Half Roll (Medium) is 50 rs."
+    },
+    {
+        "input":"What is the price of Prince Half Roll (Medium)?",
+        "output":"The price of Prince Half Roll (Medium) is 50 rs."
+    },
+    {
+        "input":"What is the price of Day Dream Half Roll (Medium)?",
+        "output":"The price of Day Dream Half Roll (Medium) is 50 rs."
+    },
+    {
+        "input":"What is the price of Tuc Half Roll (Medium)?",
+        "output":"The price of Tuc Half Roll (Medium) is 50 rs."
+    },
+    {
+        "input":"What is the price of Tiger Half Roll (Medium)?",
+        "output":"The price of Tiger Half Roll (Medium) is 50 rs."
+    },
+    {
+        "input":"What is the price of Zeera Plus Half Roll (Medium)?",
+        "output":"The price of Zeera Plus Half Roll (Medium) is 50 rs."
+    },
+    {
+        "input":"What is the price of Chocolate Chip Half Roll (Medium)?",
+        "output":"The price of Chocolate Chip Half Roll (Medium) is 50 rs."
+    },
+    {
+        "input":"What is the price of Lemon Half Roll (Medium)?",
+        "output":"The price of Lemon Half Roll (Medium) is 50 rs."
+    },
+    {
+        "input":"What is the price of Nankhatai Half Roll (Medium)?",
+        "output":"The price of Nankhatai Half Roll (Medium) is 50 rs."
+    },
+    {
+        "input":"What is the price of Butter Half Roll (Medium)?",
+        "output":"The price of Butter Half Roll (Medium) is 50 rs."
+    },
+    {
+        "input":"What is the price of Cafe Half Roll (Medium)?",
+        "output":"The price of Cafe Half Roll (Medium) is 50 rs."
+    },
+    {
+        "input":"What is the price of Digestive Half Roll (Medium)?",
+        "output":"The price of Digestive Half Roll (Medium) is 50 rs."
+    },
+    {
+        "input":"What is the price of Chocolatto Half Roll (Medium)?",
+        "output":"The price of Chocolatto Half Roll (Medium) is 50 rs."
+    },
+    {
+        "input":"What is the price of Party Pik Half Roll (Medium)?",
+        "output":"The price of Party Pik Half Roll (Medium) is 50 rs."
+    },
+    {
+        "input":"What is the price of Rite Half Roll (Medium)?",
+        "output":"The price of Rite Half Roll (Medium) is 50 rs."
+    },
+    {
+        "input":"What is the price of Bistiks Half Roll (Medium)?",
+        "output":"The price of Bistiks Half Roll (Medium) is 50 rs."
+    },
+    {
+        "input":"What is the price of Click Half Roll (Medium)?",
+        "output":"The price of Click Half Roll (Medium) is 50 rs."
+    },
+    {
+        "input":"What is the price of Gluco Half Roll (Medium)?",
+        "output":"The price of Gluco Half Roll (Medium) is 50 rs."
+    },
+    {
+        "input":"What is the price of Choco Lava Half Roll (Medium)?",
+        "output":"The price of Choco Lava Half Roll (Medium) is 50 rs."
+    },
+    {
+        "input":"What is the price of Wheatable Half Roll (Medium)?",
+        "output":"The price of Wheatable Half Roll (Medium) is 50 rs."
+    },
+    {
+        "input":"What is the price of Coconut Half Roll (Medium)?",
+        "output":"The price of Coconut Half Roll (Medium) is 50 rs."
+    },
+    {
+        "input":"What is the price of Nice Half Roll (Medium)?",
+        "output":"The price of Nice Half Roll (Medium) is 50 rs."
+    },
+    {
+        "input":"What is the price of Classic Half Roll (Medium)?",
+        "output":"The price of Classic Half Roll (Medium) is 50 rs."
+    },
+    {
+        "input":"What is the price of Peanut Half Roll (Medium)?",
+        "output":"The price of Peanut Half Roll (Medium) is 50 rs."
+    },
+    {
+        "input":"What is the price of Chai Wala Biscuit Half Roll (Medium)?",
+        "output":"The price of Chai Wala Biscuit Half Roll (Medium) is 50 rs."
+    },
+    {
+        "input":"What is the price of Delice Half Roll (Medium)?",
+        "output":"The price of Delice Half Roll (Medium) is 50 rs."
+    },
+    {
+        "input":"What is the price of TeaTime Half Roll (Medium)?",
+        "output":"The price of TeaTime Half Roll (Medium) is 50 rs."
+    },
+    {
+        "input":"What is the price of Saltish Half Roll (Medium)?",
+        "output":"The price of Saltish Half Roll (Medium) is 50 rs."
+    },
+    {
+        "input":"What is the price of Oreo Family Pack (Large)?",
+        "output":"The price of Oreo Family Pack (large) is 100 rs."
+    },
+    {
+        "input":"What is the price of Cocomo Family Pack (Large)?",
+        "output":"The price of Cocomo Family Pack (large) is 100 rs."
+    },
+    {
+        "input":"What is the price of Special Family Pack (Large)?",
+        "output":"The price of Special Family Pack (large) is 100 rs."
+    },
+    {
+        "input":"What is the price of Sooper Family Pack (Large)?",
+        "output":"The price of Sooper Family Pack (large) is 100 rs."
+    },
+    {
+        "input":"What is the price of Milcolu Family Pack (Large)?",
+        "output":"The price of Milcolu Family Pack (large) is 100 rs."
+    },
+    {
+        "input":"What is the price of Milkabisk Family Pack (Large)?",
+        "output":"The price of Milkabisk Family Pack (large) is 100 rs."
+    },
+    {
+        "input":"What is the price of Butter Puff Family Pack (Large)?",
+        "output":"The price of Butter Puff Family Pack (large) is 100 rs."
+    },
+    {
+        "input":"What is the price of Marie Family Pack (Large)?",
+        "output":"The price of Marie Family Pack (large) is 100 rs."
+    },
+    {
+        "input":"What is the price of Peanut Pik Family Pack (Large)?",
+        "output":"The price of Peanut Pik Family Pack (large) is 100 rs."
+    },
+    {
+        "input":"What is the price of Gala Family Pack (Large)?",
+        "output":"The price of Gala Family Pack (large) is 100 rs."
+    },
+    {
+        "input":"What is the price of Candy Family Pack (Large)?",
+        "output":"The price of Candy Family Pack (large) is 100 rs."
+    },
+    {
+        "input":"What is the price of Peanut Pista Family Pack (Large)?",
+        "output":"The price of Peanut Pista Family Pack (large) is 100 rs."
+    },
+    {
+        "input":"What is the price of Rio Family Pack (Large)?",
+        "output":"The price of Rio Family Pack (large) is 100 rs."
+    },
+    {
+        "input":"What is the price of Prince Family Pack (Large)?",
+        "output":"The price of Prince Family Pack (large) is 100 rs."
+    },
+    {
+        "input":"What is the price of Day Dream Family Pack (Large)?",
+        "output":"The price of Day Dream Family Pack (large) is 100 rs."
+    },
+    {
+        "input":"What is the price of Tuc Family Pack (Large)?",
+        "output":"The price of Tuc Family Pack (large) is 100 rs."
+    },
+    {
+        "input":"What is the price of Tiger Family Pack (Large)?",
+        "output":"The price of Tiger Family Pack (large) is 100 rs."
+    },
+    {
+        "input":"What is the price of Zeera Plus Family Pack (Large)?",
+        "output":"The price of Zeera Plus Family Pack (large) is 100 rs."
+    },
+    {
+        "input":"What is the price of Chocolate Chip Family Pack (Large)?",
+        "output":"The price of Chocolate Chip Family Pack (large) is 100 rs."
+    },
+    {
+        "input":"What is the price of Lemon Family Pack (Large)?",
+        "output":"The price of Lemon Family Pack (large) is 100 rs."
+    },
+    {
+        "input":"What is the price of Nankhatai Family Pack (Large)?",
+        "output":"The price of Nankhatai Family Pack (large) is 100 rs."
+    },
+    {
+        "input":"What is the price of Butter Family Pack (Large)?",
+        "output":"The price of Butter Family Pack (large) is 100 rs."
+    },
+    {
+        "input":"What is the price of Cafe Family Pack (Large)?",
+        "output":"The price of Cafe Family Pack (large) is 100 rs."
+    },
+    {
+        "input":"What is the price of Digestive Family Pack (Large)?",
+        "output":"The price of Digestive Family Pack (large) is 100 rs."
+    },
+    {
+        "input":"What is the price of Chocolatto Family Pack (Large)?",
+        "output":"The price of Chocolatto Family Pack (large) is 100 rs."
+    },
+    {
+        "input":"What is the price of Party Pik Family Pack (Large)?",
+        "output":"The price of Party Pik Family Pack (large) is 100 rs."
+    },
+    {
+        "input":"What is the price of Rite Family Pack (Large)?",
+        "output":"The price of Rite Family Pack (large) is 100 rs."
+    },
+    {
+        "input":"What is the price of Bistiks Family Pack (Large)?",
+        "output":"The price of Bistiks Family Pack (large) is 100 rs."
+    },
+    {
+        "input":"What is the price of Click Family Pack (Large)?",
+        "output":"The price of Click Family Pack (large) is 100 rs."
+    },
+    {
+        "input":"What is the price of Gluco Family Pack (Large)?",
+        "output":"The price of Gluco Family Pack (large) is 100 rs."
+    },
+    {
+        "input":"What is the price of Choco Lava Family Pack (Large)?",
+        "output":"The price of Choco Lava Family Pack (large) is 100 rs."
+    },
+    {
+        "input":"What is the price of Wheatable Family Pack (Large)?",
+        "output":"The price of Wheatable Family Pack (large) is 100 rs."
+    },
+    {
+        "input":"What is the price of Coconut Family Pack (Large)?",
+        "output":"The price of Coconut Family Pack (large) is 100 rs."
+    },
+    {
+        "input":"What is the price of Nice Family Pack (Large)?",
+        "output":"The price of Nice Family Pack (large) is 100 rs."
+    },
+    {
+        "input":"What is the price of Classic Family Pack (Large)?",
+        "output":"The price of Classic Family Pack (large) is 100 rs."
+    },
+    {
+        "input":"What is the price of Peanut Family Pack (Large)?",
+        "output":"The price of Peanut Family Pack (large) is 100 rs."
+    },
+    {
+        "input":"What is the price of Chai Wala Biscuit Family Pack (Large)?",
+        "output":"The price of Chai Wala Biscuit Family Pack (large) is 100 rs."
+    },
+    {
+        "input":"What is the price of Delice Family Pack (Large)?",
+        "output":"The price of Delice Family Pack (large) is 100 rs."
+    },
+    {
+        "input":"What is the price of TeaTime Family Pack (Large)?",
+        "output":"The price of TeaTime Family Pack (large) is 100 rs."
+    },
+    {
+        "input":"What is the price of Saltish Family Pack (Large)?",
+        "output":"The price of Saltish Family Pack (large) is 100 rs."
+    },
+    {
+        "input":"What is the price of Bubble Pop Bar (Large)?",
+        "output":"The price of Bubble Pop Bar (Large) is 50 rs."
+    },
+    {
+        "input":"What is the price of Joe Soft Bar (Large)?",
+        "output":"The price of Joe Soft Bar (Large) is 50 rs."
+    },
+    {
+        "input":"What is the price of Ding Dong Bar (Large)?",
+        "output":"The price of Ding Dong Bar (Large) is 50 rs."
+    },
+    {
+        "input":"What is the price of Boom Boom Bar (Large)?",
+        "output":"The price of Boom Boom Bar (Large) is 50 rs."
+    },
+    {
+        "input":"What is the price of Fresh up Bar (Large)?",
+        "output":"The price of Fresh up Bar (Large) is 50 rs."
+    },
+    {
+        "input":"What is the price of Lifebouy Large?",
+        "output":"The price of Lifebouy Large is 220 rs."
+    },
+    {
+        "input":"What is the price of Hari Large?",
+        "output":"The price of Hari Large is 220 rs."
+    },
+    {
+        "input":"What is the price of Safeguard Large?",
+        "output":"The price of Safeguard Large is 220 rs."
+    },
+    {
+        "input":"What is the price of Pears Large?",
+        "output":"The price of Pears Large is 220 rs."
+    },
+    {
+        "input":"What is the price of Tibet Large?",
+        "output":"The price of Tibet Large is 220 rs."
+    },
+    {
+        "input":"What is the price of Palmolive Large?",
+        "output":"The price of Palmolive Large is 220 rs."
+    },
+    {
+        "input":"What is the price of Dettol Large?",
+        "output":"The price of Dettol Large is 220 rs."
+    },
+    {
+        "input":"What is the price of Lux Large?",
+        "output":"The price of Lux Large is 220 rs."
+    },
+    {
+        "input":"What is the price of Dove Large?",
+        "output":"The price of Dove Large is 220 rs."
+    },
+    {
+        "input":"What is the price of Lemon Max Large?",
+        "output":"The price of Lemon Max Large is 220 rs."
+    },
+    {
+        "input":"What is the price of Care Large?",
+        "output":"The price of Care Large is 220 rs."
+    },
+    {
+        "input":"What is the price of Capri Large?",
+        "output":"The price of Capri Large is 220 rs."
+    },
+    {
+        "input":"What is the price of Lara Large?",
+        "output":"The price of Lara Large is 220 rs."
+    },
+    {
+        "input":"What is the price of Mountain Dew Can (Tin)?",
+        "output":"The price of Mountain Dew Can (Tin) is 100 rs."
+    },
+    {
+        "input":"What is the price of Fizz Up Can (Tin)?",
+        "output":"The price of Fizz Up Can (Tin) is 100 rs."
+    },
+    {
+        "input":"What is the price of Pepsi Diet Can (Tin)?",
+        "output":"The price of Pepsi Diet Can (Tin) is 100 rs."
+    },
+    {
+        "input":"What is the price of Sting Can (Tin)?",
+        "output":"The price of Sting Can (Tin) is 100 rs."
+    },
+    {
+        "input":"What is the price of Mirinda Can (Tin)?",
+        "output":"The price of Mirinda Can (Tin) is 100 rs."
+    },
+    {
+        "input":"What is the price of Fanta Can (Tin)?",
+        "output":"The price of Fanta Can (Tin) is 100 rs."
+    },
+    {
+        "input":"What is the price of 7Up Can (Tin)?",
+        "output":"The price of 7Up Can (Tin) is 100 rs."
+    },
+    {
+        "input":"What is the price of Sprite Can (Tin)?",
+        "output":"The price of Sprite Can (Tin) is 100 rs."
+    },
+    {
+        "input":"What is the price of Coca Cola Can (Tin)?",
+        "output":"The price of Coca Cola Can (Tin) is 100 rs."
+    },
+    {
+        "input":"What is the price of Pepsi Can (Tin)?",
+        "output":"The price of Pepsi Can (Tin) is 100 rs."
+    },
+    {
+        "input":"What is the price of Cola Next Can (Tin)?",
+        "output":"The price of Cola Next Can (Tin) is 100 rs."
+    },
+    {
+        "input":"What is the price of Mountain Dew Small (230ml)?",
+        "output":"The price of Mountain Dew Small (230ml) is 70 rs."
+    },
+    {
+        "input":"What is the price of Fizz Up Small (230ml)?",
+        "output":"The price of Fizz Up Small (230ml) is 70 rs."
+    },
+    {
+        "input":"What is the price of Pepsi Diet Small (230ml)?",
+        "output":"The price of Pepsi Diet Small (230ml) is 70 rs."
+    },
+    {
+        "input":"What is the price of Sting Small (230ml)?",
+        "output":"The price of Sting Small (230ml) is 70 rs."
+    },
+    {
+        "input":"What is the price of Mirinda Small (230ml)?",
+        "output":"The price of Mirinda Small (230ml) is 70 rs."
+    },
+    {
+        "input":"What is the price of Fanta Small (230ml)?",
+        "output":"The price of Fanta Small (230ml) is 70 rs."
+    },
+    {
+        "input":"What is the price of 7Up Small (230ml)?",
+        "output":"The price of 7Up Small (230ml) is 70 rs."
+    },
+    {
+        "input":"What is the price of Sprite Small (230ml)?",
+        "output":"The price of Sprite Small (230ml) is 70 rs."
+    },
+    {
+        "input":"What is the price of Coca Cola Small (230ml)?",
+        "output":"The price of Coca Cola Small (230ml) is 70 rs."
+    },
+    {
+        "input":"What is the price of Pepsi Small (230ml)?",
+        "output":"The price of Pepsi Small (230ml) is 70 rs."
+    },
+    {
+        "input":"What is the price of Cola Next Small (230ml)?",
+        "output":"The price of Cola Next Small (230ml) is 70 rs."
+    },
+    {
+        "input":"What is the price of Mountain Dew 500ml?",
+        "output":"The price of Mountain Dew 500ml) is 100 rs."
+    },
+    {
+        "input":"What is the price of Fizz Up 500ml?",
+        "output":"The price of Fizz Up 500ml) is 100 rs."
+    },
+    {
+        "input":"What is the price of Pepsi Diet 500ml?",
+        "output":"The price of Pepsi Diet 500ml) is 100 rs."
+    },
+    {
+        "input":"What is the price of Sting 500ml?",
+        "output":"The price of Sting 500ml) is 100 rs."
+    },
+    {
+        "input":"What is the price of Mirinda 500ml?",
+        "output":"The price of Mirinda 500ml) is 100 rs."
+    },
+    {
+        "input":"What is the price of Fanta 500ml?",
+        "output":"The price of Fanta 500ml) is 100 rs."
+    },
+    {
+        "input":"What is the price of 7Up 500ml?",
+        "output":"The price of 7Up 500ml) is 100 rs."
+    },
+    {
+        "input":"What is the price of Sprite 500ml?",
+        "output":"The price of Sprite 500ml) is 100 rs."
+    },
+    {
+        "input":"What is the price of Coca Cola 500ml?",
+        "output":"The price of Coca Cola 500ml) is 100 rs."
+    },
+    {
+        "input":"What is the price of Pepsi 500ml?",
+        "output":"The price of Pepsi 500ml) is 100 rs."
+    },
+    {
+        "input":"What is the price of Cola Next 500ml?",
+        "output":"The price of Cola Next 500ml) is 100 rs."
+    },
+    {
+        "input":"What is the price of Mountain Dew 2.25 litre?",
+        "output":"The price of Mountain Dew 2.25 litre) is 250 rs."
+    },
+    {
+        "input":"What is the price of Fizz Up 2.25 litre?",
+        "output":"The price of Fizz Up 2.25 litre) is 250 rs."
+    },
+    {
+        "input":"What is the price of Pepsi Diet 2.25 litre?",
+        "output":"The price of Pepsi Diet 2.25 litre) is 250 rs."
+    },
+    {
+        "input":"What is the price of Sting 2.25 litre?",
+        "output":"The price of Sting 2.25 litre) is 250 rs."
+    },
+    {
+        "input":"What is the price of Mirinda 2.25 litre?",
+        "output":"The price of Mirinda 2.25 litre) is 250 rs."
+    },
+    {
+        "input":"What is the price of Fanta 2.25 litre?",
+        "output":"The price of Fanta 2.25 litre) is 250 rs."
+    },
+    {
+        "input":"What is the price of 7Up 2.25 litre?",
+        "output":"The price of 7Up 2.25 litre) is 250 rs."
+    },
+    {
+        "input":"What is the price of Sprite 2.25 litre?",
+        "output":"The price of Sprite 2.25 litre) is 250 rs."
+    },
+    {
+        "input":"What is the price of Coca Cola 2.25 litre?",
+        "output":"The price of Coca Cola 2.25 litre) is 250 rs."
+    },
+    {
+        "input":"What is the price of Pepsi 2.25 litre?",
+        "output":"The price of Pepsi 2.25 litre) is 250 rs."
+    },
+    {
+        "input":"What is the price of Cola Next 2.25 litre?",
+        "output":"The price of Cola Next 2.25 litre) is 250 rs."
+    },
+    {
+        "input":"What is the price of Lays small?",
+        "output":"The price of Lays small is 20 rs."
+    },
+    {
+        "input":"What is the price of Wavy small?",
+        "output":"The price of Wavy small is 20 rs."
+    },
+    {
+        "input":"What is the price of Kurkure small?",
+        "output":"The price of Kurkure small is 20 rs."
+    },
+    {
+        "input":"What is the price of Kurleez small?",
+        "output":"The price of Kurleez small is 20 rs."
+    },
+    {
+        "input":"What is the price of Cheetos small?",
+        "output":"The price of Cheetos small is 20 rs."
+    },
+    {
+        "input":"What is the price of Finger Fries small?",
+        "output":"The price of Finger Fries small is 20 rs."
+    },
+    {
+        "input":"What is the price of Snackers small?",
+        "output":"The price of Snackers small is 20 rs."
+    },
+    {
+        "input":"What is the price of Pingos small?",
+        "output":"The price of Pingos small is 20 rs."
+    },
+    {
+        "input":"What is the price of Fillz small?",
+        "output":"The price of Fillz small is 20 rs."
+    },
+    {
+        "input":"What is the price of Chillz small?",
+        "output":"The price of Chillz small is 20 rs."
+    },
+    {
+        "input":"What is the price of Potato Sticks small?",
+        "output":"The price of Potato Sticks small is 20 rs."
+    },
+    {
+        "input":"What is the price of Potato Snacks small?",
+        "output":"The price of Potato Snacks small is 20 rs."
+    },
+    {
+        "input":"What is the price of Pringles small?",
+        "output":"The price of Pringles small is 20 rs."
+    },
+    {
+        "input":"What is the price of Lays large?",
+        "output":"The price of Lays large is 50 rs."
+    },
+    {
+        "input":"What is the price of Wavy large?",
+        "output":"The price of Wavy large is 50 rs."
+    },
+    {
+        "input":"What is the price of Slanty large?",
+        "output":"The price of Slanty large is 50 rs."
+    },
+    {
+        "input":"What is the price of Kurkure large?",
+        "output":"The price of Kurkure large is 50 rs."
+    },
+    {
+        "input":"What is the price of Kurleez large?",
+        "output":"The price of Kurleez large is 50 rs."
+    },
+    {
+        "input":"What is the price of Cheetos large?",
+        "output":"The price of Cheetos large is 50 rs."
+    },
+    {
+        "input":"What is the price of Finger Fries large?",
+        "output":"The price of Finger Fries large is 50 rs."
+    },
+    {
+        "input":"What is the price of Snackers large?",
+        "output":"The price of Snackers large is 50 rs."
+    },
+    {
+        "input":"What is the price of Pingos large?",
+        "output":"The price of Pingos large is 50 rs."
+    },
+    {
+        "input":"What is the price of Fillz large?",
+        "output":"The price of Fillz large is 50 rs."
+    },
+    {
+        "input":"What is the price of Cheese Balls large?",
+        "output":"The price of Cheese Balls large is 50 rs."
+    },
+    {
+        "input":"What is the price of Chillz large?",
+        "output":"The price of Chillz large is 50 rs."
+    },
+    {
+        "input":"What is the price of Potato Sticks large?",
+        "output":"The price of Potato Sticks large is 50 rs."
+    },
+    {
+        "input":"What is the price of Potato Snacks large?",
+        "output":"The price of Potato Snacks large is 50 rs."
+    },
+    {
+        "input":"What is the price of Pringles large?",
+        "output":"The price of Pringles large is 50 rs."
+    },
+    {
+        "input":"What is the price of Lays extra large (Family)?",
+        "output":"The price of Lays extra large (Family) is 70 rs."
+    },
+    {
+        "input":"What is the price of Wavy extra large (Family)?",
+        "output":"The price of Wavy extra large (Family) is 70 rs."
+    },
+    {
+        "input":"What is the price of Kurkure extra large (Family)?",
+        "output":"The price of Kurkure extra large (Family) is 70 rs."
+    },
+    {
+        "input":"What is the price of Kurleez extra large (Family)?",
+        "output":"The price of Kurleez extra large (Family) is 70 rs."
+    },
+    {
+        "input":"What is the price of Cheetos extra large (Family)?",
+        "output":"The price of Cheetos extra large (Family) is 70 rs."
+    },
+    {
+        "input":"What is the price of Finger Fries extra large (Family)?",
+        "output":"The price of Finger Fries extra large (Family) is 70 rs."
+    },
+    {
+        "input":"What is the price of Snackers extra large (Family)?",
+        "output":"The price of Snackers extra large (Family) is 70 rs."
+    },
+    {
+        "input":"What is the price of Pingos extra large (Family)?",
+        "output":"The price of Pingos extra large (Family) is 70 rs."
+    },
+    {
+        "input":"What is the price of Fillz extra large (Family)?",
+        "output":"The price of Fillz extra large (Family) is 70 rs."
+    },
+    {
+        "input":"What is the price of Chillz extra large (Family)?",
+        "output":"The price of Chillz extra large (Family) is 70 rs."
+    },
+    {
+        "input":"What is the price of Potato Sticks extra large (Family)?",
+        "output":"The price of Potato Sticks extra large (Family) is 70 rs."
+    },
+    {
+        "input":"What is the price of Potato Snacks extra large (Family)?",
+        "output":"The price of Potato Snacks extra large (Family) is 70 rs."
+    },
+    {
+        "input":"What is the price of Mentos Bag (Medium)?",
+        "output":"The price of Mentos Bag (Medium) is 250 rs."
+    },
+    {
+        "input":"What is the price of Mentos Bottle (Large)?",
+        "output":"The price of Mentos Bottle (Large) is 800 rs."
+    },
+    {
+        "input":"What is the price of Jelly Banana Packet (Large)?",
+        "output":"The price of Jelly Banana Packet (Large) is 150 rs."
+    },
+    {
+        "input":"What is the price of Jelly Mixed Fruit Packet (Large)?",
+        "output":"The price of Jelly Mixed Fruit Packet (Large) is 150 rs."
+    },
+    {
+        "input":"What is the price of Nestle pure life Medium (1.5 Litre)?",
+        "output":"The price of Nestle pure life Medium (1.5 Litre) is 130 rs."
+    },
+    {
+        "input":"What is the price of Aquafina Medium (1.5 Litre)?",
+        "output":"The price of Aquafina Medium (1.5 Litre) is 130 rs."
+    },
+    {
+        "input":"What is the price of Atco Medium (1.5 Litre)?",
+        "output":"The price of Atco Medium (1.5 Litre) is 130 rs."
+    },
+    {
+        "input":"What is the price of Nestle pure life Large (5 Litre)?",
+        "output":"The price of Nestle pure life Large (5 Litre) is 300 rs."
+    },
+    {
+        "input":"What is the price of Aquafina Large (5 Litre)?",
+        "output":"The price of Aquafina Large (5 Litre) is 300 rs."
+    },
+    {
+        "input":"What is the price of Atco Large (5 Litre)?",
+        "output":"The price of Atco Large (5 Litre) is 300 rs."
+    },
+    {
+        "input":"What is the price of Novita Orange Large?",
+        "output":"The price of Novita Orange Large is 50 rs."
+    },
+    {
+        "input":"What is the price of Novita Chocolate Large?",
+        "output":"The price of Novita Chocolate Large is 50 rs."
+    },
+    {
+        "input":"What is the price of Wispy Large?",
+        "output":"The price of Wispy Large is 50 rs."
+    },
+    {
+        "input":"What is the price of Frisky Large?",
+        "output":"The price of Frisky Large is 70 rs."
+    },
+    {
+        "input":"What is the price of Sunlight Half Kg (500mg)?",
+        "output":"The price of Sunlight Half Kg (500mg) is 150 rs."
+    },
+    {
+        "input":"What is the price of Bonus Half Kg (500mg)?",
+        "output":"The price of Bonus Half Kg (500mg) is 150 rs."
+    },
+    {
+        "input":"What is the price of Ariel Half Kg (500mg)?",
+        "output":"The price of Ariel Half Kg (500mg) is 150 rs."
+    },
+    {
+        "input":"What is the price of Surf Excel Half Kg (500mg)?",
+        "output":"The price of Surf Excel Half Kg (500mg) is 150 rs."
+    },
+    {
+        "input":"What is the price of Brite Half Kg (500mg)?",
+        "output":"The price of Brite Half Kg (500mg) is 150 rs."
+    },
+    {
+        "input":"What is the price of Express Power Half Kg (500mg)?",
+        "output":"The price of Express Power Half Kg (500mg) is 150 rs."
+    },
+    {
+        "input":"What is the price of Sunlight 1 Kg (1000mg)?",
+        "output":"The price of Sunlight 1 Kg (1000mg) is 250 rs."
+    },
+    {
+        "input":"What is the price of Bonus 1 Kg (1000mg)?",
+        "output":"The price of Bonus 1 Kg (1000mg) is 250 rs."
+    },
+    {
+        "input":"What is the price of Ariel 1 Kg (1000mg)?",
+        "output":"The price of Ariel 1 Kg (1000mg) is 250 rs."
+    },
+    {
+        "input":"What is the price of Surf Excel 1 Kg (1000mg)?",
+        "output":"The price of Surf Excel 1 Kg (1000mg) is 250 rs."
+    },
+    {
+        "input":"What is the price of Brite 1 Kg (1000mg)?",
+        "output":"The price of Brite 1 Kg (1000mg) is 250 rs."
+    },
+    {
+        "input":"What is the price of Express Power 1 Kg (1000mg)?",
+        "output":"The price of Express Power 1 Kg (1000mg) is 250 rs."
+    }
 ]
