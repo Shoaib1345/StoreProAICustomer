@@ -1220,24 +1220,24 @@
     "output": "The price of Jelly Mixed Fruit is 60rs"
   },
   {
-    "input": "What is the price of Sunlight?",
-    "output": "The price of Sunlight is 40rs"
+    "input": "What is the price of Sunlight Small?",
+    "output": "The price of Sunlight Small is 40rs"
   },
   {
-    "input": "What is the price of Bonus?",
-    "output": "The price of Bonus is 40rs"
+    "input": "What is the price of Bonus Small?",
+    "output": "The price of Bonus Small is 40rs"
   },
   {
-    "input": "What is the price of Ariel?",
-    "output": "The price of Ariel is 40rs"
+    "input": "What is the price of Ariel Small?",
+    "output": "The price of Ariel Small is 40rs"
   },
   {
-    "input": "What is the price of Surf Excel?",
-    "output": "The price of Surf Excel is 40rs"
+    "input": "What is the price of Surf Excel Small?",
+    "output": "The price of Surf Excel Small is 40rs"
   },
   {
-    "input": "What is the price of Brite?",
-    "output": "The price of Brite is 40rs"
+    "input": "What is the price of Brite Small?",
+    "output": "The price of Brite Small is 40rs"
   },
   {
     "input": "What is the price of Pampers?",
@@ -1692,16 +1692,12 @@
     "output": "The price of Synthetic Vinegar is 140rs"
   },
   {
-    "input": "What is the price of Novita Orange?",
-    "output": "The price of Novita Orange is 30rs"
+    "input": "What is the price of Novita Orange Small?",
+    "output": "The price of Novita Orange Small is 30rs"
   },
   {
-    "input": "What is the price of Novita Chocolate?",
-    "output": "The price of Novita Chocolate is 30rs"
-  },
-  {
-    "input": "What is the price of Wispy?",
-    "output": "The price of Wispy is 30rs"
+    "input": "What is the price of Novita Chocolate Small?",
+    "output": "The price of Novita Chocolate Small is 30rs"
   },
   {
     "input": "What is the price of Nestle?",
@@ -3196,8 +3192,8 @@
     "output": "The price of Chai Wala Biscuit is 20.0rs"
   },
   {
-    "input": "What is the price of Frisky?",
-    "output": "The price of Frisky is nanrs"
+    "input": "What is the price of Frisky Small?",
+    "output": "The price of Frisky Small is 40rs"
   },
   {
     "input": "What is the price of Delice?",
@@ -3340,8 +3336,8 @@
     "output": "The price of Lara is 80.0rs"
   },
   {
-    "input": "What is the price of Express Power?",
-    "output": "The price of Express Power is 250.0rs"
+    "input": "What is the price of Express Power Small?",
+    "output": "The price of Express Power Small is 40rs"
   },
   {
     "input": "What is the price of Yums?",
