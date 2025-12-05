@@ -3724,835 +3724,1895 @@
     "output": "The Water products are: Nestle pure life, Aquafina, Atco"
   },
   {
-        "input":"What is the price of Oreo Half Roll (Medium)?",
-        "output":"The price of Oreo Half Roll (Medium) is 50 rs."
-    },
-    {
-        "input":"What is the price of Cocomo Half Roll (Medium)?",
-        "output":"The price of Cocomo Half Roll (Medium) is 50 rs."
-    },
-    {
-        "input":"What is the price of Special Half Roll (Medium)?",
-        "output":"The price of Special Half Roll (Medium) is 50 rs."
-    },
-    {
-        "input":"What is the price of Sooper Half Roll (Medium)?",
-        "output":"The price of Sooper Half Roll (Medium) is 50 rs."
-    },
-    {
-        "input":"What is the price of Milcolu Half Roll (Medium)?",
-        "output":"The price of Milcolu Half Roll (Medium) is 50 rs."
-    },
-    {
-        "input":"What is the price of Milkabisk Half Roll (Medium)?",
-        "output":"The price of Milkabisk Half Roll (Medium) is 50 rs."
-    },
-    {
-        "input":"What is the price of Butter Puff Half Roll (Medium)?",
-        "output":"The price of Butter Puff Half Roll (Medium) is 50 rs."
-    },
-    {
-        "input":"What is the price of Marie Half Roll (Medium)?",
-        "output":"The price of Marie Half Roll (Medium) is 50 rs."
-    },
-    {
-        "input":"What is the price of Peanut Pik Half Roll (Medium)?",
-        "output":"The price of Peanut Pik Half Roll (Medium) is 50 rs."
-    },
-    {
-        "input":"What is the price of Gala Half Roll (Medium)?",
-        "output":"The price of Gala Half Roll (Medium) is 50 rs."
-    },
-    {
-        "input":"What is the price of Candy Half Roll (Medium)?",
-        "output":"The price of Candy Half Roll (Medium) is 50 rs."
-    },
-    {
-        "input":"What is the price of Peanut Pista Half Roll (Medium)?",
-        "output":"The price of Peanut Pista Half Roll (Medium) is 50 rs."
-    },
-    {
-        "input":"What is the price of Rio Half Roll (Medium)?",
-        "output":"The price of Rio Half Roll (Medium) is 50 rs."
-    },
-    {
-        "input":"What is the price of Prince Half Roll (Medium)?",
-        "output":"The price of Prince Half Roll (Medium) is 50 rs."
-    },
-    {
-        "input":"What is the price of Day Dream Half Roll (Medium)?",
-        "output":"The price of Day Dream Half Roll (Medium) is 50 rs."
-    },
-    {
-        "input":"What is the price of Tuc Half Roll (Medium)?",
-        "output":"The price of Tuc Half Roll (Medium) is 50 rs."
-    },
-    {
-        "input":"What is the price of Tiger Half Roll (Medium)?",
-        "output":"The price of Tiger Half Roll (Medium) is 50 rs."
-    },
-    {
-        "input":"What is the price of Zeera Plus Half Roll (Medium)?",
-        "output":"The price of Zeera Plus Half Roll (Medium) is 50 rs."
-    },
-    {
-        "input":"What is the price of Chocolate Chip Half Roll (Medium)?",
-        "output":"The price of Chocolate Chip Half Roll (Medium) is 50 rs."
-    },
-    {
-        "input":"What is the price of Lemon Half Roll (Medium)?",
-        "output":"The price of Lemon Half Roll (Medium) is 50 rs."
-    },
-    {
-        "input":"What is the price of Nankhatai Half Roll (Medium)?",
-        "output":"The price of Nankhatai Half Roll (Medium) is 50 rs."
-    },
-    {
-        "input":"What is the price of Butter Half Roll (Medium)?",
-        "output":"The price of Butter Half Roll (Medium) is 50 rs."
-    },
-    {
-        "input":"What is the price of Cafe Half Roll (Medium)?",
-        "output":"The price of Cafe Half Roll (Medium) is 50 rs."
-    },
-    {
-        "input":"What is the price of Digestive Half Roll (Medium)?",
-        "output":"The price of Digestive Half Roll (Medium) is 50 rs."
-    },
-    {
-        "input":"What is the price of Chocolatto Half Roll (Medium)?",
-        "output":"The price of Chocolatto Half Roll (Medium) is 50 rs."
-    },
-    {
-        "input":"What is the price of Party Pik Half Roll (Medium)?",
-        "output":"The price of Party Pik Half Roll (Medium) is 50 rs."
-    },
-    {
-        "input":"What is the price of Rite Half Roll (Medium)?",
-        "output":"The price of Rite Half Roll (Medium) is 50 rs."
-    },
-    {
-        "input":"What is the price of Bistiks Half Roll (Medium)?",
-        "output":"The price of Bistiks Half Roll (Medium) is 50 rs."
-    },
-    {
-        "input":"What is the price of Click Half Roll (Medium)?",
-        "output":"The price of Click Half Roll (Medium) is 50 rs."
-    },
-    {
-        "input":"What is the price of Gluco Half Roll (Medium)?",
-        "output":"The price of Gluco Half Roll (Medium) is 50 rs."
-    },
-    {
-        "input":"What is the price of Choco Lava Half Roll (Medium)?",
-        "output":"The price of Choco Lava Half Roll (Medium) is 50 rs."
-    },
-    {
-        "input":"What is the price of Wheatable Half Roll (Medium)?",
-        "output":"The price of Wheatable Half Roll (Medium) is 50 rs."
-    },
-    {
-        "input":"What is the price of Coconut Half Roll (Medium)?",
-        "output":"The price of Coconut Half Roll (Medium) is 50 rs."
-    },
-    {
-        "input":"What is the price of Nice Half Roll (Medium)?",
-        "output":"The price of Nice Half Roll (Medium) is 50 rs."
-    },
-    {
-        "input":"What is the price of Classic Half Roll (Medium)?",
-        "output":"The price of Classic Half Roll (Medium) is 50 rs."
-    },
-    {
-        "input":"What is the price of Peanut Half Roll (Medium)?",
-        "output":"The price of Peanut Half Roll (Medium) is 50 rs."
-    },
-    {
-        "input":"What is the price of Chai Wala Biscuit Half Roll (Medium)?",
-        "output":"The price of Chai Wala Biscuit Half Roll (Medium) is 50 rs."
-    },
-    {
-        "input":"What is the price of Delice Half Roll (Medium)?",
-        "output":"The price of Delice Half Roll (Medium) is 50 rs."
-    },
-    {
-        "input":"What is the price of TeaTime Half Roll (Medium)?",
-        "output":"The price of TeaTime Half Roll (Medium) is 50 rs."
-    },
-    {
-        "input":"What is the price of Saltish Half Roll (Medium)?",
-        "output":"The price of Saltish Half Roll (Medium) is 50 rs."
-    },
-    {
-        "input":"What is the price of Oreo Family Pack (Large)?",
-        "output":"The price of Oreo Family Pack (large) is 100 rs."
-    },
-    {
-        "input":"What is the price of Cocomo Family Pack (Large)?",
-        "output":"The price of Cocomo Family Pack (large) is 100 rs."
-    },
-    {
-        "input":"What is the price of Special Family Pack (Large)?",
-        "output":"The price of Special Family Pack (large) is 100 rs."
-    },
-    {
-        "input":"What is the price of Sooper Family Pack (Large)?",
-        "output":"The price of Sooper Family Pack (large) is 100 rs."
-    },
-    {
-        "input":"What is the price of Milcolu Family Pack (Large)?",
-        "output":"The price of Milcolu Family Pack (large) is 100 rs."
-    },
-    {
-        "input":"What is the price of Milkabisk Family Pack (Large)?",
-        "output":"The price of Milkabisk Family Pack (large) is 100 rs."
-    },
-    {
-        "input":"What is the price of Butter Puff Family Pack (Large)?",
-        "output":"The price of Butter Puff Family Pack (large) is 100 rs."
-    },
-    {
-        "input":"What is the price of Marie Family Pack (Large)?",
-        "output":"The price of Marie Family Pack (large) is 100 rs."
-    },
-    {
-        "input":"What is the price of Peanut Pik Family Pack (Large)?",
-        "output":"The price of Peanut Pik Family Pack (large) is 100 rs."
-    },
-    {
-        "input":"What is the price of Gala Family Pack (Large)?",
-        "output":"The price of Gala Family Pack (large) is 100 rs."
-    },
-    {
-        "input":"What is the price of Candy Family Pack (Large)?",
-        "output":"The price of Candy Family Pack (large) is 100 rs."
-    },
-    {
-        "input":"What is the price of Peanut Pista Family Pack (Large)?",
-        "output":"The price of Peanut Pista Family Pack (large) is 100 rs."
-    },
-    {
-        "input":"What is the price of Rio Family Pack (Large)?",
-        "output":"The price of Rio Family Pack (large) is 100 rs."
-    },
-    {
-        "input":"What is the price of Prince Family Pack (Large)?",
-        "output":"The price of Prince Family Pack (large) is 100 rs."
-    },
-    {
-        "input":"What is the price of Day Dream Family Pack (Large)?",
-        "output":"The price of Day Dream Family Pack (large) is 100 rs."
-    },
-    {
-        "input":"What is the price of Tuc Family Pack (Large)?",
-        "output":"The price of Tuc Family Pack (large) is 100 rs."
-    },
-    {
-        "input":"What is the price of Tiger Family Pack (Large)?",
-        "output":"The price of Tiger Family Pack (large) is 100 rs."
-    },
-    {
-        "input":"What is the price of Zeera Plus Family Pack (Large)?",
-        "output":"The price of Zeera Plus Family Pack (large) is 100 rs."
-    },
-    {
-        "input":"What is the price of Chocolate Chip Family Pack (Large)?",
-        "output":"The price of Chocolate Chip Family Pack (large) is 100 rs."
-    },
-    {
-        "input":"What is the price of Lemon Family Pack (Large)?",
-        "output":"The price of Lemon Family Pack (large) is 100 rs."
-    },
-    {
-        "input":"What is the price of Nankhatai Family Pack (Large)?",
-        "output":"The price of Nankhatai Family Pack (large) is 100 rs."
-    },
-    {
-        "input":"What is the price of Butter Family Pack (Large)?",
-        "output":"The price of Butter Family Pack (large) is 100 rs."
-    },
-    {
-        "input":"What is the price of Cafe Family Pack (Large)?",
-        "output":"The price of Cafe Family Pack (large) is 100 rs."
-    },
-    {
-        "input":"What is the price of Digestive Family Pack (Large)?",
-        "output":"The price of Digestive Family Pack (large) is 100 rs."
-    },
-    {
-        "input":"What is the price of Chocolatto Family Pack (Large)?",
-        "output":"The price of Chocolatto Family Pack (large) is 100 rs."
-    },
-    {
-        "input":"What is the price of Party Pik Family Pack (Large)?",
-        "output":"The price of Party Pik Family Pack (large) is 100 rs."
-    },
-    {
-        "input":"What is the price of Rite Family Pack (Large)?",
-        "output":"The price of Rite Family Pack (large) is 100 rs."
-    },
-    {
-        "input":"What is the price of Bistiks Family Pack (Large)?",
-        "output":"The price of Bistiks Family Pack (large) is 100 rs."
-    },
-    {
-        "input":"What is the price of Click Family Pack (Large)?",
-        "output":"The price of Click Family Pack (large) is 100 rs."
-    },
-    {
-        "input":"What is the price of Gluco Family Pack (Large)?",
-        "output":"The price of Gluco Family Pack (large) is 100 rs."
-    },
-    {
-        "input":"What is the price of Choco Lava Family Pack (Large)?",
-        "output":"The price of Choco Lava Family Pack (large) is 100 rs."
-    },
-    {
-        "input":"What is the price of Wheatable Family Pack (Large)?",
-        "output":"The price of Wheatable Family Pack (large) is 100 rs."
-    },
-    {
-        "input":"What is the price of Coconut Family Pack (Large)?",
-        "output":"The price of Coconut Family Pack (large) is 100 rs."
-    },
-    {
-        "input":"What is the price of Nice Family Pack (Large)?",
-        "output":"The price of Nice Family Pack (large) is 100 rs."
-    },
-    {
-        "input":"What is the price of Classic Family Pack (Large)?",
-        "output":"The price of Classic Family Pack (large) is 100 rs."
-    },
-    {
-        "input":"What is the price of Peanut Family Pack (Large)?",
-        "output":"The price of Peanut Family Pack (large) is 100 rs."
-    },
-    {
-        "input":"What is the price of Chai Wala Biscuit Family Pack (Large)?",
-        "output":"The price of Chai Wala Biscuit Family Pack (large) is 100 rs."
-    },
-    {
-        "input":"What is the price of Delice Family Pack (Large)?",
-        "output":"The price of Delice Family Pack (large) is 100 rs."
-    },
-    {
-        "input":"What is the price of TeaTime Family Pack (Large)?",
-        "output":"The price of TeaTime Family Pack (large) is 100 rs."
-    },
-    {
-        "input":"What is the price of Saltish Family Pack (Large)?",
-        "output":"The price of Saltish Family Pack (large) is 100 rs."
-    },
-    {
-        "input":"What is the price of Bubble Pop Bar (Large)?",
-        "output":"The price of Bubble Pop Bar (Large) is 50 rs."
-    },
-    {
-        "input":"What is the price of Joe Soft Bar (Large)?",
-        "output":"The price of Joe Soft Bar (Large) is 50 rs."
-    },
-    {
-        "input":"What is the price of Ding Dong Bar (Large)?",
-        "output":"The price of Ding Dong Bar (Large) is 50 rs."
-    },
-    {
-        "input":"What is the price of Boom Boom Bar (Large)?",
-        "output":"The price of Boom Boom Bar (Large) is 50 rs."
-    },
-    {
-        "input":"What is the price of Fresh up Bar (Large)?",
-        "output":"The price of Fresh up Bar (Large) is 50 rs."
-    },
-    {
-        "input":"What is the price of Lifebouy Large?",
-        "output":"The price of Lifebouy Large is 220 rs."
-    },
-    {
-        "input":"What is the price of Hari Large?",
-        "output":"The price of Hari Large is 220 rs."
-    },
-    {
-        "input":"What is the price of Safeguard Large?",
-        "output":"The price of Safeguard Large is 220 rs."
-    },
-    {
-        "input":"What is the price of Pears Large?",
-        "output":"The price of Pears Large is 220 rs."
-    },
-    {
-        "input":"What is the price of Tibet Large?",
-        "output":"The price of Tibet Large is 220 rs."
-    },
-    {
-        "input":"What is the price of Palmolive Large?",
-        "output":"The price of Palmolive Large is 220 rs."
-    },
-    {
-        "input":"What is the price of Dettol Large?",
-        "output":"The price of Dettol Large is 220 rs."
-    },
-    {
-        "input":"What is the price of Lux Large?",
-        "output":"The price of Lux Large is 220 rs."
-    },
-    {
-        "input":"What is the price of Dove Large?",
-        "output":"The price of Dove Large is 220 rs."
-    },
-    {
-        "input":"What is the price of Lemon Max Large?",
-        "output":"The price of Lemon Max Large is 220 rs."
-    },
-    {
-        "input":"What is the price of Care Large?",
-        "output":"The price of Care Large is 220 rs."
-    },
-    {
-        "input":"What is the price of Capri Large?",
-        "output":"The price of Capri Large is 220 rs."
-    },
-    {
-        "input":"What is the price of Lara Large?",
-        "output":"The price of Lara Large is 220 rs."
-    },
-    {
-        "input":"What is the price of Mountain Dew Can (Tin)?",
-        "output":"The price of Mountain Dew Can (Tin) is 100 rs."
-    },
-    {
-        "input":"What is the price of Fizz Up Can (Tin)?",
-        "output":"The price of Fizz Up Can (Tin) is 100 rs."
-    },
-    {
-        "input":"What is the price of Pepsi Diet Can (Tin)?",
-        "output":"The price of Pepsi Diet Can (Tin) is 100 rs."
-    },
-    {
-        "input":"What is the price of Sting Can (Tin)?",
-        "output":"The price of Sting Can (Tin) is 100 rs."
-    },
-    {
-        "input":"What is the price of Mirinda Can (Tin)?",
-        "output":"The price of Mirinda Can (Tin) is 100 rs."
-    },
-    {
-        "input":"What is the price of Fanta Can (Tin)?",
-        "output":"The price of Fanta Can (Tin) is 100 rs."
-    },
-    {
-        "input":"What is the price of 7Up Can (Tin)?",
-        "output":"The price of 7Up Can (Tin) is 100 rs."
-    },
-    {
-        "input":"What is the price of Sprite Can (Tin)?",
-        "output":"The price of Sprite Can (Tin) is 100 rs."
-    },
-    {
-        "input":"What is the price of Coca Cola Can (Tin)?",
-        "output":"The price of Coca Cola Can (Tin) is 100 rs."
-    },
-    {
-        "input":"What is the price of Pepsi Can (Tin)?",
-        "output":"The price of Pepsi Can (Tin) is 100 rs."
-    },
-    {
-        "input":"What is the price of Cola Next Can (Tin)?",
-        "output":"The price of Cola Next Can (Tin) is 100 rs."
-    },
-    {
-        "input":"What is the price of Mountain Dew Small (230ml)?",
-        "output":"The price of Mountain Dew Small (230ml) is 70 rs."
-    },
-    {
-        "input":"What is the price of Fizz Up Small (230ml)?",
-        "output":"The price of Fizz Up Small (230ml) is 70 rs."
-    },
-    {
-        "input":"What is the price of Pepsi Diet Small (230ml)?",
-        "output":"The price of Pepsi Diet Small (230ml) is 70 rs."
-    },
-    {
-        "input":"What is the price of Sting Small (230ml)?",
-        "output":"The price of Sting Small (230ml) is 70 rs."
-    },
-    {
-        "input":"What is the price of Mirinda Small (230ml)?",
-        "output":"The price of Mirinda Small (230ml) is 70 rs."
-    },
-    {
-        "input":"What is the price of Fanta Small (230ml)?",
-        "output":"The price of Fanta Small (230ml) is 70 rs."
-    },
-    {
-        "input":"What is the price of 7Up Small (230ml)?",
-        "output":"The price of 7Up Small (230ml) is 70 rs."
-    },
-    {
-        "input":"What is the price of Sprite Small (230ml)?",
-        "output":"The price of Sprite Small (230ml) is 70 rs."
-    },
-    {
-        "input":"What is the price of Coca Cola Small (230ml)?",
-        "output":"The price of Coca Cola Small (230ml) is 70 rs."
-    },
-    {
-        "input":"What is the price of Pepsi Small (230ml)?",
-        "output":"The price of Pepsi Small (230ml) is 70 rs."
-    },
-    {
-        "input":"What is the price of Cola Next Small (230ml)?",
-        "output":"The price of Cola Next Small (230ml) is 70 rs."
-    },
-    {
-        "input":"What is the price of Mountain Dew 500ml?",
-        "output":"The price of Mountain Dew 500ml) is 100 rs."
-    },
-    {
-        "input":"What is the price of Fizz Up 500ml?",
-        "output":"The price of Fizz Up 500ml) is 100 rs."
-    },
-    {
-        "input":"What is the price of Pepsi Diet 500ml?",
-        "output":"The price of Pepsi Diet 500ml) is 100 rs."
-    },
-    {
-        "input":"What is the price of Sting 500ml?",
-        "output":"The price of Sting 500ml) is 100 rs."
-    },
-    {
-        "input":"What is the price of Mirinda 500ml?",
-        "output":"The price of Mirinda 500ml) is 100 rs."
-    },
-    {
-        "input":"What is the price of Fanta 500ml?",
-        "output":"The price of Fanta 500ml) is 100 rs."
-    },
-    {
-        "input":"What is the price of 7Up 500ml?",
-        "output":"The price of 7Up 500ml) is 100 rs."
-    },
-    {
-        "input":"What is the price of Sprite 500ml?",
-        "output":"The price of Sprite 500ml) is 100 rs."
-    },
-    {
-        "input":"What is the price of Coca Cola 500ml?",
-        "output":"The price of Coca Cola 500ml) is 100 rs."
-    },
-    {
-        "input":"What is the price of Pepsi 500ml?",
-        "output":"The price of Pepsi 500ml) is 100 rs."
-    },
-    {
-        "input":"What is the price of Cola Next 500ml?",
-        "output":"The price of Cola Next 500ml) is 100 rs."
-    },
-    {
-        "input":"What is the price of Mountain Dew 2.25 litre?",
-        "output":"The price of Mountain Dew 2.25 litre) is 250 rs."
-    },
-    {
-        "input":"What is the price of Fizz Up 2.25 litre?",
-        "output":"The price of Fizz Up 2.25 litre) is 250 rs."
-    },
-    {
-        "input":"What is the price of Pepsi Diet 2.25 litre?",
-        "output":"The price of Pepsi Diet 2.25 litre) is 250 rs."
-    },
-    {
-        "input":"What is the price of Sting 2.25 litre?",
-        "output":"The price of Sting 2.25 litre) is 250 rs."
-    },
-    {
-        "input":"What is the price of Mirinda 2.25 litre?",
-        "output":"The price of Mirinda 2.25 litre) is 250 rs."
-    },
-    {
-        "input":"What is the price of Fanta 2.25 litre?",
-        "output":"The price of Fanta 2.25 litre) is 250 rs."
-    },
-    {
-        "input":"What is the price of 7Up 2.25 litre?",
-        "output":"The price of 7Up 2.25 litre) is 250 rs."
-    },
-    {
-        "input":"What is the price of Sprite 2.25 litre?",
-        "output":"The price of Sprite 2.25 litre) is 250 rs."
-    },
-    {
-        "input":"What is the price of Coca Cola 2.25 litre?",
-        "output":"The price of Coca Cola 2.25 litre) is 250 rs."
-    },
-    {
-        "input":"What is the price of Pepsi 2.25 litre?",
-        "output":"The price of Pepsi 2.25 litre) is 250 rs."
-    },
-    {
-        "input":"What is the price of Cola Next 2.25 litre?",
-        "output":"The price of Cola Next 2.25 litre) is 250 rs."
-    },
-    {
-        "input":"What is the price of Lays small?",
-        "output":"The price of Lays small is 20 rs."
-    },
-    {
-        "input":"What is the price of Wavy small?",
-        "output":"The price of Wavy small is 20 rs."
-    },
-    {
-        "input":"What is the price of Kurkure small?",
-        "output":"The price of Kurkure small is 20 rs."
-    },
-    {
-        "input":"What is the price of Kurleez small?",
-        "output":"The price of Kurleez small is 20 rs."
-    },
-    {
-        "input":"What is the price of Cheetos small?",
-        "output":"The price of Cheetos small is 20 rs."
-    },
-    {
-        "input":"What is the price of Finger Fries small?",
-        "output":"The price of Finger Fries small is 20 rs."
-    },
-    {
-        "input":"What is the price of Snackers small?",
-        "output":"The price of Snackers small is 20 rs."
-    },
-    {
-        "input":"What is the price of Pingos small?",
-        "output":"The price of Pingos small is 20 rs."
-    },
-    {
-        "input":"What is the price of Fillz small?",
-        "output":"The price of Fillz small is 20 rs."
-    },
-    {
-        "input":"What is the price of Chillz small?",
-        "output":"The price of Chillz small is 20 rs."
-    },
-    {
-        "input":"What is the price of Potato Sticks small?",
-        "output":"The price of Potato Sticks small is 20 rs."
-    },
-    {
-        "input":"What is the price of Potato Snacks small?",
-        "output":"The price of Potato Snacks small is 20 rs."
-    },
-    {
-        "input":"What is the price of Pringles small?",
-        "output":"The price of Pringles small is 20 rs."
-    },
-    {
-        "input":"What is the price of Lays large?",
-        "output":"The price of Lays large is 50 rs."
-    },
-    {
-        "input":"What is the price of Wavy large?",
-        "output":"The price of Wavy large is 50 rs."
-    },
-    {
-        "input":"What is the price of Slanty large?",
-        "output":"The price of Slanty large is 50 rs."
-    },
-    {
-        "input":"What is the price of Kurkure large?",
-        "output":"The price of Kurkure large is 50 rs."
-    },
-    {
-        "input":"What is the price of Kurleez large?",
-        "output":"The price of Kurleez large is 50 rs."
-    },
-    {
-        "input":"What is the price of Cheetos large?",
-        "output":"The price of Cheetos large is 50 rs."
-    },
-    {
-        "input":"What is the price of Finger Fries large?",
-        "output":"The price of Finger Fries large is 50 rs."
-    },
-    {
-        "input":"What is the price of Snackers large?",
-        "output":"The price of Snackers large is 50 rs."
-    },
-    {
-        "input":"What is the price of Pingos large?",
-        "output":"The price of Pingos large is 50 rs."
-    },
-    {
-        "input":"What is the price of Fillz large?",
-        "output":"The price of Fillz large is 50 rs."
-    },
-    {
-        "input":"What is the price of Cheese Balls large?",
-        "output":"The price of Cheese Balls large is 50 rs."
-    },
-    {
-        "input":"What is the price of Chillz large?",
-        "output":"The price of Chillz large is 50 rs."
-    },
-    {
-        "input":"What is the price of Potato Sticks large?",
-        "output":"The price of Potato Sticks large is 50 rs."
-    },
-    {
-        "input":"What is the price of Potato Snacks large?",
-        "output":"The price of Potato Snacks large is 50 rs."
-    },
-    {
-        "input":"What is the price of Pringles large?",
-        "output":"The price of Pringles large is 50 rs."
-    },
-    {
-        "input":"What is the price of Lays extra large (Family)?",
-        "output":"The price of Lays extra large (Family) is 70 rs."
-    },
-    {
-        "input":"What is the price of Wavy extra large (Family)?",
-        "output":"The price of Wavy extra large (Family) is 70 rs."
-    },
-    {
-        "input":"What is the price of Kurkure extra large (Family)?",
-        "output":"The price of Kurkure extra large (Family) is 70 rs."
-    },
-    {
-        "input":"What is the price of Kurleez extra large (Family)?",
-        "output":"The price of Kurleez extra large (Family) is 70 rs."
-    },
-    {
-        "input":"What is the price of Cheetos extra large (Family)?",
-        "output":"The price of Cheetos extra large (Family) is 70 rs."
-    },
-    {
-        "input":"What is the price of Finger Fries extra large (Family)?",
-        "output":"The price of Finger Fries extra large (Family) is 70 rs."
-    },
-    {
-        "input":"What is the price of Snackers extra large (Family)?",
-        "output":"The price of Snackers extra large (Family) is 70 rs."
-    },
-    {
-        "input":"What is the price of Pingos extra large (Family)?",
-        "output":"The price of Pingos extra large (Family) is 70 rs."
-    },
-    {
-        "input":"What is the price of Fillz extra large (Family)?",
-        "output":"The price of Fillz extra large (Family) is 70 rs."
-    },
-    {
-        "input":"What is the price of Chillz extra large (Family)?",
-        "output":"The price of Chillz extra large (Family) is 70 rs."
-    },
-    {
-        "input":"What is the price of Potato Sticks extra large (Family)?",
-        "output":"The price of Potato Sticks extra large (Family) is 70 rs."
-    },
-    {
-        "input":"What is the price of Potato Snacks extra large (Family)?",
-        "output":"The price of Potato Snacks extra large (Family) is 70 rs."
-    },
-    {
-        "input":"What is the price of Mentos Bag (Medium)?",
-        "output":"The price of Mentos Bag (Medium) is 250 rs."
-    },
-    {
-        "input":"What is the price of Mentos Bottle (Large)?",
-        "output":"The price of Mentos Bottle (Large) is 800 rs."
-    },
-    {
-        "input":"What is the price of Jelly Banana Packet (Large)?",
-        "output":"The price of Jelly Banana Packet (Large) is 150 rs."
-    },
-    {
-        "input":"What is the price of Jelly Mixed Fruit Packet (Large)?",
-        "output":"The price of Jelly Mixed Fruit Packet (Large) is 150 rs."
-    },
-    {
-        "input":"What is the price of Nestle pure life Medium (1.5 Litre)?",
-        "output":"The price of Nestle pure life Medium (1.5 Litre) is 130 rs."
-    },
-    {
-        "input":"What is the price of Aquafina Medium (1.5 Litre)?",
-        "output":"The price of Aquafina Medium (1.5 Litre) is 130 rs."
-    },
-    {
-        "input":"What is the price of Atco Medium (1.5 Litre)?",
-        "output":"The price of Atco Medium (1.5 Litre) is 130 rs."
-    },
-    {
-        "input":"What is the price of Nestle pure life Large (5 Litre)?",
-        "output":"The price of Nestle pure life Large (5 Litre) is 300 rs."
-    },
-    {
-        "input":"What is the price of Aquafina Large (5 Litre)?",
-        "output":"The price of Aquafina Large (5 Litre) is 300 rs."
-    },
-    {
-        "input":"What is the price of Atco Large (5 Litre)?",
-        "output":"The price of Atco Large (5 Litre) is 300 rs."
-    },
-    {
-        "input":"What is the price of Novita Orange Large?",
-        "output":"The price of Novita Orange Large is 50 rs."
-    },
-    {
-        "input":"What is the price of Novita Chocolate Large?",
-        "output":"The price of Novita Chocolate Large is 50 rs."
-    },
-    {
-        "input":"What is the price of Wispy Large?",
-        "output":"The price of Wispy Large is 50 rs."
-    },
-    {
-        "input":"What is the price of Frisky Large?",
-        "output":"The price of Frisky Large is 70 rs."
-    },
-    {
-        "input":"What is the price of Sunlight Half Kg (500mg)?",
-        "output":"The price of Sunlight Half Kg (500mg) is 150 rs."
-    },
-    {
-        "input":"What is the price of Bonus Half Kg (500mg)?",
-        "output":"The price of Bonus Half Kg (500mg) is 150 rs."
-    },
-    {
-        "input":"What is the price of Ariel Half Kg (500mg)?",
-        "output":"The price of Ariel Half Kg (500mg) is 150 rs."
-    },
-    {
-        "input":"What is the price of Surf Excel Half Kg (500mg)?",
-        "output":"The price of Surf Excel Half Kg (500mg) is 150 rs."
-    },
-    {
-        "input":"What is the price of Brite Half Kg (500mg)?",
-        "output":"The price of Brite Half Kg (500mg) is 150 rs."
-    },
-    {
-        "input":"What is the price of Express Power Half Kg (500mg)?",
-        "output":"The price of Express Power Half Kg (500mg) is 150 rs."
-    },
-    {
-        "input":"What is the price of Sunlight 1 Kg (1000mg)?",
-        "output":"The price of Sunlight 1 Kg (1000mg) is 250 rs."
-    },
-    {
-        "input":"What is the price of Bonus 1 Kg (1000mg)?",
-        "output":"The price of Bonus 1 Kg (1000mg) is 250 rs."
-    },
-    {
-        "input":"What is the price of Ariel 1 Kg (1000mg)?",
-        "output":"The price of Ariel 1 Kg (1000mg) is 250 rs."
-    },
-    {
-        "input":"What is the price of Surf Excel 1 Kg (1000mg)?",
-        "output":"The price of Surf Excel 1 Kg (1000mg) is 250 rs."
-    },
-    {
-        "input":"What is the price of Brite 1 Kg (1000mg)?",
-        "output":"The price of Brite 1 Kg (1000mg) is 250 rs."
-    },
-    {
-        "input":"What is the price of Express Power 1 Kg (1000mg)?",
-        "output":"The price of Express Power 1 Kg (1000mg) is 250 rs."
-    }
+    "input": "What is the price of Oreo Half Roll (Medium)?",
+    "output": "The price of Oreo Half Roll (Medium) is 50 rs."
+  },
+  {
+    "input": "What is the price of Cocomo Half Roll (Medium)?",
+    "output": "The price of Cocomo Half Roll (Medium) is 50 rs."
+  },
+  {
+    "input": "What is the price of Special Half Roll (Medium)?",
+    "output": "The price of Special Half Roll (Medium) is 50 rs."
+  },
+  {
+    "input": "What is the price of Sooper Half Roll (Medium)?",
+    "output": "The price of Sooper Half Roll (Medium) is 50 rs."
+  },
+  {
+    "input": "What is the price of Milcolu Half Roll (Medium)?",
+    "output": "The price of Milcolu Half Roll (Medium) is 50 rs."
+  },
+  {
+    "input": "What is the price of Milkabisk Half Roll (Medium)?",
+    "output": "The price of Milkabisk Half Roll (Medium) is 50 rs."
+  },
+  {
+    "input": "What is the price of Butter Puff Half Roll (Medium)?",
+    "output": "The price of Butter Puff Half Roll (Medium) is 50 rs."
+  },
+  {
+    "input": "What is the price of Marie Half Roll (Medium)?",
+    "output": "The price of Marie Half Roll (Medium) is 50 rs."
+  },
+  {
+    "input": "What is the price of Peanut Pik Half Roll (Medium)?",
+    "output": "The price of Peanut Pik Half Roll (Medium) is 50 rs."
+  },
+  {
+    "input": "What is the price of Gala Half Roll (Medium)?",
+    "output": "The price of Gala Half Roll (Medium) is 50 rs."
+  },
+  {
+    "input": "What is the price of Candy Half Roll (Medium)?",
+    "output": "The price of Candy Half Roll (Medium) is 50 rs."
+  },
+  {
+    "input": "What is the price of Peanut Pista Half Roll (Medium)?",
+    "output": "The price of Peanut Pista Half Roll (Medium) is 50 rs."
+  },
+  {
+    "input": "What is the price of Rio Half Roll (Medium)?",
+    "output": "The price of Rio Half Roll (Medium) is 50 rs."
+  },
+  {
+    "input": "What is the price of Prince Half Roll (Medium)?",
+    "output": "The price of Prince Half Roll (Medium) is 50 rs."
+  },
+  {
+    "input": "What is the price of Day Dream Half Roll (Medium)?",
+    "output": "The price of Day Dream Half Roll (Medium) is 50 rs."
+  },
+  {
+    "input": "What is the price of Tuc Half Roll (Medium)?",
+    "output": "The price of Tuc Half Roll (Medium) is 50 rs."
+  },
+  {
+    "input": "What is the price of Tiger Half Roll (Medium)?",
+    "output": "The price of Tiger Half Roll (Medium) is 50 rs."
+  },
+  {
+    "input": "What is the price of Zeera Plus Half Roll (Medium)?",
+    "output": "The price of Zeera Plus Half Roll (Medium) is 50 rs."
+  },
+  {
+    "input": "What is the price of Chocolate Chip Half Roll (Medium)?",
+    "output": "The price of Chocolate Chip Half Roll (Medium) is 50 rs."
+  },
+  {
+    "input": "What is the price of Lemon Half Roll (Medium)?",
+    "output": "The price of Lemon Half Roll (Medium) is 50 rs."
+  },
+  {
+    "input": "What is the price of Nankhatai Half Roll (Medium)?",
+    "output": "The price of Nankhatai Half Roll (Medium) is 50 rs."
+  },
+  {
+    "input": "What is the price of Butter Half Roll (Medium)?",
+    "output": "The price of Butter Half Roll (Medium) is 50 rs."
+  },
+  {
+    "input": "What is the price of Cafe Half Roll (Medium)?",
+    "output": "The price of Cafe Half Roll (Medium) is 50 rs."
+  },
+  {
+    "input": "What is the price of Digestive Half Roll (Medium)?",
+    "output": "The price of Digestive Half Roll (Medium) is 50 rs."
+  },
+  {
+    "input": "What is the price of Chocolatto Half Roll (Medium)?",
+    "output": "The price of Chocolatto Half Roll (Medium) is 50 rs."
+  },
+  {
+    "input": "What is the price of Party Pik Half Roll (Medium)?",
+    "output": "The price of Party Pik Half Roll (Medium) is 50 rs."
+  },
+  {
+    "input": "What is the price of Rite Half Roll (Medium)?",
+    "output": "The price of Rite Half Roll (Medium) is 50 rs."
+  },
+  {
+    "input": "What is the price of Bistiks Half Roll (Medium)?",
+    "output": "The price of Bistiks Half Roll (Medium) is 50 rs."
+  },
+  {
+    "input": "What is the price of Click Half Roll (Medium)?",
+    "output": "The price of Click Half Roll (Medium) is 50 rs."
+  },
+  {
+    "input": "What is the price of Gluco Half Roll (Medium)?",
+    "output": "The price of Gluco Half Roll (Medium) is 50 rs."
+  },
+  {
+    "input": "What is the price of Choco Lava Half Roll (Medium)?",
+    "output": "The price of Choco Lava Half Roll (Medium) is 50 rs."
+  },
+  {
+    "input": "What is the price of Wheatable Half Roll (Medium)?",
+    "output": "The price of Wheatable Half Roll (Medium) is 50 rs."
+  },
+  {
+    "input": "What is the price of Coconut Half Roll (Medium)?",
+    "output": "The price of Coconut Half Roll (Medium) is 50 rs."
+  },
+  {
+    "input": "What is the price of Nice Half Roll (Medium)?",
+    "output": "The price of Nice Half Roll (Medium) is 50 rs."
+  },
+  {
+    "input": "What is the price of Classic Half Roll (Medium)?",
+    "output": "The price of Classic Half Roll (Medium) is 50 rs."
+  },
+  {
+    "input": "What is the price of Peanut Half Roll (Medium)?",
+    "output": "The price of Peanut Half Roll (Medium) is 50 rs."
+  },
+  {
+    "input": "What is the price of Chai Wala Biscuit Half Roll (Medium)?",
+    "output": "The price of Chai Wala Biscuit Half Roll (Medium) is 50 rs."
+  },
+  {
+    "input": "What is the price of Delice Half Roll (Medium)?",
+    "output": "The price of Delice Half Roll (Medium) is 50 rs."
+  },
+  {
+    "input": "What is the price of TeaTime Half Roll (Medium)?",
+    "output": "The price of TeaTime Half Roll (Medium) is 50 rs."
+  },
+  {
+    "input": "What is the price of Saltish Half Roll (Medium)?",
+    "output": "The price of Saltish Half Roll (Medium) is 50 rs."
+  },
+  {
+    "input": "What is the price of Oreo Family Pack (Large)?",
+    "output": "The price of Oreo Family Pack (large) is 100 rs."
+  },
+  {
+    "input": "What is the price of Cocomo Family Pack (Large)?",
+    "output": "The price of Cocomo Family Pack (large) is 100 rs."
+  },
+  {
+    "input": "What is the price of Special Family Pack (Large)?",
+    "output": "The price of Special Family Pack (large) is 100 rs."
+  },
+  {
+    "input": "What is the price of Sooper Family Pack (Large)?",
+    "output": "The price of Sooper Family Pack (large) is 100 rs."
+  },
+  {
+    "input": "What is the price of Milcolu Family Pack (Large)?",
+    "output": "The price of Milcolu Family Pack (large) is 100 rs."
+  },
+  {
+    "input": "What is the price of Milkabisk Family Pack (Large)?",
+    "output": "The price of Milkabisk Family Pack (large) is 100 rs."
+  },
+  {
+    "input": "What is the price of Butter Puff Family Pack (Large)?",
+    "output": "The price of Butter Puff Family Pack (large) is 100 rs."
+  },
+  {
+    "input": "What is the price of Marie Family Pack (Large)?",
+    "output": "The price of Marie Family Pack (large) is 100 rs."
+  },
+  {
+    "input": "What is the price of Peanut Pik Family Pack (Large)?",
+    "output": "The price of Peanut Pik Family Pack (large) is 100 rs."
+  },
+  {
+    "input": "What is the price of Gala Family Pack (Large)?",
+    "output": "The price of Gala Family Pack (large) is 100 rs."
+  },
+  {
+    "input": "What is the price of Candy Family Pack (Large)?",
+    "output": "The price of Candy Family Pack (large) is 100 rs."
+  },
+  {
+    "input": "What is the price of Peanut Pista Family Pack (Large)?",
+    "output": "The price of Peanut Pista Family Pack (large) is 100 rs."
+  },
+  {
+    "input": "What is the price of Rio Family Pack (Large)?",
+    "output": "The price of Rio Family Pack (large) is 100 rs."
+  },
+  {
+    "input": "What is the price of Prince Family Pack (Large)?",
+    "output": "The price of Prince Family Pack (large) is 100 rs."
+  },
+  {
+    "input": "What is the price of Day Dream Family Pack (Large)?",
+    "output": "The price of Day Dream Family Pack (large) is 100 rs."
+  },
+  {
+    "input": "What is the price of Tuc Family Pack (Large)?",
+    "output": "The price of Tuc Family Pack (large) is 100 rs."
+  },
+  {
+    "input": "What is the price of Tiger Family Pack (Large)?",
+    "output": "The price of Tiger Family Pack (large) is 100 rs."
+  },
+  {
+    "input": "What is the price of Zeera Plus Family Pack (Large)?",
+    "output": "The price of Zeera Plus Family Pack (large) is 100 rs."
+  },
+  {
+    "input": "What is the price of Chocolate Chip Family Pack (Large)?",
+    "output": "The price of Chocolate Chip Family Pack (large) is 100 rs."
+  },
+  {
+    "input": "What is the price of Lemon Family Pack (Large)?",
+    "output": "The price of Lemon Family Pack (large) is 100 rs."
+  },
+  {
+    "input": "What is the price of Nankhatai Family Pack (Large)?",
+    "output": "The price of Nankhatai Family Pack (large) is 100 rs."
+  },
+  {
+    "input": "What is the price of Butter Family Pack (Large)?",
+    "output": "The price of Butter Family Pack (large) is 100 rs."
+  },
+  {
+    "input": "What is the price of Cafe Family Pack (Large)?",
+    "output": "The price of Cafe Family Pack (large) is 100 rs."
+  },
+  {
+    "input": "What is the price of Digestive Family Pack (Large)?",
+    "output": "The price of Digestive Family Pack (large) is 100 rs."
+  },
+  {
+    "input": "What is the price of Chocolatto Family Pack (Large)?",
+    "output": "The price of Chocolatto Family Pack (large) is 100 rs."
+  },
+  {
+    "input": "What is the price of Party Pik Family Pack (Large)?",
+    "output": "The price of Party Pik Family Pack (large) is 100 rs."
+  },
+  {
+    "input": "What is the price of Rite Family Pack (Large)?",
+    "output": "The price of Rite Family Pack (large) is 100 rs."
+  },
+  {
+    "input": "What is the price of Bistiks Family Pack (Large)?",
+    "output": "The price of Bistiks Family Pack (large) is 100 rs."
+  },
+  {
+    "input": "What is the price of Click Family Pack (Large)?",
+    "output": "The price of Click Family Pack (large) is 100 rs."
+  },
+  {
+    "input": "What is the price of Gluco Family Pack (Large)?",
+    "output": "The price of Gluco Family Pack (large) is 100 rs."
+  },
+  {
+    "input": "What is the price of Choco Lava Family Pack (Large)?",
+    "output": "The price of Choco Lava Family Pack (large) is 100 rs."
+  },
+  {
+    "input": "What is the price of Wheatable Family Pack (Large)?",
+    "output": "The price of Wheatable Family Pack (large) is 100 rs."
+  },
+  {
+    "input": "What is the price of Coconut Family Pack (Large)?",
+    "output": "The price of Coconut Family Pack (large) is 100 rs."
+  },
+  {
+    "input": "What is the price of Nice Family Pack (Large)?",
+    "output": "The price of Nice Family Pack (large) is 100 rs."
+  },
+  {
+    "input": "What is the price of Classic Family Pack (Large)?",
+    "output": "The price of Classic Family Pack (large) is 100 rs."
+  },
+  {
+    "input": "What is the price of Peanut Family Pack (Large)?",
+    "output": "The price of Peanut Family Pack (large) is 100 rs."
+  },
+  {
+    "input": "What is the price of Chai Wala Biscuit Family Pack (Large)?",
+    "output": "The price of Chai Wala Biscuit Family Pack (large) is 100 rs."
+  },
+  {
+    "input": "What is the price of Delice Family Pack (Large)?",
+    "output": "The price of Delice Family Pack (large) is 100 rs."
+  },
+  {
+    "input": "What is the price of TeaTime Family Pack (Large)?",
+    "output": "The price of TeaTime Family Pack (large) is 100 rs."
+  },
+  {
+    "input": "What is the price of Saltish Family Pack (Large)?",
+    "output": "The price of Saltish Family Pack (large) is 100 rs."
+  },
+  {
+    "input": "What is the price of Bubble Pop Bar (Large)?",
+    "output": "The price of Bubble Pop Bar (Large) is 50 rs."
+  },
+  {
+    "input": "What is the price of Joe Soft Bar (Large)?",
+    "output": "The price of Joe Soft Bar (Large) is 50 rs."
+  },
+  {
+    "input": "What is the price of Ding Dong Bar (Large)?",
+    "output": "The price of Ding Dong Bar (Large) is 50 rs."
+  },
+  {
+    "input": "What is the price of Boom Boom Bar (Large)?",
+    "output": "The price of Boom Boom Bar (Large) is 50 rs."
+  },
+  {
+    "input": "What is the price of Fresh up Bar (Large)?",
+    "output": "The price of Fresh up Bar (Large) is 50 rs."
+  },
+  {
+    "input": "What is the price of Lifebouy Large?",
+    "output": "The price of Lifebouy Large is 220 rs."
+  },
+  {
+    "input": "What is the price of Hari Large?",
+    "output": "The price of Hari Large is 220 rs."
+  },
+  {
+    "input": "What is the price of Safeguard Large?",
+    "output": "The price of Safeguard Large is 220 rs."
+  },
+  {
+    "input": "What is the price of Pears Large?",
+    "output": "The price of Pears Large is 220 rs."
+  },
+  {
+    "input": "What is the price of Tibet Large?",
+    "output": "The price of Tibet Large is 220 rs."
+  },
+  {
+    "input": "What is the price of Palmolive Large?",
+    "output": "The price of Palmolive Large is 220 rs."
+  },
+  {
+    "input": "What is the price of Dettol Large?",
+    "output": "The price of Dettol Large is 220 rs."
+  },
+  {
+    "input": "What is the price of Lux Large?",
+    "output": "The price of Lux Large is 220 rs."
+  },
+  {
+    "input": "What is the price of Dove Large?",
+    "output": "The price of Dove Large is 220 rs."
+  },
+  {
+    "input": "What is the price of Lemon Max Large?",
+    "output": "The price of Lemon Max Large is 220 rs."
+  },
+  {
+    "input": "What is the price of Care Large?",
+    "output": "The price of Care Large is 220 rs."
+  },
+  {
+    "input": "What is the price of Capri Large?",
+    "output": "The price of Capri Large is 220 rs."
+  },
+  {
+    "input": "What is the price of Lara Large?",
+    "output": "The price of Lara Large is 220 rs."
+  },
+  {
+    "input": "What is the price of Mountain Dew Can (Tin)?",
+    "output": "The price of Mountain Dew Can (Tin) is 100 rs."
+  },
+  {
+    "input": "What is the price of Fizz Up Can (Tin)?",
+    "output": "The price of Fizz Up Can (Tin) is 100 rs."
+  },
+  {
+    "input": "What is the price of Pepsi Diet Can (Tin)?",
+    "output": "The price of Pepsi Diet Can (Tin) is 100 rs."
+  },
+  {
+    "input": "What is the price of Sting Can (Tin)?",
+    "output": "The price of Sting Can (Tin) is 100 rs."
+  },
+  {
+    "input": "What is the price of Mirinda Can (Tin)?",
+    "output": "The price of Mirinda Can (Tin) is 100 rs."
+  },
+  {
+    "input": "What is the price of Fanta Can (Tin)?",
+    "output": "The price of Fanta Can (Tin) is 100 rs."
+  },
+  {
+    "input": "What is the price of 7Up Can (Tin)?",
+    "output": "The price of 7Up Can (Tin) is 100 rs."
+  },
+  {
+    "input": "What is the price of Sprite Can (Tin)?",
+    "output": "The price of Sprite Can (Tin) is 100 rs."
+  },
+  {
+    "input": "What is the price of Coca Cola Can (Tin)?",
+    "output": "The price of Coca Cola Can (Tin) is 100 rs."
+  },
+  {
+    "input": "What is the price of Pepsi Can (Tin)?",
+    "output": "The price of Pepsi Can (Tin) is 100 rs."
+  },
+  {
+    "input": "What is the price of Cola Next Can (Tin)?",
+    "output": "The price of Cola Next Can (Tin) is 100 rs."
+  },
+  {
+    "input": "What is the price of Mountain Dew Small (230ml)?",
+    "output": "The price of Mountain Dew Small (230ml) is 70 rs."
+  },
+  {
+    "input": "What is the price of Fizz Up Small (230ml)?",
+    "output": "The price of Fizz Up Small (230ml) is 70 rs."
+  },
+  {
+    "input": "What is the price of Pepsi Diet Small (230ml)?",
+    "output": "The price of Pepsi Diet Small (230ml) is 70 rs."
+  },
+  {
+    "input": "What is the price of Sting Small (230ml)?",
+    "output": "The price of Sting Small (230ml) is 70 rs."
+  },
+  {
+    "input": "What is the price of Mirinda Small (230ml)?",
+    "output": "The price of Mirinda Small (230ml) is 70 rs."
+  },
+  {
+    "input": "What is the price of Fanta Small (230ml)?",
+    "output": "The price of Fanta Small (230ml) is 70 rs."
+  },
+  {
+    "input": "What is the price of 7Up Small (230ml)?",
+    "output": "The price of 7Up Small (230ml) is 70 rs."
+  },
+  {
+    "input": "What is the price of Sprite Small (230ml)?",
+    "output": "The price of Sprite Small (230ml) is 70 rs."
+  },
+  {
+    "input": "What is the price of Coca Cola Small (230ml)?",
+    "output": "The price of Coca Cola Small (230ml) is 70 rs."
+  },
+  {
+    "input": "What is the price of Pepsi Small (230ml)?",
+    "output": "The price of Pepsi Small (230ml) is 70 rs."
+  },
+  {
+    "input": "What is the price of Cola Next Small (230ml)?",
+    "output": "The price of Cola Next Small (230ml) is 70 rs."
+  },
+  {
+    "input": "What is the price of Mountain Dew 500ml?",
+    "output": "The price of Mountain Dew 500ml) is 100 rs."
+  },
+  {
+    "input": "What is the price of Fizz Up 500ml?",
+    "output": "The price of Fizz Up 500ml) is 100 rs."
+  },
+  {
+    "input": "What is the price of Pepsi Diet 500ml?",
+    "output": "The price of Pepsi Diet 500ml) is 100 rs."
+  },
+  {
+    "input": "What is the price of Sting 500ml?",
+    "output": "The price of Sting 500ml) is 100 rs."
+  },
+  {
+    "input": "What is the price of Mirinda 500ml?",
+    "output": "The price of Mirinda 500ml) is 100 rs."
+  },
+  {
+    "input": "What is the price of Fanta 500ml?",
+    "output": "The price of Fanta 500ml) is 100 rs."
+  },
+  {
+    "input": "What is the price of 7Up 500ml?",
+    "output": "The price of 7Up 500ml) is 100 rs."
+  },
+  {
+    "input": "What is the price of Sprite 500ml?",
+    "output": "The price of Sprite 500ml) is 100 rs."
+  },
+  {
+    "input": "What is the price of Coca Cola 500ml?",
+    "output": "The price of Coca Cola 500ml) is 100 rs."
+  },
+  {
+    "input": "What is the price of Pepsi 500ml?",
+    "output": "The price of Pepsi 500ml) is 100 rs."
+  },
+  {
+    "input": "What is the price of Cola Next 500ml?",
+    "output": "The price of Cola Next 500ml) is 100 rs."
+  },
+  {
+    "input": "What is the price of Mountain Dew 2.25 litre?",
+    "output": "The price of Mountain Dew 2.25 litre) is 250 rs."
+  },
+  {
+    "input": "What is the price of Fizz Up 2.25 litre?",
+    "output": "The price of Fizz Up 2.25 litre) is 250 rs."
+  },
+  {
+    "input": "What is the price of Pepsi Diet 2.25 litre?",
+    "output": "The price of Pepsi Diet 2.25 litre) is 250 rs."
+  },
+  {
+    "input": "What is the price of Sting 2.25 litre?",
+    "output": "The price of Sting 2.25 litre) is 250 rs."
+  },
+  {
+    "input": "What is the price of Mirinda 2.25 litre?",
+    "output": "The price of Mirinda 2.25 litre) is 250 rs."
+  },
+  {
+    "input": "What is the price of Fanta 2.25 litre?",
+    "output": "The price of Fanta 2.25 litre) is 250 rs."
+  },
+  {
+    "input": "What is the price of 7Up 2.25 litre?",
+    "output": "The price of 7Up 2.25 litre) is 250 rs."
+  },
+  {
+    "input": "What is the price of Sprite 2.25 litre?",
+    "output": "The price of Sprite 2.25 litre) is 250 rs."
+  },
+  {
+    "input": "What is the price of Coca Cola 2.25 litre?",
+    "output": "The price of Coca Cola 2.25 litre) is 250 rs."
+  },
+  {
+    "input": "What is the price of Pepsi 2.25 litre?",
+    "output": "The price of Pepsi 2.25 litre) is 250 rs."
+  },
+  {
+    "input": "What is the price of Cola Next 2.25 litre?",
+    "output": "The price of Cola Next 2.25 litre) is 250 rs."
+  },
+  {
+    "input": "What is the price of Lays small?",
+    "output": "The price of Lays small is 20 rs."
+  },
+  {
+    "input": "What is the price of Wavy small?",
+    "output": "The price of Wavy small is 20 rs."
+  },
+  {
+    "input": "What is the price of Kurkure small?",
+    "output": "The price of Kurkure small is 20 rs."
+  },
+  {
+    "input": "What is the price of Kurleez small?",
+    "output": "The price of Kurleez small is 20 rs."
+  },
+  {
+    "input": "What is the price of Cheetos small?",
+    "output": "The price of Cheetos small is 20 rs."
+  },
+  {
+    "input": "What is the price of Finger Fries small?",
+    "output": "The price of Finger Fries small is 20 rs."
+  },
+  {
+    "input": "What is the price of Snackers small?",
+    "output": "The price of Snackers small is 20 rs."
+  },
+  {
+    "input": "What is the price of Pingos small?",
+    "output": "The price of Pingos small is 20 rs."
+  },
+  {
+    "input": "What is the price of Fillz small?",
+    "output": "The price of Fillz small is 20 rs."
+  },
+  {
+    "input": "What is the price of Chillz small?",
+    "output": "The price of Chillz small is 20 rs."
+  },
+  {
+    "input": "What is the price of Potato Sticks small?",
+    "output": "The price of Potato Sticks small is 20 rs."
+  },
+  {
+    "input": "What is the price of Potato Snacks small?",
+    "output": "The price of Potato Snacks small is 20 rs."
+  },
+  {
+    "input": "What is the price of Pringles small?",
+    "output": "The price of Pringles small is 20 rs."
+  },
+  {
+    "input": "What is the price of Lays large?",
+    "output": "The price of Lays large is 50 rs."
+  },
+  {
+    "input": "What is the price of Wavy large?",
+    "output": "The price of Wavy large is 50 rs."
+  },
+  {
+    "input": "What is the price of Slanty large?",
+    "output": "The price of Slanty large is 50 rs."
+  },
+  {
+    "input": "What is the price of Kurkure large?",
+    "output": "The price of Kurkure large is 50 rs."
+  },
+  {
+    "input": "What is the price of Kurleez large?",
+    "output": "The price of Kurleez large is 50 rs."
+  },
+  {
+    "input": "What is the price of Cheetos large?",
+    "output": "The price of Cheetos large is 50 rs."
+  },
+  {
+    "input": "What is the price of Finger Fries large?",
+    "output": "The price of Finger Fries large is 50 rs."
+  },
+  {
+    "input": "What is the price of Snackers large?",
+    "output": "The price of Snackers large is 50 rs."
+  },
+  {
+    "input": "What is the price of Pingos large?",
+    "output": "The price of Pingos large is 50 rs."
+  },
+  {
+    "input": "What is the price of Fillz large?",
+    "output": "The price of Fillz large is 50 rs."
+  },
+  {
+    "input": "What is the price of Cheese Balls large?",
+    "output": "The price of Cheese Balls large is 50 rs."
+  },
+  {
+    "input": "What is the price of Chillz large?",
+    "output": "The price of Chillz large is 50 rs."
+  },
+  {
+    "input": "What is the price of Potato Sticks large?",
+    "output": "The price of Potato Sticks large is 50 rs."
+  },
+  {
+    "input": "What is the price of Potato Snacks large?",
+    "output": "The price of Potato Snacks large is 50 rs."
+  },
+  {
+    "input": "What is the price of Pringles large?",
+    "output": "The price of Pringles large is 50 rs."
+  },
+  {
+    "input": "What is the price of Lays extra large (Family)?",
+    "output": "The price of Lays extra large (Family) is 70 rs."
+  },
+  {
+    "input": "What is the price of Wavy extra large (Family)?",
+    "output": "The price of Wavy extra large (Family) is 70 rs."
+  },
+  {
+    "input": "What is the price of Kurkure extra large (Family)?",
+    "output": "The price of Kurkure extra large (Family) is 70 rs."
+  },
+  {
+    "input": "What is the price of Kurleez extra large (Family)?",
+    "output": "The price of Kurleez extra large (Family) is 70 rs."
+  },
+  {
+    "input": "What is the price of Cheetos extra large (Family)?",
+    "output": "The price of Cheetos extra large (Family) is 70 rs."
+  },
+  {
+    "input": "What is the price of Finger Fries extra large (Family)?",
+    "output": "The price of Finger Fries extra large (Family) is 70 rs."
+  },
+  {
+    "input": "What is the price of Snackers extra large (Family)?",
+    "output": "The price of Snackers extra large (Family) is 70 rs."
+  },
+  {
+    "input": "What is the price of Pingos extra large (Family)?",
+    "output": "The price of Pingos extra large (Family) is 70 rs."
+  },
+  {
+    "input": "What is the price of Fillz extra large (Family)?",
+    "output": "The price of Fillz extra large (Family) is 70 rs."
+  },
+  {
+    "input": "What is the price of Chillz extra large (Family)?",
+    "output": "The price of Chillz extra large (Family) is 70 rs."
+  },
+  {
+    "input": "What is the price of Potato Sticks extra large (Family)?",
+    "output": "The price of Potato Sticks extra large (Family) is 70 rs."
+  },
+  {
+    "input": "What is the price of Potato Snacks extra large (Family)?",
+    "output": "The price of Potato Snacks extra large (Family) is 70 rs."
+  },
+  {
+    "input": "What is the price of Mentos Bag (Medium)?",
+    "output": "The price of Mentos Bag (Medium) is 250 rs."
+  },
+  {
+    "input": "What is the price of Mentos Bottle (Large)?",
+    "output": "The price of Mentos Bottle (Large) is 800 rs."
+  },
+  {
+    "input": "What is the price of Jelly Banana Packet (Large)?",
+    "output": "The price of Jelly Banana Packet (Large) is 150 rs."
+  },
+  {
+    "input": "What is the price of Jelly Mixed Fruit Packet (Large)?",
+    "output": "The price of Jelly Mixed Fruit Packet (Large) is 150 rs."
+  },
+  {
+    "input": "What is the price of Nestle pure life Medium (1.5 Litre)?",
+    "output": "The price of Nestle pure life Medium (1.5 Litre) is 130 rs."
+  },
+  {
+    "input": "What is the price of Aquafina Medium (1.5 Litre)?",
+    "output": "The price of Aquafina Medium (1.5 Litre) is 130 rs."
+  },
+  {
+    "input": "What is the price of Atco Medium (1.5 Litre)?",
+    "output": "The price of Atco Medium (1.5 Litre) is 130 rs."
+  },
+  {
+    "input": "What is the price of Nestle pure life Large (5 Litre)?",
+    "output": "The price of Nestle pure life Large (5 Litre) is 300 rs."
+  },
+  {
+    "input": "What is the price of Aquafina Large (5 Litre)?",
+    "output": "The price of Aquafina Large (5 Litre) is 300 rs."
+  },
+  {
+    "input": "What is the price of Atco Large (5 Litre)?",
+    "output": "The price of Atco Large (5 Litre) is 300 rs."
+  },
+  {
+    "input": "What is the price of Novita Orange Large?",
+    "output": "The price of Novita Orange Large is 50 rs."
+  },
+  {
+    "input": "What is the price of Novita Chocolate Large?",
+    "output": "The price of Novita Chocolate Large is 50 rs."
+  },
+  {
+    "input": "What is the price of Wispy Large?",
+    "output": "The price of Wispy Large is 50 rs."
+  },
+  {
+    "input": "What is the price of Frisky Large?",
+    "output": "The price of Frisky Large is 70 rs."
+  },
+  {
+    "input": "What is the price of Sunlight Half Kg (500mg)?",
+    "output": "The price of Sunlight Half Kg (500mg) is 150 rs."
+  },
+  {
+    "input": "What is the price of Bonus Half Kg (500mg)?",
+    "output": "The price of Bonus Half Kg (500mg) is 150 rs."
+  },
+  {
+    "input": "What is the price of Ariel Half Kg (500mg)?",
+    "output": "The price of Ariel Half Kg (500mg) is 150 rs."
+  },
+  {
+    "input": "What is the price of Surf Excel Half Kg (500mg)?",
+    "output": "The price of Surf Excel Half Kg (500mg) is 150 rs."
+  },
+  {
+    "input": "What is the price of Brite Half Kg (500mg)?",
+    "output": "The price of Brite Half Kg (500mg) is 150 rs."
+  },
+  {
+    "input": "What is the price of Express Power Half Kg (500mg)?",
+    "output": "The price of Express Power Half Kg (500mg) is 150 rs."
+  },
+  {
+    "input": "What is the price of Sunlight 1 Kg (1000mg)?",
+    "output": "The price of Sunlight 1 Kg (1000mg) is 250 rs."
+  },
+  {
+    "input": "What is the price of Bonus 1 Kg (1000mg)?",
+    "output": "The price of Bonus 1 Kg (1000mg) is 250 rs."
+  },
+  {
+    "input": "What is the price of Ariel 1 Kg (1000mg)?",
+    "output": "The price of Ariel 1 Kg (1000mg) is 250 rs."
+  },
+  {
+    "input": "What is the price of Surf Excel 1 Kg (1000mg)?",
+    "output": "The price of Surf Excel 1 Kg (1000mg) is 250 rs."
+  },
+  {
+    "input": "What is the price of Brite 1 Kg (1000mg)?",
+    "output": "The price of Brite 1 Kg (1000mg) is 250 rs."
+  },
+  {
+    "input": "What is the price of Express Power 1 Kg (1000mg)?",
+    "output": "The price of Express Power 1 Kg (1000mg) is 250 rs."
+  },
+  {
+    "input": "How many variants are there of Oreo?",
+    "output": "There are typically 3 variants (sizes) available of Oreo the Ticky (Small), Snack pack (Half Roll) and Family Pack (Large)."
+  },
+  {
+    "input": "How many variants are there of Cocomo?",
+    "output": "There are typically 2 variants (sizes) available of Cocomo the Ticky and Snack pack. variants (sizes) available of Cocomo the Ticky and Snack pack."
+  },
+  {
+    "input": "How many variants are there of Special?",
+    "output": "There are typically 3 variants (sizes) available of Special the Ticky, Snack and Family pack."
+  },
+  {
+    "input": "How many variants are there of Sooper?",
+    "output": "There are typically 3 variants (sizes) available of Sooper the Ticky, Snack and Family pack."
+  },
+  {
+    "input": "How many variants are there of Milcolu?",
+    "output": "There are typically 3 variants (sizes) available of Milcolu the Ticky, Snack and Family pack."
+  },
+  {
+    "input": "How many variants are there of Milkabisk?",
+    "output": "There are typically 3 variants (sizes) available of Milkabisk the Ticky, Snack and Family pack."
+  },
+  {
+    "input": "How many variants are there of Butter Puff?",
+    "output": "There are typically 3 variants (sizes) available of Butter Puff the Ticky, Snack and Family pack."
+  },
+  {
+    "input": "How many variants are there of Marie?",
+    "output": "There are typically 3 variants (sizes) available of Marie the Ticky, Snack and Family pack."
+  },
+  {
+    "input": "How many variants are there of Peanut Pik?",
+    "output": "There are typically 3 variants (sizes) available of Peanut Pik the Ticky, Snack and Family pack."
+  },
+  {
+    "input": "How many variants are there of Gala?",
+    "output": "There are typically 3 variants (sizes) available of Gala the Ticky, Snack and Family pack."
+  },
+  {
+    "input": "How many variants are there of Candy?",
+    "output": "There are typically 3 variants (sizes) available of Candy the Ticky, Snack and Family pack."
+  },
+  {
+    "input": "How many variants are there of Peanut Pista?",
+    "output": "There are typically 3 variants (sizes) available of Peanut Pista the Ticky, Snack and Family pack."
+  },
+  {
+    "input": "How many variants are there of Rio?",
+    "output": "There are typically 3 variants (sizes) available of Rio the Ticky, Snack and Family pack."
+  },
+  {
+    "input": "How many variants are there of Prince?",
+    "output": "There are typically 3 variants (sizes) available of Prince the Ticky, Snack and Family pack."
+  },
+  {
+    "input": "How many variants are there of Day Dream?",
+    "output": "There is only 1 variant (size) available of Day Dream which is Ticky pack."
+  },
+  {
+    "input": "How many variants are there of Tuc?",
+    "output": "There are typically 3 variants (sizes) available of Tuc the Ticky, Snack and Family pack."
+  },
+  {
+    "input": "How many variants are there of Tiger?",
+    "output": "There are typically 3 variants (sizes) available of Tiger the Ticky, Snack and Family pack."
+  },
+  {
+    "input": "How many variants are there of Zeera Plus?",
+    "output": "There are typically 3 variants (sizes) available of Zeera Plus the Ticky, Snack and Family pack."
+  },
+  {
+    "input": "How many variants are there of Chocolate Chip?",
+    "output": "There are typically 3 variants (sizes) available of Chocolate Chip the Ticky, Snack and Family pack."
+  },
+  {
+    "input": "How many variants are there of Lemon?",
+    "output": "There are typically 3 variants (sizes) available of Lemon the Ticky, Snack and Family pack."
+  },
+  {
+    "input": "How many variants are there of Nankhatai?",
+    "output": "There are typically 3 variants (sizes) available of Nankhatai the Ticky, Snack and Family pack."
+  },
+  {
+    "input": "How many variants are there of Butter?",
+    "output": "There are typically 3 variants (sizes) available of Butter the Ticky, Snack and Family pack."
+  },
+  {
+    "input": "How many variants are there of Cafe?",
+    "output": "There are typically 3 variants (sizes) available of Cafe the Ticky, Snack and Family pack."
+  },
+  {
+    "input": "How many variants are there of Digestive?",
+    "output": "There are typically 3 variants (sizes) available of Digestive the Ticky, Snack and Family pack."
+  },
+  {
+    "input": "How many variants are there of Chocolatto?",
+    "output": "There are typically 3 variants (sizes) available of Chocolatto the Ticky, Snack and Family pack."
+  },
+  {
+    "input": "How many variants are there of Party Pik?",
+    "output": "There are typically 3 variants (sizes) available of Party Pik the Ticky, Snack and Family pack."
+  },
+  {
+    "input": "How many variants are there of Rite?",
+    "output": "There are typically 3 variants (sizes) available of Rite the Ticky, Snack and Family pack."
+  },
+  {
+    "input": "How many variants are there of Bistiks?",
+    "output": "There are typically 3 variants (sizes) available of Bistiks the Ticky, Snack and Family pack."
+  },
+  {
+    "input": "How many variants are there of Click?",
+    "output": "There are typically 3 variants (sizes) available of Click the Ticky, Snack and Family pack."
+  },
+  {
+    "input": "How many variants are there of Gluco?",
+    "output": "There are typically 3 variants (sizes) available of Gluco the Ticky, Snack and Family pack."
+  },
+  {
+    "input": "How many variants are there of Choco Lava?",
+    "output": "There is only 1 variant (size) available of Choco Lava which is Ticky pack."
+  },
+  {
+    "input": "How many variants are there of Wheatable?",
+    "output": "There are typically 3 variants (sizes) available of Wheatable the Ticky, Snack and Family pack."
+  },
+  {
+    "input": "How many variants are there of Coconut?",
+    "output": "There are typically 3 variants (sizes) available of Coconut the Ticky, Snack and Family pack."
+  },
+  {
+    "input": "How many variants are there of Nice?",
+    "output": "There are typically 3 variants (sizes) available of Nice the Ticky, Snack and Family pack."
+  },
+  {
+    "input": "How many variants are there of Classic?",
+    "output": "There are typically 3 variants (sizes) available of Classic the Ticky, Snack and Family pack."
+  },
+  {
+    "input": "How many variants are there of Peanut?",
+    "output": "There are typically 3 variants (sizes) available of Peanut the Ticky, Snack and Family pack."
+  },
+  {
+    "input": "How many variants are there of Chai Wala Biscuit?",
+    "output": "There are typically 3 variants (sizes) available of Chai Wala Biscuit the Ticky, Snack and Family pack."
+  },
+  {
+    "input": "How many variants are there of Delice?",
+    "output": "There are typically 2 variants (sizes) available of Delice the Ticky and Family pack."
+  },
+  {
+    "input": "How many variants are there of TeaTime?",
+    "output": "There are typically 3 variants (sizes) available of TeaTime the Ticky, Snack and Family pack."
+  },
+  {
+    "input": "How many variants are there of Saltish?",
+    "output": "There are typically 3 variants (sizes) available of Saltish the Ticky, Snack and Family pack."
+  },
+  {
+    "input": "How many variants are there of Hilal Cup cake?",
+    "output": "Hilal Cup cake comes only in 1 variant"
+  },
+  {
+    "input": "How many variants are there of Sooper Cake?",
+    "output": "Sooper Cake comes only in 1 variant"
+  },
+  {
+    "input": "How many variants are there of Rollies?",
+    "output": "Rollies comes only in 1 variant"
+  },
+  {
+    "input": "How many variants are there of Bake Time?",
+    "output": "Bake Time comes only in 1 variant"
+  },
+  {
+    "input": "How many variants are there of Good Goodies?",
+    "output": "Good Goodies comes only in 1 variant"
+  },
+  {
+    "input": "How many variants are there of Smile?",
+    "output": "Smile comes only in 1 variant"
+  },
+  {
+    "input": "How many variants are there of Lotus?",
+    "output": "Lotus comes only in 1 variant"
+  },
+  {
+    "input": "How many variants are there of Kake?",
+    "output": "Kake comes only in 1 variant"
+  },
+  {
+    "input": "How many variants are there of Hoest?",
+    "output": "There are no variants (sizes) of Hoest"
+  },
+  {
+    "input": "How many variants are there of Chaska?",
+    "output": "There are no variants (sizes) of Chaska"
+  },
+  {
+    "input": "How many variants are there of Hajmola Imli?",
+    "output": "There are no variants (sizes) of Hajmola Imli"
+  },
+  {
+    "input": "How many variants are there of Chooran Chatni?",
+    "output": "There are no variants (sizes) of Chooran Chatni"
+  },
+  {
+    "input": "How many variants are there of Aamrus?",
+    "output": "There are no variants (sizes) of Aamrus"
+  },
+  {
+    "input": "How many variants are there of Frooto Apple?",
+    "output": "There are no variants (sizes) of Frooto Apple"
+  },
+  {
+    "input": "How many variants are there of Panpasand?",
+    "output": "There are no variants (sizes) of Panpasand"
+  },
+  {
+    "input": "How many variants are there of Eclairs?",
+    "output": "There are no variants (sizes) of Eclairs"
+  },
+  {
+    "input": "How many variants are there of Frooto Amrood?",
+    "output": "There are no variants (sizes) of Frooto Amrood"
+  },
+  {
+    "input": "How many variants are there of Frooto Orange?",
+    "output": "There are no variants (sizes) of Frooto Orange"
+  },
+  {
+    "input": "How many variants are there of Softmint ice?",
+    "output": "There are no variants (sizes) of Softmint ice"
+  },
+  {
+    "input": "How many variants are there of Frooto?",
+    "output": "There are no variants (sizes) of Frooto"
+  },
+  {
+    "input": "How many variants are there of Fruit Gala?",
+    "output": "There are no variants (sizes) of Fruit Gala"
+  },
+  {
+    "input": "How many variants are there of Fanta?",
+    "output": "There are no variants (sizes) of Fanta"
+  },
+  {
+    "input": "How many variants are there of Khopra?",
+    "output": "There are no variants (sizes) of Khopra"
+  },
+  {
+    "input": "How many variants are there of Super Sour?",
+    "output": "There are no variants (sizes) of Super Sour"
+  },
+  {
+    "input": "How many variants are there of Creamers?",
+    "output": "There are no variants (sizes) of Creamers"
+  },
+  {
+    "input": "How many variants are there of Mentos?",
+    "output": "Mentos comes in 3 variants: Rolls and Bags and Bottles"
+  },
+  {
+    "input": "How many variants are there of Yums?",
+    "output": "Yums comes in 1 variant"
+  },
+  {
+    "input": "How many variants are there of Bubble Pop?",
+    "output": "Bubble Pop comes only in 2 variants: Individual and Bar"
+  },
+  {
+    "input": "How many variants are there of Joe Soft?",
+    "output": "Joe Soft comes only in 2 variants: Individual and Bar"
+  },
+  {
+    "input": "How many variants are there of Ding Dong?",
+    "output": "Ding Dong comes only in 2 variants: Individual and Bar"
+  },
+  {
+    "input": "How many variants are there of Boom Boom?",
+    "output": "Boom Boom comes only in 2 variants: Individual and Bar"
+  },
+  {
+    "input": "How many variants are there of Fresh up?",
+    "output": "Fresh up comes only in 2 variants: Individual and Bar"
+  },
+  {
+    "input": "How many variants are there of Lays?",
+    "output": "Lays comes in 4 variants: Small, Medium, Large and Extra Large (Family)"
+  },
+  {
+    "input": "How many variants are there of Wavy?",
+    "output": "Wavy comes in 4 variants: Small, Medium, Large and Extra Large (Family)"
+  },
+  {
+    "input": "How many variants are there of Slanty?",
+    "output": "Slanty comes in 4 variants: Small, Medium, Large and Extra Large (Family)"
+  },
+  {
+    "input": "How many variants are there of Kurkure?",
+    "output": "Kurkure comes in 4 variants: Small, Medium, Large and Extra Large (Family)"
+  },
+  {
+    "input": "How many variants are there of Kurleez?",
+    "output": "Kurleez comes in 4 variants: Small, Medium, Large and Extra Large (Family)"
+  },
+  {
+    "input": "How many variants are there of Cheetos?",
+    "output": "Cheetos comes in 4 variants: Small, Medium, Large and Extra Large (Family)"
+  },
+  {
+    "input": "How many variants are there of Patti Fry?",
+    "output": "Patti Fry comes in 4 variants: Small, Medium, Large and Extra Large (Family)"
+  },
+  {
+    "input": "How many variants are there of Finger Fries?",
+    "output": "Finger Fries comes in 4 variants: Small, Medium, Large and Extra Large (Family)"
+  },
+  {
+    "input": "How many variants are there of Snackers?",
+    "output": "Snackers comes in 4 variants: Small, Medium, Large and Extra Large (Family)"
+  },
+  {
+    "input": "How many variants are there of Pingos?",
+    "output": "Pingos comes in 4 variants: Small, Medium, Large and Extra Large (Family)"
+  },
+  {
+    "input": "How many variants are there of Tikka Boti?",
+    "output": "Tikka Boti comes in 4 variants: Small, Medium, Large and Extra Large (Family)"
+  },
+  {
+    "input": "How many variants are there of Chicken Maza?",
+    "output": "Chicken Maza comes in 4 variants: Small, Medium, Large and Extra Large (Family)"
+  },
+  {
+    "input": "How many variants are there of Fillz?",
+    "output": "Fillz comes in 4 variants: Small, Medium, Large and Extra Large (Family)"
+  },
+  {
+    "input": "How many variants are there of Pop Star?",
+    "output": "Pop Star comes in 4 variants: Small, Medium, Large and Extra Large (Family)"
+  },
+  {
+    "input": "How many variants are there of Cheese Balls?",
+    "output": "Cheese Balls comes in 2 variants: Small and Large"
+  },
+  {
+    "input": "How many variants are there of Chillz?",
+    "output": "Chillz comes in 4 variants: Small, Medium, Large and Extra Large (Family)"
+  },
+  {
+    "input": "How many variants are there of Potato Sticks?",
+    "output": "Potato Sticks comes in 4 variants: Small, Medium, Large and Extra Large (Family)"
+  },
+  {
+    "input": "How many variants are there of Potato Snacks?",
+    "output": "Potato Snacks comes in 4 variants: Small, Medium, Large and Extra Large (Family)"
+  },
+  {
+    "input": "How many variants are there of Pringles?",
+    "output": "Pringles comes in 4 variants: Small, Medium, Large and Extra Large (Family)"
+  },
+  {
+    "input": "How many variants are there of Now?",
+    "output": "Now comes in 2 variants: Small and Large"
+  },
+  {
+    "input": "How many variants are there of Paradise?",
+    "output": "Paradise comes in 2 variants: Small and Large"
+  },
+  {
+    "input": "How many variants are there of Jubilee?",
+    "output": "Jubilee comes in 2 variants: Small and Large"
+  },
+  {
+    "input": "How many variants are there of Sonnet?",
+    "output": "Sonnet comes in 2 variants: Small and Large"
+  },
+  {
+    "input": "How many variants are there of Snickers?",
+    "output": "Snickers comes in 1 variant"
+  },
+  {
+    "input": "How many variants are there of Dairy Milk?",
+    "output": "Dairy Milk comes in 3 variants: Small (Mini), Medium (Standard) and Large"
+  },
+  {
+    "input": "How many variants are there of Bisca?",
+    "output": "Bisca comes in 2 variants: Small and Large"
+  },
+  {
+    "input": "How many variants are there of Caramel?",
+    "output": "Caramel comes in 2 variants: Small and Large"
+  },
+  {
+    "input": "How many variants are there of You?",
+    "output": "You comes in 2 variants: Small and Large"
+  },
+  {
+    "input": "How many variants are there of Hiss?",
+    "output": "Hiss comes in 1 variant"
+  },
+  {
+    "input": "How many variants are there of Bittens?",
+    "output": "Bittens comes in 3 variants: Small (Individual bars) and Large (Munch packs) Medium (Boxes)"
+  },
+  {
+    "input": "How many variants are there of Mars?",
+    "output": "Mars comes in 1 variants"
+  },
+  {
+    "input": "How many variants are there of KitKat?",
+    "output": "KitKat comes in 2 variants: Small (Chunky) and Large (Four-finger bar) , Medium (Two-finger bar)"
+  },
+  {
+    "input": "How many variants are there of Opus?",
+    "output": "Opus comes in 2 variants: Small and Large"
+  },
+  {
+    "input": "How many variants are there of Capstan?",
+    "output": "There are no variants (sizes) of Capstan"
+  },
+  {
+    "input": "How many variants are there of Gold Leaf?",
+    "output": "There are no variants (sizes) of Gold Leaf"
+  },
+  {
+    "input": "How many variants are there of Gold Flake?",
+    "output": "There are no variants (sizes) of Gold Flake"
+  },
+  {
+    "input": "How many variants are there of Dunhill?",
+    "output": "There are no variants (sizes) of Dunhill"
+  },
+  {
+    "input": "How many variants are there of Morven Gold?",
+    "output": "There are no variants (sizes) of Morven Gold"
+  },
+  {
+    "input": "How many variants are there of John Player?",
+    "output": "There are no variants (sizes) of John Player"
+  },
+  {
+    "input": "How many variants are there of Marlobolo Crafted?",
+    "output": "There are no variants (sizes) of Marlobolo Crafted"
+  },
+  {
+    "input": "How many variants are there of Pine?",
+    "output": "There are no variants (sizes) of Pine"
+  },
+  {
+    "input": "How many variants are there of Dot?",
+    "output": "There are no variants (sizes) of Dot"
+  },
+  {
+    "input": "How many variants are there of Josh?",
+    "output": "There are no variants (sizes) of Josh"
+  },
+  {
+    "input": "How many variants are there of Durex?",
+    "output": "There are no variants (sizes) of Durex"
+  },
+  {
+    "input": "How many variants are there of Sathi?",
+    "output": "There are no variants (sizes) of Sathi"
+  },
+  {
+    "input": "How many variants are there of Touch?",
+    "output": "There are no variants (sizes) of Touch"
+  },
+  {
+    "input": "How many variants are there of Blueband?",
+    "output": "There are no variants (sizes) of Blueband"
+  },
+  {
+    "input": "How many variants are there of Olpers Cream?",
+    "output": "There are no variants (sizes) of Olpers Cream"
+  },
+  {
+    "input": "How many variants are there of Milkpak Cream?",
+    "output": "There are no variants (sizes) of Milkpak Cream"
+  },
+  {
+    "input": "How many variants are there of Nurpur Cream?",
+    "output": "There are no variants (sizes) of Nurpur Cream"
+  },
+  {
+    "input": "How many variants are there of Jelly Banana?",
+    "output": "Jelly Banana comes in 2 variants: Sachet and Packet"
+  },
+  {
+    "input": "How many variants are there of Jelly Mixed Fruit?",
+    "output": "Jelly Mixed Fruit comes in 2 variants: Sachet and Packet"
+  },
+  {
+    "input": "How many variants are there of Sunlight?",
+    "output": "Sunlight comes in 3 variants: Small, Half kg (500mg) and 1 kg (1000mg)"
+  },
+  {
+    "input": "How many variants are there of Bonus?",
+    "output": "Bonus comes in 3 variants: Small, Half kg (500mg) and 1 kg (1000mg)"
+  },
+  {
+    "input": "How many variants are there of Ariel?",
+    "output": "Ariel comes in 3 variants: Small, Half kg (500mg) and 1 kg (1000mg)"
+  },
+  {
+    "input": "How many variants are there of Surf Excel?",
+    "output": "Surf Excel comes in 3 variants: Small, Half kg (500mg) and 1 kg (1000mg)"
+  },
+  {
+    "input": "How many variants are there of Brite?",
+    "output": "Brite comes in 3 variants: Small, Half kg (500mg) and 1 kg (1000mg)"
+  },
+  {
+    "input": "How many variants are there of Express Power?",
+    "output": "Express Power comes in 3 variants: Small, Half kg (500mg) and 1 kg (1000mg)"
+  },
+  {
+    "input": "How many variants are there of Pampers?",
+    "output": "Pampers comes in 4 variants: New Born, Small (S), Large (L) and Extra Large (XL)"
+  },
+  {
+    "input": "How many variants are there of Bona Papa?",
+    "output": "Bona Papa comes in 4 variants: New Born, Small (S), Large (L) and Extra Large (XL)"
+  },
+  {
+    "input": "How many variants are there of Canbebe?",
+    "output": "Canbebe comes in 4 variants: New Born, Small (S), Large (L) and Extra Large (XL)"
+  },
+  {
+    "input": "How many variants are there of Royal Ozone?",
+    "output": "Royal Ozone comes in 4 variants: New Born, Small (S), Large (L) and Extra Large (XL)"
+  },
+  {
+    "input": "How many variants are there of Gastril?",
+    "output": "There are no variants (sizes) of Gastril?"
+  },
+  {
+    "input": "How many variants are there of Vermicelli?",
+    "output": "Vermicelli comes in 3 variants: Small (Sachet), Medium (1 kg) and Large (2 kg)."
+  },
+  {
+    "input": "How many variants are there of Quorma?",
+    "output": "Quorma comes in 3 variants: Small (Sachet), Medium (1 kg) and Large (2 kg)."
+  },
+  {
+    "input": "How many variants are there of Biryani?",
+    "output": "Biryani comes in 3 variants: Small (Sachet), Medium (1 kg) and Large (2 kg)."
+  },
+  {
+    "input": "How many variants are there of Coriander?",
+    "output": "Coriander comes in 3 variants: Small (Sachet), Medium (1 kg) and Large (2 kg)."
+  },
+  {
+    "input": "How many variants are there of Kasuri Methi?",
+    "output": "Kasuri Methi comes in 3 variants: Small (Sachet), Medium (1 kg) and Large (2 kg)."
+  },
+  {
+    "input": "How many variants are there of Garam Masala?",
+    "output": "Garam Masala comes in 3 variants: Small (Sachet), Medium (1 kg) and Large (2 kg)."
+  },
+  {
+    "input": "How many variants are there of Bombay Biryani?",
+    "output": "Bombay Biryani comes in 3 variants: Small (Sachet), Medium (1 kg) and Large (2 kg)."
+  },
+  {
+    "input": "How many variants are there of Pebbles?",
+    "output": "Pebbles comes in 1 variant"
+  },
+  {
+    "input": "How many variants are there of Wobbly?",
+    "output": "Wobbly comes in 1 variant"
+  },
+  {
+    "input": "How many variants are there of Peach Jelly?",
+    "output": "Peach Jelly comes in 1 variant"
+  },
+  {
+    "input": "How many variants are there of Gummy Bear?",
+    "output": "Gummy Bear comes in 1 variant"
+  },
+  {
+    "input": "How many variants are there of Jelly Fish?",
+    "output": "Jelly Fish comes in 1 variant"
+  },
+  {
+    "input": "How many variants are there of Jello Bello?",
+    "output": "Jello Bello comes in 1 variant"
+  },
+  {
+    "input": "How many variants are there of Berries?",
+    "output": "Berries comes in 1 variant"
+  },
+  {
+    "input": "How many variants are there of Jelly Strawberry?",
+    "output": "Jelly Strawberry comes in 1 variant"
+  },
+  {
+    "input": "How many variants are there of Amrood Jelly?",
+    "output": "Amrood Jelly comes in 1 variant"
+  },
+  {
+    "input": "How many variants are there of Fizzi O?",
+    "output": "Fizzi O comes in 1 variant"
+  },
+  {
+    "input": "How many variants are there of Anda?",
+    "output": "Anda comes in 1 variant"
+  },
+  {
+    "input": "How many variants are there of ABC?",
+    "output": "ABC comes in 1 variant"
+  },
+  {
+    "input": "How many variants are there of Chilli Milli?",
+    "output": "Chilli Milli comes in 1 variant"
+  },
+  {
+    "input": "How many variants are there of Twisto?",
+    "output": "Twisto comes in 1 variant"
+  },
+  {
+    "input": "How many variants are there of Polly?",
+    "output": "Polly comes in 2 variants: Small , and Large (1 Litre)."
+  },
+  {
+    "input": "How many variants are there of Fruita Vitals Apple?",
+    "output": "Fruita Vitals Apple comes in 2 variants: Small , and Large (1 Litre)."
+  },
+  {
+    "input": "How many variants are there of Fruita Vitals Red Anaar?",
+    "output": "Fruita Vitals Red Anaar comes in 2 variants: Small , and Large (1 Litre)."
+  },
+  {
+    "input": "How many variants are there of Pakola?",
+    "output": "Pakola comes in 2 variants: Small , and Large (1 Litre)."
+  },
+  {
+    "input": "How many variants are there of Rani Peach?",
+    "output": "Rani Peach comes in 2 variants: Small , and Large (1 Litre)."
+  },
+  {
+    "input": "How many variants are there of Rani Orange?",
+    "output": "Rani Orange comes in 2 variants: Small , and Large (1 Litre)."
+  },
+  {
+    "input": "How many variants are there of Nesfruita?",
+    "output": "Nesfruita comes in 2 variants: Small , and Large (1 Litre)."
+  },
+  {
+    "input": "How many variants are there of Slice?",
+    "output": "Slice comes in 2 variants: Small , and Large (1 Litre)."
+  },
+  {
+    "input": "How many variants are there of Nesfruita Red Grapes?",
+    "output": "Nesfruita Red Grapes comes in 2 variants: Small , and Large (1 Litre)."
+  },
+  {
+    "input": "How many variants are there of Chilli Garlic Sauce?",
+    "output": "Chilli Garlic Sauce comes in 3 variants: Small (Sachet), Medium (Half kg) and Large (1 kg)."
+  },
+  {
+    "input": "How many variants are there of Tomato Ketchup?",
+    "output": "Tomato Ketchup comes in 3 variants: Small (Sachet), Medium (Half kg) and Large (1 kg)."
+  },
+  {
+    "input": "How many variants are there of Nurpur?",
+    "output": "Nurpur comes in 3 variants: Small (250mg), Medium (1 Litre) and Large (1.5 Litre)."
+  },
+  {
+    "input": "How many variants are there of Olpers?",
+    "output": "Olpers comes in 3 variants: Small (250mg), Medium (1 Litre) and Large (1.5 Litre)."
+  },
+  {
+    "input": "How many variants are there of Dostea?",
+    "output": "Dostea comes in 3 variants: Small (250mg), Medium (1 Litre) and Large (1.5 Litre)."
+  },
+  {
+    "input": "How many variants are there of Milkpak?",
+    "output": "Milkpak comes in 3 variants: Small (250mg), Medium (1 Litre) and Large (1.5 Litre)."
+  },
+  {
+    "input": "How many variants are there of Tarang?",
+    "output": "Tarang comes in 3 variants: Small (250mg), Medium (1 Litre) and Large (1.5 Litre)."
+  },
+  {
+    "input": "How many variants are there of Adaab?",
+    "output": "There are no variants (sizes) of Adaab"
+  },
+  {
+    "input": "How many variants are there of Rajni?",
+    "output": "There are no variants (sizes) of Rajni"
+  },
+  {
+    "input": "How many variants are there of Pan Parag?",
+    "output": "There are no variants (sizes) of Pan Parag"
+  },
+  {
+    "input": "How many variants are there of Mughlia?",
+    "output": "Mughlia comes in 2 variants: Small and Large"
+  },
+  {
+    "input": "How many variants are there of Lunch Time?",
+    "output": "Lunch Time comes in 2 variants: Small and Large"
+  },
+  {
+    "input": "How many variants are there of Ballay Ballay?",
+    "output": "Ballay Ballay comes in 2 variants: Small and Large"
+  },
+  {
+    "input": "How many variants are there of Salva?",
+    "output": "Salva comes in 2 variants: Small and Large"
+  },
+  {
+    "input": "How many variants are there of Shoop Chicken?",
+    "output": "Shoop Chicken comes in 2 variants: Small and Large"
+  },
+  {
+    "input": "How many variants are there of Knor Chicken?",
+    "output": "Knor Chicken comes in 2 variants: Small and Large"
+  },
+  {
+    "input": "How many variants are there of Shoop Chatpata?",
+    "output": "Shoop Chatpata comes in 2 variants: Small and Large"
+  },
+  {
+    "input": "How many variants are there of Knor Chatpata?",
+    "output": "Knor Chatpata comes in 2 variants: Small and Large"
+  },
+  {
+    "input": "How many variants are there of Dalda?",
+    "output": "Dalda comes in 3 variants: Small (1 Litre), Medium (2.5 Litre) and Large (5 Litre)."
+  },
+  {
+    "input": "How many variants are there of Kisan?",
+    "output": "Kisan comes in 3 variants: Small (1 Litre), Medium (2.5 Litre) and Large (5 Litre)."
+  },
+  {
+    "input": "How many variants are there of Habib?",
+    "output": "Habib comes in 3 variants: Small (1 Litre), Medium (2.5 Litre) and Large (5 Litre)."
+  },
+  {
+    "input": "How many variants are there of Tullo?",
+    "output": "Tullo comes in 3 variants: Small (1 Litre), Medium (2.5 Litre) and Large (5 Litre)."
+  },
+  {
+    "input": "How many variants are there of Sufi?",
+    "output": "Sufi comes in 3 variants: Small (1 Litre), Medium (2.5 Litre) and Large (5 Litre)."
+  },
+  {
+    "input": "How many variants are there of Manpasand?",
+    "output": "Manpasand comes in 3 variants: Small (1 Litre), Medium (2.5 Litre) and Large (5 Litre)."
+  },
+  {
+    "input": "How many variants are there of Golden Sun?",
+    "output": "Golden Sun comes in 3 variants: Small (1 Litre), Medium (2.5 Litre) and Large (5 Litre)."
+  },
+  {
+    "input": "How many variants are there of Meezan?",
+    "output": "Meezan comes in 3 variants: Small (1 Litre), Medium (2.5 Litre) and Large (5 Litre)."
+  },
+  {
+    "input": "How many variants are there of Soya Supreme?",
+    "output": "Soya Supreme comes in 3 variants: Small (1 Litre), Medium (2.5 Litre) and Large (5 Litre)."
+  },
+  {
+    "input": "How many variants are there of Kiran?",
+    "output": "Kiran comes in 3 variants: Small (1 Litre), Medium (2.5 Litre) and Large (5 Litre)."
+  },
+  {
+    "input": "How many variants are there of Sultan?",
+    "output": "Sultan comes in 3 variants: Small (1 Litre), Medium (2.5 Litre) and Large (5 Litre)."
+  },
+  {
+    "input": "How many variants are there of Mixed Pickle?",
+    "output": "Mixed Pickle comes in 2 variants: Sachet (Small) and Jar (Large)"
+  },
+  {
+    "input": "How many variants are there of Treet?",
+    "output": "There are no variants (sizes) of Treet"
+  },
+  {
+    "input": "How many variants are there of Trig?",
+    "output": "There are no variants (sizes) of Trig"
+  },
+  {
+    "input": "How many variants are there of Gillete?",
+    "output": "There are no variants (sizes) of Gillete"
+  },
+  {
+    "input": "How many variants are there of Butterfly?",
+    "output": "Butterfly comes in only in 1 variant"
+  },
+  {
+    "input": "How many variants are there of Always?",
+    "output": "Always comes in only in 1 variant"
+  },
+  {
+    "input": "How many variants are there of Embrace?",
+    "output": "Embrace comes in only in 1 variant"
+  },
+  {
+    "input": "How many variants are there of Sunsilk?",
+    "output": "Sunsilk comes in 3 variants (sizes) of: Sachet, Small and Large."
+  },
+  {
+    "input": "How many variants are there of Head n Shoulder?",
+    "output": "Head n Shoulder comes in 3 variants (sizes) of: Sachet, Small and Large."
+  },
+  {
+    "input": "How many variants are there of Tresseme?",
+    "output": "Tresseme comes in 2 variants (sizes) of: Small and Large."
+  },
+  {
+    "input": "How many variants are there of Lifebouy Shampoo?",
+    "output": "Lifebouy Shampoo comes in 3 variants (sizes) of: Sachet, Small and Large."
+  },
+  {
+    "input": "How many variants are there of Clear?",
+    "output": "Clear comes in 3 variants (sizes) of: Sachet, Small and Large."
+  },
+  {
+    "input": "How many variants are there of Power Plus?",
+    "output": "Power Plus comes in 2 variants: Small and Large"
+  },
+  {
+    "input": "How many variants are there of Kiwi?",
+    "output": "Kiwi comes in 2 variants: Small and Large"
+  },
+  {
+    "input": "How many variants are there of Cherry Blososom?",
+    "output": "Cherry Blososom comes in 2 variants: Small and Large"
+  },
+  {
+    "input": "How many variants are there of Lifebouy?",
+    "output": "Lifebouy comes in 2 variants: Small and Large"
+  },
+  {
+    "input": "How many variants are there of Hari?",
+    "output": "Hari comes in 2 variants: Small and Large"
+  },
+  {
+    "input": "How many variants are there of Safeguard?",
+    "output": "Safeguard comes in 2 variants: Small and Large"
+  },
+  {
+    "input": "How many variants are there of Pears?",
+    "output": "Pears comes in 2 variants: Small and Large"
+  },
+  {
+    "input": "How many variants are there of Tibet?",
+    "output": "Tibet comes in 2 variants: Small and Large"
+  },
+  {
+    "input": "How many variants are there of Palmolive?",
+    "output": "Palmolive comes in 2 variants: Small and Large"
+  },
+  {
+    "input": "How many variants are there of Dettol?",
+    "output": "Dettol comes in 2 variants: Small and Large"
+  },
+  {
+    "input": "How many variants are there of Lux?",
+    "output": "Lux comes in 2 variants: Small and Large"
+  },
+  {
+    "input": "How many variants are there of Dove?",
+    "output": "Dove comes in 2 variants: Small and Large"
+  },
+  {
+    "input": "How many variants are there of Lemon Max?",
+    "output": "Lemon Max comes in 2 variants: Small and Large"
+  },
+  {
+    "input": "How many variants are there of Care?",
+    "output": "Care comes in 2 variants: Small and Large"
+  },
+  {
+    "input": "How many variants are there of Capri?",
+    "output": "Capri comes in 2 variants: Small and Large"
+  },
+  {
+    "input": "How many variants are there of Lara?",
+    "output": "Lara comes in 2 variants: Small and Large"
+  },
+  {
+    "input": "How many variants are there of Mountain Dew?",
+    "output": "Mountain Dew comes in 5 variants (sizes) of: Cans, Small, 500ml, 1.5l and 2.25l."
+  },
+  {
+    "input": "How many variants are there of Fizz Up?",
+    "output": "Fizz Up comes in 5 variants (sizes) of: Cans, Small, 500ml, 1.5l and 2.25l."
+  },
+  {
+    "input": "How many variants are there of Pepsi Diet?",
+    "output": "Pepsi Diet comes in 5 variants (sizes) of: Cans, Small, 500ml, 1.5l and 2.25l."
+  },
+  {
+    "input": "How many variants are there of Sting?",
+    "output": "Sting comes in 5 variants (sizes) of: Cans, Small, 500ml, 1.5l and 2.25l."
+  },
+  {
+    "input": "How many variants are there of Mirinda?",
+    "output": "Mirinda comes in 5 variants (sizes) of: Cans, Small, 500ml, 1.5l and 2.25l."
+  },
+  {
+    "input": "How many variants are there of Fanta?",
+    "output": "Fanta comes in 5 variants (sizes) of: Cans, Small, 500ml, 1.5l and 2.25l."
+  },
+  {
+    "input": "How many variants are there of 7Up?",
+    "output": "7Up comes in 5 variants (sizes) of: Cans, Small, 500ml, 1.5l and 2.25l."
+  },
+  {
+    "input": "How many variants are there of Sprite?",
+    "output": "Sprite comes in 5 variants (sizes) of: Cans, Small, 500ml, 1.5l and 2.25l."
+  },
+  {
+    "input": "How many variants are there of Coca Cola?",
+    "output": "Coca Cola comes in 5 variants (sizes) of: Cans, Small, 500ml, 1.5l and 2.25l."
+  },
+  {
+    "input": "How many variants are there of Pepsi?",
+    "output": "Pepsi comes in 5 variants (sizes) of: Cans, Small, 500ml, 1.5l and 2.25l."
+  },
+  {
+    "input": "How many variants are there of Cola Next?",
+    "output": "Cola Next comes in 5 variants (sizes) of: Cans, Small, 500ml, 1.5l and 2.25l."
+  },
+  {
+    "input": "How many variants are there of Rajput?",
+    "output": "There are no variants (sizes) of Rajput"
+  },
+  {
+    "input": "How many variants are there of Jambola?",
+    "output": "There are no variants (sizes) of Jambola"
+  },
+  {
+    "input": "How many variants are there of Tara?",
+    "output": "There are no variants (sizes) of Tara"
+  },
+  {
+    "input": "How many variants are there of Dillagi?",
+    "output": "There are no variants (sizes) of Dillagi"
+  },
+  {
+    "input": "How many variants are there of Tasty Gold?",
+    "output": "There are no variants (sizes) of Tasty Gold"
+  },
+  {
+    "input": "How many variants are there of Andlip?",
+    "output": "There are no variants (sizes) of Andlip"
+  },
+  {
+    "input": "How many variants are there of Hum Tum?",
+    "output": "There are no variants (sizes) of Hum Tum"
+  },
+  {
+    "input": "How many variants are there of Naz?",
+    "output": "There are no variants (sizes) of Naz"
+  },
+  {
+    "input": "How many variants are there of Sanam Gold?",
+    "output": "There are no variants (sizes) of Sanam Gold"
+  },
+  {
+    "input": "How many variants are there of Tulsi?",
+    "output": "There are no variants (sizes) of Tulsi"
+  },
+  {
+    "input": "How many variants are there of Shahi Deluxe?",
+    "output": "There are no variants (sizes) of Shahi Deluxe"
+  },
+  {
+    "input": "How many variants are there of Kashmiri Gold?",
+    "output": "There are no variants (sizes) of Kashmiri Gold"
+  },
+  {
+    "input": "How many variants are there of Jam e shirin?",
+    "output": "Jam e shirin comes in 2 variants: Small and Large"
+  },
+  {
+    "input": "How many variants are there of Pakola?",
+    "output": "Pakola comes in 2 variants: Small and Large"
+  },
+  {
+    "input": "How many variants are there of Quice?",
+    "output": "Quice comes in 2 variants: Small and Large"
+  },
+  {
+    "input": "How many variants are there of Vital?",
+    "output": "Vital comes in 3 variants: Small (Sachet), Medium (Pouch) and Large (Jar)."
+  },
+  {
+    "input": "How many variants are there of Green Tea?",
+    "output": "Green Tea comes in 3 variants: Small (Sachet), Medium (Pouch) and Large (Jar)."
+  },
+  {
+    "input": "How many variants are there of Lipton?",
+    "output": "Lipton comes in 3 variants: Small (Sachet), Medium (Pouch) and Large (Jar)."
+  },
+  {
+    "input": "How many variants are there of Tapal Danedar?",
+    "output": "Tapal Danedar comes in 3 variants: Small (Sachet), Medium (Pouch) and Large (Jar)."
+  },
+  {
+    "input": "How many variants are there of Supreme?",
+    "output": "Supreme comes in 3 variants: Small (Sachet), Medium (Pouch) and Large (Jar)."
+  },
+  {
+    "input": "How many variants are there of Colgate?",
+    "output": "Colgate comes in 3 variants: Small, Medium and Family (Large)"
+  },
+  {
+    "input": "How many variants are there of Sensodyne?",
+    "output": "Sensodyne comes in 3 variants: Small, Medium and Family (Large)"
+  },
+  {
+    "input": "How many variants are there of Paradontax?",
+    "output": "Paradontax comes in 3 variants: Small, Medium and Family (Large)"
+  },
+  {
+    "input": "How many variants are there of Doctor?",
+    "output": "Doctor comes in 3 variants: Small, Medium and Family (Large)"
+  },
+  {
+    "input": "How many variants are there of Synthetic Vinegar?",
+    "output": "Synthetic Vinegar comes in 2 variants: Small and Large"
+  },
+  {
+    "input": "How many variants are there of Novita Orange?",
+    "output": "Novita Orange comes in 2 variants: Small and Large."
+  },
+  {
+    "input": "How many variants are there of Novita Chocolate?",
+    "output": "Novita Chocolate comes in 2 variants: Small and Large."
+  },
+  {
+    "input": "How many variants are there of Wispy?",
+    "output": "Wispy comes in 2 variants: Small and Large."
+  },
+  {
+    "input": "How many variants are there of Frisky?",
+    "output": "Frisky comes in 2 variants: Small and Large."
+  },
+  {
+    "input": "How many variants are there of Nestle pure life?",
+    "output": "Nestle pure life comes in 3 variants (sizes) of: 500ml, 1.5 litre and 5 litres."
+  },
+  {
+    "input": "How many variants are there of Aquafina?",
+    "output": "Aquafina comes in 3 variants (sizes) of: 500ml, 1.5 litre and 5 litres."
+  },
+  {
+    "input": "How many variants are there of Atco?",
+    "output": "Atco comes in 3 variants (sizes) of: 500ml, 1.5 litre and 5 litres."
+  }
 ]
