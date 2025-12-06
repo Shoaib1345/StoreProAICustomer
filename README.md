@@ -1,4 +1,5 @@
-# Text-to-Speech-
+# Store Pro AI Customer
+is a chatbot designed for small general shops to deal with regular basic queries like types of products, variants, prices
 
 # How to run the application
 ```
