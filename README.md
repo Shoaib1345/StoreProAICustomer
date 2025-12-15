@@ -16,6 +16,7 @@ pip install flask
 ```
 ```
 pip install sentence-transformers
+pip install requirement
 ```
 
 
